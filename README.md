@@ -1,6 +1,6 @@
 # Food-eaten-in-India
 
-A relational database of Indian culinary recipes containing 309 unique entries. This dataset is designed to address a common gap in mainstream culinary datasets: while major food databases focus primarily on widely commercialized Indian dishes, this dataset documents local, regional, indigenous, and tribal preparations alongside popular national staples.
+A relational database of Indian culinary recipes containing unique regional entries. This dataset is designed to address a common gap in mainstream culinary datasets: while major food databases focus primarily on widely commercialized Indian dishes, this dataset documents local, regional, indigenous, and tribal preparations alongside popular national staples.
 
 The dataset is divided into four relational CSV files: `recipes.csv`, `ingredients.csv`, `instructions.csv`, and `regions.csv`.
 
@@ -18,33 +18,35 @@ The dataset is divided into four relational CSV files: `recipes.csv`, `ingredien
 
 Standard Indian food datasets frequently omit the culinary traditions of forest-dwelling, pastoralist, and indigenous communities. This dataset captures both mainstream staples and highly localized preparations—such as Gond *Kikad Roti*, Mising *Namsing Chutney*, Toda *Othidvar*, and Apatani *Chura Sabji*.
 
+<!-- STATS_START -->
 ### Key Statistics
-* **Total Recipes:** 309
-* **Popular / Mainstream Dishes:** 135 (e.g., *Butter Chicken*, *Hyderabadi Biryani*, *Dosa*)
-* **Strictly Regional, Indigenous, or Tribal Dishes:** 174 (e.g., *Santhal Laad*, *Garo Na'kam Bitchi*, *Bhotia Champain*)
+* **Total Recipes:** 305
+* **Popular / Mainstream Dishes:** 134
+* **Strictly Regional, Indigenous, or Tribal Dishes:** 171
 * **Dietary Classification:**
-  * Vegetarian Dishes: 184
-  * Non-Vegetarian Dishes (Meat, Fish, Egg, or Insect): 125
+  * Vegetarian Dishes: 198
+  * Non-Vegetarian Dishes (Meat, Fish, Egg, or Insect): 107
 
 ### Regional & Tribal Breakdown
 Recipes are mapped to specific regional codes (states, territories, or classifications). A single recipe may map to multiple regions if shared across borders:
 
 | Region/State Code | Region/State/Territory Name | Unique Recipe Count | Notable Tribal / Local Examples |
 |:---|:---|:---:|:---|
-| **popular** | Pan-Indian / Highly Commercialized | 135 | *Chole Bhature, Palak Paneer, Masala Chai* |
-| **AN / LAN** | Andaman & Nicobar Islands (Settler & Indigenous) | 7 | *Coconut Prawn Curry, Larop (Pandanus Dough)* |
-| **AP** | Andhra Pradesh | 13 | *Gongura Mamsam, Karsi Dumpa (Koya Tuber)* |
+| **popular** | Pan-Indian / Highly Commercialized | 134 | *Chole Bhature, Palak Paneer, Masala Chai* |
+| **AN / LAN** | Andaman & Nicobar Islands (Settler & Indigenous) | 8 | *Coconut Prawn Curry, Larop (Pandanus Dough)* |
+| **AP / TG** | Andhra Pradesh & Telangana | 15 | *Gongura Mamsam, Karsi Dumpa (Koya Tuber)* |
 | **AR** | Arunachal Pradesh (Adi, Nyishi, Apatani) | 8 | *Pasa (Raw Fish Soup), Pikey Pila* |
-| **AS** | Assam (Bodo, Mising, Karbi) | 9 | *Onla (Rice Powder Curry), Samo Sobai (Snails)* |
-| **BR / JH** | Bihar & Jharkhand (Santhal, Oraon) | 22 | *Leto, Rugra Curry (Subterranean Mushroom)* |
+| **AS** | Assam (Bodo, Mising, Karbi) | 8 | *Onla (Rice Powder Curry), Samo Sobai (Snails)* |
+| **BR / JH / OR** | Bihar, Jharkhand & Odisha (Santhal, Oraon, Saora) | 18 | *Leto, Rugra Curry, Kai Chutney* |
 | **CT** | Chhattisgarh | 8 | *Chaprah (Red Ant Chutney), Sikiya Kheer* |
-| **GA** | Goa | 4 | *Goan Fish Curry, Sorpotel, Lapsi* |
-| **GJ / MP / RJ** | West & Central (Dhodia, Baiga, Bhil, Gond) | 20 | *Paniya, Putpuda Chicken Stew, Dal Baati* |
-| **HP** | Himachal Pradesh (Gaddi) | 12 | *Siddu, Chha Gosht (Buttermilk Mutton)* |
-| **JK / ML / NL / MZ** | Himalayan & Northeast Hills (Khasi, Naga, Mizo) | 39 | *Jadoh, Vawksa Rep, Smoked Pork with Axone* |
-| **KA / KL / TN / TG** | South India (Kodava, Nilgiri, Chenchu) | 29 | *Pandi Curry, Othidvar, Wild Greens Sambar* |
+| **GA** | Goa | 5 | *Goan Fish Curry, Sorpotel, Lapsi* |
+| **GJ / MP / RJ / MH** | West & Central (Dhodia, Baiga, Bhil, Gond, Warli) | 18 | *Paniya, Putpuda Chicken Stew, Dal Baati* |
+| **HP** | Himachal Pradesh (Gaddi) | 11 | *Siddu, Chha Gosht (Buttermilk Mutton)* |
+| **JK / ML / NL / MZ / MN** | Himalayan & Northeast Hills (Khasi, Naga, Mizo, Manipuri) | 42 | *Jadoh, Vawksa Rep, Smoked Pork with Axone* |
+| **KA / KL / TN** | South India (Kodava, Nilgiri, Chenchu) | 16 | *Pandi Curry, Othidvar, Wild Greens Sambar* |
 | **SK** | Sikkim | 9 | *Phagshapa (Pork Fat Stew), Gundruk ko Jhol* |
-| **TR / UT / WB** | Tripura, Uttarakhand & West Bengal | 20 | *Chakhwi, Shile Kutu, Hisa Aara Sipi* |
+| **TR / UT / WB** | Tripura, Uttarakhand & West Bengal | 23 | *Chakhwi, Shile Kutu, Hisa Aara Sipi* |
+<!-- STATS_END -->
 
 ---
 
@@ -75,7 +77,8 @@ Contains the core metadata for each dish.
 * `Total Active Time`: Hands-on prep time in seconds. `-1` denotes unavailable values (e.g., traditional fermented spirits).
 * `Total Passive Time`: Hands-off resting/marination/cooking time in seconds.
 * `Total Steps`: Integer count of chronological instructions.
-* `Warning` / `Extra Info`: Important notes regarding historical legalities (e.g., sea turtle eggs), toxicity management, or cooking techniques.
+* `Warning`: Important warnings (e.g., legal restrictions, toxicity management instructions).
+* `Extra Info`: Additional historical, culinary, or cultural context.
 
 #### 2. `ingredients.csv`
 Lists ingredients required for each recipe.
