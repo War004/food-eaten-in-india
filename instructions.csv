@@ -1,0 +1,1347 @@
+Recipe Id,Step Count,Message,Active time,Passive time
+coconut_prawn_curry,1,Marinate the prawns with a pinch of turmeric and salt.,-1,600
+coconut_prawn_curry,2,Heat coconut oil in a pan. Add mustard seeds and let them splutter. Add the chopped onion and sauté until translucent.,300,-1
+coconut_prawn_curry,3,Add the ginger-garlic paste and sauté for another minute. Add the chopped tomato and cook until soft.,300,-1
+coconut_prawn_curry,4,Stir in the turmeric and red chili powder. Add the marinated prawns and cook for 2-3 minutes until they turn pink.,180,-1
+coconut_prawn_curry,5,"Pour in the thick coconut milk, add salt, and bring to a gentle simmer. Cook for 5-7 minutes. Do not boil vigorously. Serve hot with rice.",420,-1
+macher_jhol,1,Marinate the fish steaks with salt and half the turmeric powder.,-1,600
+macher_jhol,2,Heat mustard oil in a pan until it is lightly smoking. Gently fry the fish steaks on both sides until golden. Remove and set aside.,480,-1
+macher_jhol,3,"In the same oil, add the nigella seeds and slit green chilies.",60,-1
+macher_jhol,4,Add the remaining turmeric and cumin powder with a splash of water to make a paste. Sauté for a minute.,120,-1
+macher_jhol,5,Add about 2 cups of hot water and salt to create a thin broth (jhol). Bring to a boil.,300,-1
+macher_jhol,6,Gently place the fried fish back into the broth. Simmer for 5-7 minutes. Serve hot with steamed rice.,420,-1
+foraged_tuber_meal,1,Thoroughly wash and scrub the wild tubers to remove all dirt.,300,-1
+foraged_tuber_meal,2,"Place the tubers directly into the embers of a fire and roast for 20-30 minutes, turning occasionally, until the skin is charred and the inside is soft.",1800,-1
+foraged_tuber_meal,3,"Alternatively, boil the tubers in water until they are tender.",1500,-1
+foraged_tuber_meal,4,Peel the cooked tubers and eat as a staple meal.,120,-1
+turtle_eggs,1,Gently place the collected eggs in a pot of water.,60,-1
+turtle_eggs,2,Bring the water to a boil and cook for 10-15 minutes.,900,-1
+turtle_eggs,3,The cooked eggs are eaten as a highly nutritious food.,60,-1
+kikad_roti,1,Prepare a firm dough using the flour and water.,480,-1
+kikad_roti,2,"Place a ball of dough on one half of a large leaf, press it flat, and cover it with the other half of the leaf.",360,-1
+kikad_roti,3,"Roast the leaf-wrapped dough directly in the embers of a live fire (or on a dry griddle) for 15-20 minutes, turning once, until the leaf chars and the roti inside is cooked.",1200,-1
+kikad_roti,4,"Carefully remove the bread, discard the burnt leaves, and serve hot with a generous amount of ghee and jaggery.",60,-1
+litti_chokha,1,"Prepare the chokha: Roast the eggplant, tomatoes, and boiled potatoes over an open flame until the skin is charred. Peel and mash them together.",1200,-1
+litti_chokha,2,"Mix the mashed vegetables with mustard oil, chopped garlic, green chilies, and salt to make the chokha. Set aside.",300,-1
+litti_chokha,3,"Prepare the litti filling by mixing sattu with water, pickle masala, and herbs to form a crumbly mixture.",480,-1
+litti_chokha,4,"Knead a firm dough with the wheat flour and water. Make small balls, flatten them, place a spoonful of sattu filling inside, and seal them into round balls.",720,-1
+litti_chokha,5,"Roast the litti balls over hot coals or in an oven, turning frequently, until they are cooked through and firm.",1500,-1
+litti_chokha,6,Crack the hot littis open slightly and dip them generously in melted ghee before serving with the chokha.,120,-1
+jil_pitha,1,"Cook the minced meat with ginger-garlic paste, turmeric, garam masala, and salt until it is cooked through and dry. Let it cool.",1200,-1
+jil_pitha,2,Prepare a soft dough using the rice or millet flour and warm water.,480,-1
+jil_pitha,3,"Thoroughly mix the cooked meat filling into the prepared dough, ensuring it is evenly distributed.",300,-1
+jil_pitha,4,"Take a large portion of the meat-laced dough and shape it into a thick, flat disc.",240,-1
+jil_pitha,5,"Wash the Sal leaves. Place the dough disc inside a parcel made of several layers of leaves, ensuring it is completely encased.",480,-1
+jil_pitha,6,"Slow-cook the entire parcel by roasting it over hot coals or steaming it in an earthen pot for 25-30 minutes, until the dough is firm and cooked through.",1800,-1
+goan_fish_curry,1,"Grind the grated coconut, red chilies, coriander seeds, and a little turmeric with water to make a smooth, fine paste (masala).",600,-1
+goan_fish_curry,2,"In a pot, sauté the chopped onion until translucent.",300,-1
+goan_fish_curry,3,"Add the ground masala paste to the pot and cook for 5 minutes, stirring, until the raw smell disappears.",300,-1
+goan_fish_curry,4,"Add about 2 cups of water, the tamarind pulp or kokum, and salt. Bring the curry to a gentle simmer.",300,-1
+goan_fish_curry,5,Gently place the fish steaks into the simmering curry. Cook for 7-10 minutes until the fish is cooked through. Do not over-stir. Serve hot with steamed rice (Xit).,600,-1
+pork_vindaloo,1,"Soak the dried red chilies in a little vinegar. Grind them with the garlic, ginger, and all the whole spices into a fine, smooth paste, using the vinegar to grind.",1200,-1
+pork_vindaloo,2,"In a large bowl, marinate the pork cubes thoroughly with this vindaloo paste. Cover and refrigerate for at least 24 hours.",-1,86400
+pork_vindaloo,3,"In a heavy-bottomed pot, sauté the chopped onions until golden brown.",600,-1
+pork_vindaloo,4,Add the marinated pork to the pot and sear on all sides.,900,-1
+pork_vindaloo,5,"Add about a cup of water, cover, and let it slow-cook on low heat for 1 to 1.5 hours, or until the pork is very tender and the gravy is thick. Serve with Goan bread (pao).",4500,-1
+lapsi,1,"In a heavy-bottomed pan, heat the ghee and roast the cracked wheat on low heat until it is fragrant and golden brown.",480,-1
+lapsi,2,"Carefully add hot water to the pan. Bring to a boil, then reduce the heat, cover, and cook for 15-20 minutes until the daliya is soft and has absorbed the water.",1200,-1
+lapsi,3,Add the grated jaggery and cardamom powder. Stir well and cook for another 5 minutes until the jaggery has melted and the mixture thickens.,300,-1
+paniya,1,"In a bowl, knead the maize flour with hot water and salt to form a firm but pliable dough.",480,-1
+paniya,2,"Divide the dough into equal portions. Take one portion and flatten it into a thick, round shape on one half of a large leaf.",300,-1
+paniya,3,Fold the other half of the leaf over to completely encase the dough.,60,-1
+paniya,4,"Carefully place the leaf packet directly on slow-burning embers or a very hot, dry griddle (tawa). Cook on low heat for 15-20 minutes, flipping once, until the leaf is charred and the inside is cooked through.",1200,-1
+rabdi_maize,1,Bring the water to a boil in a pot.,300,-1
+rabdi_maize,2,"Slowly add the ground maize to the boiling water, whisking continuously to prevent lumps.",120,-1
+rabdi_maize,3,"Reduce the heat to low and simmer, stirring occasionally, for 15-20 minutes until the maize is cooked and a thick porridge is formed.",1200,-1
+rabdi_maize,4,Remove from heat. Stir in the buttermilk and salt just before serving. Serve warm.,120,-1
+kheer,1,Bring the milk to a boil in a heavy-bottomed pan.,480,-1
+kheer,2,"Add the soaked and drained rice. Reduce heat and simmer, stirring frequently to prevent sticking, for about 25-30 minutes until the rice is completely soft and the mixture has thickened.",1800,-1
+kheer,3,Add sugar and crushed cardamom. Cook for another 5-10 minutes until the sugar has dissolved completely.,600,-1
+kheer,4,Garnish with nuts and serve warm or chilled.,60,-1
+bamboo_shoot_curry,1,Heat mustard oil in a pan. Add mustard seeds and let them crackle.,180,-1
+bamboo_shoot_curry,2,Add chopped garlic and sauté until fragrant.,120,-1
+bamboo_shoot_curry,3,"Add the processed bamboo shoots, turmeric powder, and salt. Stir well.",300,-1
+bamboo_shoot_curry,4,"Cover the pan and cook on low heat for 20-25 minutes, stirring occasionally, until the bamboo shoots are tender. Add a splash of water if it becomes too dry. Serve with rice.",1500,-1
+bisi_bele_bath,1,"In a pressure cooker, cook the rice and toor dal together with turmeric until they are very soft and mushy.",1500,-1
+bisi_bele_bath,2,"In a separate large pot, boil the mixed vegetables in water until they are tender.",900,-1
+bisi_bele_bath,3,Add the cooked rice-dal mixture to the pot with the vegetables. Mix well.,180,-1
+bisi_bele_bath,4,"Stir in the tamarind pulp, jaggery, Bisi Bele Bath spice powder, and salt. Add water to achieve a thick, porridge-like consistency and simmer for 10 minutes.",600,-1
+bisi_bele_bath,5,Prepare a tempering by heating ghee and frying mustard seeds and cashew nuts. Pour this over the rice mixture. Serve hot with a dollop of ghee.,240,-1
+wild_tuber_curry,1,"Ensure the wild tubers are properly identified and processed to remove any toxins, following traditional knowledge. This may involve boiling and draining the water multiple times.",900,-1
+wild_tuber_curry,2,"In a pot, combine the processed and cubed tubers with turmeric powder, chili powder, and salt. Add enough water to cover.",180,-1
+wild_tuber_curry,3,"Bring to a boil, then reduce the heat and simmer for 20-25 minutes, or until the tubers are completely tender and can be easily pierced with a knife.",1500,-1
+wild_tuber_curry,4,Drain any excess water. A small amount of coconut oil can be drizzled over the top before serving hot.,120,-1
+chak_hao_kheer,1,Wash and soak the black rice in water for at least 1-2 hours.,-1,3600
+chak_hao_kheer,2,"In a heavy-bottomed pan, bring the milk to a boil with the bay leaf.",600,-1
+chak_hao_kheer,3,Drain the soaked rice and add it to the boiling milk. Reduce the heat to low.,120,-1
+chak_hao_kheer,4,"Simmer for 45-60 minutes, stirring frequently, until the rice is completely cooked and the milk has thickened and turned a deep purple color.",3600,-1
+chak_hao_kheer,5,Stir in the sugar and cook for another 5-10 minutes until it dissolves. Serve warm or chilled.,600,-1
+galho,1,"Wash the rice. In a large pot, combine the rice, smoked meat, chopped vegetables, ginger, garlic, and salt.",480,-1
+galho,2,Add about 4-5 cups of water and bring to a boil.,600,-1
+galho,3,"Reduce the heat, cover, and let it simmer for 30-40 minutes, stirring occasionally, until the rice is fully cooked and has broken down, and the mixture has a thick, porridge-like consistency.",2100,-1
+jadoh,1,Wash the rice and let it soak for 30 minutes.,-1,1800
+jadoh,2,"In a heavy-bottomed pot, render the pork fat over medium heat. Add the chopped onions and sauté until translucent.",480,-1
+jadoh,3,Add the ginger paste and sauté for another minute. Add the pork pieces and cook until they are lightly browned.,600,-1
+jadoh,4,"Stir in the turmeric powder, black pepper, bay leaf, and salt.",120,-1
+jadoh,5,Drain the soaked rice and add it to the pot. Stir gently for a minute to coat the rice with the fat and spices.,120,-1
+jadoh,6,"Pour in 2 cups of hot water, bring to a boil, then reduce the heat to low. Cover the pot tightly and cook for 15-20 minutes, or until the rice is cooked and the water is absorbed.",1200,-1
+smoked_pork_with_axone,1,Boil the smoked pork in water for 30-40 minutes until it is tender. Reserve the stock.,2100,-1
+smoked_pork_with_axone,2,"In a pot, add the boiled pork, a cup of its stock, the Axone, ginger, garlic, and the whole chili.",300,-1
+smoked_pork_with_axone,3,"Bring to a simmer and cook for 15-20 minutes, allowing the pork to absorb the pungent flavor of the Axone and the heat from the chili.",1200,-1
+smoked_pork_with_axone,4,Mash the chili into the gravy for more heat if desired. Adjust salt and serve hot with steamed rice.,120,-1
+dal_baati_churma,1,"Prepare the Baati dough: Mix wheat flour, semolina, salt, 4 tbsp of ghee, and yogurt. Knead into a very firm dough using minimal water. Let it rest for 30 minutes.",-1,1800
+dal_baati_churma,2,"Shape the dough into round balls and bake them in a preheated oven or over hot coals for 25-30 minutes, turning, until they are hard and golden brown.",1800,-1
+dal_baati_churma,3,"While the baatis bake, pressure cook the lentils with turmeric and salt to make the dal.",1500,-1
+dal_baati_churma,4,"Prepare the Churma: Take 2-3 of the hot, baked baatis, break them, and grind them into a coarse powder. Mix this powder with powdered sugar/jaggery and some melted ghee.",600,-1
+dal_baati_churma,5,"To serve, break the remaining hot baatis, dip them generously in melted ghee, and serve immediately with the hot dal and churma.",300,-1
+amritsari_kulcha,1,"Prepare the dough by mixing flour, yogurt, salt, and a little water. Knead into a soft dough and let it rest for at least 1 hour.",-1,3600
+amritsari_kulcha,2,"Prepare the filling by mixing the mashed potatoes, chopped onion, garam masala, and salt.",480,-1
+amritsari_kulcha,3,"Take a ball of dough, flatten it, place a portion of the filling inside, and seal it carefully.",600,-1
+amritsari_kulcha,4,"Roll out the stuffed ball into an oval or round shape. Traditionally cooked in a tandoor, but can be cooked on a hot tawa.",300,-1
+amritsari_kulcha,5,"Cook on the tawa with ghee or butter, flipping, until both sides are golden brown and crisp. Serve hot with chole (chickpea curry).",300,-1
+jowar_bhakri,1,"Combine the sorghum flour and salt. Gradually add hot water and knead into a smooth, soft dough.",480,-1
+jowar_bhakri,2,Divide the dough into equal-sized balls.,120,-1
+jowar_bhakri,3,"On a flat surface, gently pat each ball with your palm and fingertips to form a thin, round flatbread (bhakri).",420,-1
+jowar_bhakri,4,"Cook on a hot griddle (tawa) on both sides. Once cooked, place it directly on a flame to puff up. Serve hot with dal or chutney.",180,-1
+nagli_rotla,1,Combine the millet flour and salt in a bowl. Gradually add hot water and mix with a spoon until cool enough to handle.,180,-1
+nagli_rotla,2,"Knead into a smooth, soft dough. Divide into equal-sized balls.",300,-1
+nagli_rotla,3,"On a flat surface, gently pat each ball with your palm to form a thick, round flatbread (rotla).",420,-1
+nagli_rotla,4,Cook on a hot clay or cast-iron griddle (tawa) on both sides until cooked through. Serve hot with dal or chutney.,300,-1
+wild_pig_curry,1,"In a pot, combine the wild pig meat, crushed ginger, chilies, and salt.",300,-1
+wild_pig_curry,2,Add enough water to cover the meat completely. Bring to a boil.,600,-1
+wild_pig_curry,3,"Reduce the heat, cover, and let it simmer for at least 1 to 1.5 hours, or until the meat is very tender and a simple, flavorful broth has formed.",4500,-1
+pandanus_dough,1,"Separate the individual fruit segments (drupes) from the large, pineapple-like cluster.",600,-1
+pandanus_dough,2,Boil the drupes in water (traditionally in a bark casserole) until they are soft.,1800,-1
+pandanus_dough,3,"Using a mollusc shell or a similar scraper, scrape the starchy pulp out from the boiled drupes to form a dough.",900,-1
+pandanus_dough,4,Meticulously remove the tough fibers from the dough by twirling a fine thread through the mass repeatedly until the dough is smooth.,600,-1
+pandanus_dough,5,"The resulting fiber-free dough can be eaten immediately, often with honey or meat, or preserved for later use.",60,-1
+pesarattu,1,"Wash and soak the whole green gram and rice together in water for at least 6-8 hours, or overnight.",-1,28800
+pesarattu,2,"Drain the soaked ingredients. In a grinder, combine them with ginger, green chilies, cumin seeds, and a little water. Grind to a smooth, thick batter.",480,-1
+pesarattu,3,"Transfer the batter to a bowl, add salt, and mix well.",120,-1
+pesarattu,4,Heat a flat pan (tawa) and grease it lightly. Pour a ladleful of batter and spread it into a thin crepe. Drizzle oil around the edges.,180,-1
+pesarattu,5,Cook on medium heat until the top is set and the bottom is golden and crisp. Flip and cook for another minute. Serve hot.,180,-1
+gutti_vankaya_kura,1,"Dry roast peanuts, sesame seeds, and dried coconut separately until aromatic. Let them cool and grind into a fine powder.",600,-1
+gutti_vankaya_kura,2,"Mix this powder with chopped onion, red chili powder, coriander powder, tamarind pulp, and salt to make the stuffing paste.",300,-1
+gutti_vankaya_kura,3,"Wash the brinjals and slit them in a cross shape from the bottom, keeping the stem intact. Carefully stuff the masala paste inside each brinjal.",480,-1
+gutti_vankaya_kura,4,"Heat oil in a wide pan. Place the stuffed brinjals in the pan and cook for 5 minutes, turning them gently.",300,-1
+gutti_vankaya_kura,5,"Add any remaining masala and about 1 cup of water. Cover and simmer on low heat for 15-20 minutes, or until the brinjals are tender and the gravy is thick.",1200,-1
+gongura_mamsam,1,"Pressure cook the mutton with salt, turmeric, and ginger-garlic paste until it is about 80% cooked. Reserve the stock.",1800,-1
+gongura_mamsam,2,"In a separate pan, cook the gongura leaves with a little water until they turn mushy. Mash into a coarse paste.",600,-1
+gongura_mamsam,3,Heat oil in a large pot. Sauté the sliced onions until golden brown. Add green chilies.,600,-1
+gongura_mamsam,4,Add the partially cooked mutton and red chili powder. Sauté for 5 minutes.,300,-1
+gongura_mamsam,5,"Stir in the mashed gongura paste and the reserved mutton stock. Cover and simmer on low heat for 15-20 minutes, until the mutton is fully tender and the gravy is thick.",1200,-1
+chepa_pulusu,1,"Soak the tamarind in hot water for 15 minutes, then extract the thick pulp.",-1,900
+chepa_pulusu,2,"Heat oil in an earthen pot or wide pan. Add mustard and fenugreek seeds. When they splutter, add the chopped onion and sauté until golden.",480,-1
+chepa_pulusu,3,"Add the green chilies, turmeric, chili powder, and coriander powder. Sauté for a minute.",120,-1
+chepa_pulusu,4,Pour in the tamarind extract and about 2 cups of water. Add salt and bring the stew (pulusu) to a rolling boil.,480,-1
+chepa_pulusu,5,"Gently slide the fish pieces into the boiling pulusu. Reduce heat, cover, and simmer for 10-12 minutes until the fish is cooked through. Do not stir vigorously.",720,-1
+chenchu_tuber_meal,1,Thoroughly wash and scrub the wild tubers to remove all dirt.,300,-1
+chenchu_tuber_meal,2,Place the tubers in a pot and cover with water. Bring to a boil.,300,-1
+chenchu_tuber_meal,3,"Simmer for 20-30 minutes, or until the tubers are completely soft and cooked through. The cooking time will vary depending on the type of tuber.",1500,-1
+chenchu_tuber_meal,4,"Drain the water. Peel the tubers if necessary, sprinkle with salt, and eat as a staple meal.",120,-1
+kodo_kutki_porridge,1,Bring the water to a boil in a pot.,300,-1
+kodo_kutki_porridge,2,"Slowly add the millet flour or broken millet, whisking continuously to prevent lumps.",120,-1
+kodo_kutki_porridge,3,"Reduce the heat to low and simmer, stirring occasionally, for 15-20 minutes until the millet is cooked and has formed a thick porridge or a thin broth, as desired.",1200,-1
+kodo_kutki_porridge,4,"Add salt and serve warm, often with a side of vegetables.",60,-1
+koya_tuber_detox,1,Peel and cut the toxic tubers into small pieces.,1200,-1
+koya_tuber_detox,2,"Place the cut pieces in a cloth bag or a basket and submerge them in a source of running water, like a stream, for three full days. This process leaches out the toxins.",-1,259200
+koya_tuber_detox,3,"After three days, retrieve the tubers. They must now be boiled thoroughly in water until completely soft.",1800,-1
+koya_tuber_detox,4,"Once boiled, the tubers are safe to be eaten as a staple food.",60,-1
+eyup_choih,1,Soak the dried bamboo shoots in hot water for 20-30 minutes to rehydrate them. Drain thoroughly.,-1,1500
+eyup_choih,2,Roast the dried red chilies directly over a flame until they are dark and aromatic.,120,-1
+eyup_choih,3,"Using a mortar and pestle, pound the rehydrated bamboo shoots, roasted chilies, and salt together into a coarse, pungent chutney.",600,-1
+pasa,1,"Mince the fresh, raw fish meat as finely as possible into a smooth paste.",900,-1
+pasa,2,"In a bowl, combine the minced fish with the chopped khumpatt herb, minced ginger, garlic, and green chilies.",480,-1
+pasa,3,"Add salt and a small amount of cold water to create a thin, soup-like consistency. Mix well.",240,-1
+pasa,4,Let it sit for a few minutes for the flavors to meld before serving. It is consumed uncooked.,180,-1
+lukter,1,Shred or pound the smoked meat into fine fibers using a mortar and pestle.,480,-1
+lukter,2,"In a bowl, mix the shredded meat thoroughly with the chili flakes and salt.",120,-1
+lukter,3,"Serve as a dry, savory side dish with a main meal.",60,-1
+bamboo_tube_cooking,1,"Marinate the fish pieces with ginger, garlic, turmeric, and salt.",300,-1
+bamboo_tube_cooking,2,Stuff the marinated fish into the hollow of a green bamboo tube.,300,-1
+bamboo_tube_cooking,3,Seal the open end of the bamboo tube with leaves.,120,-1
+bamboo_tube_cooking,4,"Place the bamboo tube directly on an open fire, turning it periodically. Cook for 25-30 minutes until the bamboo is charred and the fish inside is steamed and cooked through.",1800,-1
+oying,1,"In a pot, combine the chopped vegetables, crushed ginger, green chilies, and salt.",300,-1
+oying,2,Add enough water to just cover the vegetables.,60,-1
+oying,3,"Bring to a boil, then reduce the heat, cover, and simmer for 15-20 minutes until all the vegetables are tender.",1200,-1
+pikey_pila,1,"In a pot, add the pork cubes, fermented bamboo shoots, ginger, king chilies, and salt.",300,-1
+pikey_pila,2,"Pour in enough water to cover the ingredients, then add the 'pila'.",120,-1
+pikey_pila,3,"Bring to a boil, then reduce heat, cover, and simmer for at least 1 to 1.5 hours, until the pork is extremely tender and the gravy is rich.",4500,-1
+chura_sabji,1,"In a pot, bring about 2 cups of water to a boil.",300,-1
+chura_sabji,2,"Add the crumbled churpi, king chilies, and salt to the boiling water.",120,-1
+chura_sabji,3,"Simmer, stirring occasionally, until the cheese melts completely and forms a creamy soup.",600,-1
+chura_sabji,4,Add the chopped leafy greens and cook for another 2-3 minutes until they are wilted. Serve hot with rice.,180,-1
+oma_jwng_narjwi,1,Soak the dried jute leaves in warm water for 15-20 minutes to rehydrate them. Squeeze out excess water.,-1,1200
+oma_jwng_narjwi,2,"In a pot, add the pork cubes, ginger-garlic paste, chilies, salt, and paprika. Mix well.",300,-1
+oma_jwng_narjwi,3,Pour in the Kharwi and about 1 cup of water. Bring to a boil.,480,-1
+oma_jwng_narjwi,4,"Add the soaked jute leaves. Cover and simmer on low heat for 25-30 minutes, or until the pork is tender and the gravy has thickened slightly.",1800,-1
+onla,1,"Marinate the chicken pieces with ginger-garlic paste, turmeric, and salt for 20 minutes.",-1,1200
+onla,2,"In a pot, add the marinated chicken and about 2 cups of water. Bring to a boil.",480,-1
+onla,3,Cover and simmer for 15 minutes until the chicken is partially cooked.,900,-1
+onla,4,Make a smooth slurry with the rice powder and a little cold water.,120,-1
+onla,5,"Slowly pour the rice powder slurry into the simmering curry, stirring continuously to prevent lumps. Add the green chilies.",180,-1
+onla,6,Cook for another 5-7 minutes until the gravy thickens and the chicken is fully cooked.,420,-1
+samo_sobai,1,Thoroughly clean the snails in several changes of water. Boil the black lentils until they are soft but not mushy.,1800,-1
+samo_sobai,2,"Heat oil in a pan, add chopped onions and garlic, and sauté until fragrant.",480,-1
+samo_sobai,3,Add the cleaned snails and sauté for 5 minutes.,300,-1
+samo_sobai,4,"Add the boiled black lentils, cumin powder, and salt. Add about 1 cup of water.",240,-1
+samo_sobai,5,Cover and simmer for 15-20 minutes until the flavors have melded. Stir in the wild coriander before serving.,1200,-1
+pitang_oiying,1,"In a pot, combine the meat, ginger-garlic paste, green chilies, and salt with about 3 cups of water. Bring to a boil.",600,-1
+pitang_oiying,2,Cover and simmer for 20 minutes until the meat is partially cooked.,1200,-1
+pitang_oiying,3,"Slowly sprinkle in the coarsely ground rice, stirring continuously to prevent lumps from forming.",180,-1
+pitang_oiying,4,"Continue to simmer for another 10-15 minutes, until the meat is tender and the gravy has thickened from the rice starch.",900,-1
+pitang_oiying,5,Stir in the fresh wild herbs just before serving.,60,-1
+namsing_chutney,1,"In a bowl, combine the Namsing powder with the finely chopped onion and green chilies.",300,-1
+namsing_chutney,2,"Add the mustard oil and salt. Mix thoroughly to form a pungent, moist chutney.",180,-1
+namsing_chutney,3,"Serve as a powerful, savory condiment with rice.",60,-1
+pork_kalangdang,1,"In a pot, combine the pork, bamboo shoots, ginger, garlic, green chilies, and salt.",300,-1
+pork_kalangdang,2,Add enough water to just cover the ingredients. Bring to a boil.,480,-1
+pork_kalangdang,3,"Reduce the heat, cover, and let it simmer for 30-40 minutes, or until the pork is completely tender and the flavors have melded together.",2100,-1
+pork_kimung,1,"In a bowl, mix the pork with the chopped herbs, ginger, chilies, and salt.",480,-1
+pork_kimung,2,Tightly stuff the mixture into the hollow of a green bamboo tube.,300,-1
+pork_kimung,3,Seal the open end of the bamboo with leaves.,120,-1
+pork_kimung,4,"Place the bamboo tube over a fire, turning it periodically, for 30-40 minutes until the bamboo is charred and the pork inside is cooked and aromatic.",2100,-1
+champaran_meat,1,"In a large mixing bowl, combine the mutton with all the ingredients: sliced onions, ginger-garlic paste, mustard oil, all whole and powdered spices, and salt. Mix thoroughly.",900,-1
+champaran_meat,2,Transfer the entire mixture into a traditional clay pot (handi).,300,-1
+champaran_meat,3,Seal the lid of the handi tightly with wheat flour dough to trap the steam.,300,-1
+champaran_meat,4,Place the sealed pot on a low charcoal fire and let it cook slowly for at least 2 to 2.5 hours. Do not open or stir during this time.,8100,-1
+champaran_meat,5,"Carefully break the seal and serve the tender, aromatic meat directly from the handi.",120,-1
+kadhi_badi,1,"Prepare the badi: Mix 3/4 cup of besan with a pinch of turmeric, salt, and enough water to make a thick, fluffy batter. Whisk vigorously.",480,-1
+kadhi_badi,2,Heat oil for frying. Drop small spoonfuls of the batter into the hot oil and fry until golden brown. Drain and set aside.,600,-1
+kadhi_badi,3,"Prepare the kadhi: In a bowl, whisk the sour yogurt with the remaining 1/4 cup of besan and 3 cups of water until smooth.",300,-1
+kadhi_badi,4,"Heat mustard oil in a pot. Add panchphoran and asafoetida. When they splutter, add the yogurt-besan mixture, turmeric, and salt, stirring continuously.",180,-1
+kadhi_badi,5,"Bring the kadhi to a simmer on low heat, stirring often, for about 10 minutes. Add the fried badi and simmer for another 5 minutes. Serve hot with rice.",900,-1
+sattu_paratha,1,Prepare a soft dough from the wheat flour and water. Let it rest for 20 minutes.,-1,1200
+sattu_paratha,2,"For the filling, mix sattu with chopped onion, garlic, salt, mustard oil/pickle masala, and a little water to form a moist, crumbly mixture.",480,-1
+sattu_paratha,3,"Take a ball of dough, flatten it, place a generous amount of sattu filling in the center, and seal it.",480,-1
+sattu_paratha,4,Dust with flour and roll it out into a paratha. Cook on a hot tawa with ghee or oil until both sides are golden brown and crisp.,240,-1
+dal_puri,1,"Pressure cook the soaked chana dal with turmeric and salt until soft. Drain excess water and let it cool. Grind it into a dry, coarse powder.",1800,-1
+dal_puri,2,"Roast cumin seeds and asafoetida, grind them, and mix into the dal powder to make the filling.",300,-1
+dal_puri,3,"Prepare a soft dough from the wheat flour. Make small balls, stuff them with the dal filling, and roll them out into puris.",900,-1
+dal_puri,4,Deep-fry the puris in hot oil until they puff up and turn golden brown.,600,-1
+leto,1,Heat mustard oil in a pan. Sauté ginger-garlic paste until fragrant.,240,-1
+leto,2,Add the shredded cooked chicken and turmeric. Sauté for a few minutes.,300,-1
+leto,3,"In a separate bowl, make a smooth, lump-free paste of the rice flour with about 2 cups of water.",240,-1
+leto,4,"Slowly pour the rice flour slurry into the pan with the chicken, stirring continuously to prevent lumps.",180,-1
+leto,5,"Cook on low heat, stirring constantly for 20-25 minutes, until the mixture thickens into a dense, savory paste. Add salt to taste.",1500,-1
+patpoda_chicken,1,"Marinate the chicken pieces with ginger paste, garlic paste, and salt for at least 30 minutes.",-1,1800
+patpoda_chicken,2,Create a parcel or bowl with several layers of Sal leaves.,300,-1
+patpoda_chicken,3,Place the marinated chicken inside the leaf parcel and seal it well.,120,-1
+patpoda_chicken,4,"Cook the parcel directly in the embers of a low fire, turning occasionally, for about 20-25 minutes or until the chicken is cooked through and aromatic.",1500,-1
+bore_baasi,1,Place the leftover cooked rice in an earthen pot or a bowl.,60,-1
+bore_baasi,2,"Pour enough water, curd, or buttermilk to completely submerge the rice. Add a pinch of salt and stir.",60,-1
+bore_baasi,3,"Cover the container and let it sit at room temperature to soak and ferment overnight, or for at least 8 hours.",-1,28800
+bore_baasi,4,"The next day, mash the rice slightly and serve chilled with a side of raw onion and pickle.",180,-1
+chila,1,"In a mixing bowl, combine the rice flour and salt. Gradually add water while whisking continuously to create a smooth, thin, lump-free batter.",300,-1
+chila,2,Stir in the optional chopped green chili and coriander leaves. Let the batter rest for at least 15-20 minutes.,-1,1200
+chila,3,Heat a flat griddle (tawa) over medium heat and grease it lightly with oil.,120,-1
+chila,4,Pour a ladleful of batter onto the hot tawa and spread it into a thin circle. Drizzle a little oil around the edges.,60,-1
+chila,5,Cook for 2-3 minutes until the top looks cooked and the edges become crisp. Flip and cook the other side for another minute. Serve hot with chutney.,180,-1
+faraa,1,"Prepare the dough by adding hot water to the rice flour and salt, mixing, and kneading into a soft, smooth dough.",600,-1
+faraa,2,"For the filling, drain the soaked lentils and grind them into a coarse paste with garlic and green chilies without adding water. Add salt.",480,-1
+faraa,3,"Take small portions of the dough, flatten them into small discs, and place a spoonful of the lentil filling in the center.",600,-1
+faraa,4,"Fold the discs into a half-moon shape or roll them into cylinders, sealing the edges.",300,-1
+faraa,5,Arrange the dumplings in a greased steamer and steam for 12-15 minutes until cooked through.,900,-1
+aamat,1,Heat oil in a pot. Add ginger and garlic paste and sauté for a minute.,240,-1
+aamat,2,"Add all the vegetables, including the shredded bamboo shoots, along with turmeric powder and salt.",180,-1
+aamat,3,Stir well and add about 2-3 cups of water. The consistency should be like a thin soup or stew.,120,-1
+aamat,4,"Bring the mixture to a boil, then cover and simmer for 20-25 minutes until all the vegetables are tender. Serve hot with rice.",1500,-1
+chaprah,1,Carefully clean the red ants and their eggs.,600,-1
+chaprah,2,"Using a stone grinder (sil batta) or a mortar and pestle, grind the ants, eggs, salt, ginger, garlic, chilies, and coriander into a coarse paste.",300,-1
+chaprah,3,Serve immediately as a pungent and tangy chutney with meals.,60,-1
+sikiya_kheer,1,Wash the millet thoroughly.,120,-1
+sikiya_kheer,2,"In a heavy-bottomed pan, bring the milk to a boil.",480,-1
+sikiya_kheer,3,"Add the washed millet to the boiling milk. Reduce heat and simmer, stirring often, for about 25-30 minutes until the millet is soft and the milk has thickened.",1800,-1
+sikiya_kheer,4,Stir in the jaggery or sugar and cardamom powder. Cook for another 5 minutes until the sweetener dissolves. Serve warm.,300,-1
+madra,1,Soak the chickpeas in water overnight or for at least 8 hours.,-1,28800
+madra,2,Pressure cook the soaked chickpeas with water and a pinch of salt until they are soft and cooked through. Reserve the cooking water.,1500,-1
+madra,3,"In a bowl, whisk the yogurt with gram flour, turmeric powder, and coriander powder until smooth. Ensure no lumps remain.",300,-1
+madra,4,"Heat ghee in a heavy-bottomed pot (Batloi). Add cumin seeds, cloves, cardamom, cinnamon, and bay leaf. Sauté until fragrant.",120,-1
+madra,5,"Lower the heat to an absolute minimum. Slowly pour in the yogurt mixture, stirring continuously to prevent curdling. Cook for 10-15 minutes until the ghee starts to separate.",900,-1
+madra,6,Add the cooked chickpeas to the gravy. Add salt and some of the reserved chickpea water to adjust consistency. Simmer for 10 minutes for flavors to meld.,600,-1
+siddu,1,"Activate yeast in warm water with sugar. Mix with wheat flour and salt to form a soft, pliable dough. Knead well.",600,-1
+siddu,2,"Cover the dough and place it in a warm spot to ferment and rise for at least 4-5 hours, or until doubled in size.",-1,14400
+siddu,3,"For the stuffing, grind walnuts or poppy seeds into a coarse paste. You can add spices if desired.",300,-1
+siddu,4,"Punch down the fermented dough. Take a small portion, flatten it, place a spoonful of stuffing in the center, and seal it into a ball or half-moon shape.",600,-1
+siddu,5,Arrange the filled dough balls in a greased steamer. Steam for 15-20 minutes until cooked through.,1200,-1
+siddu,6,"Serve hot, generously drizzled with melted ghee.",60,-1
+chha_gosht,1,"Marinate the mutton pieces with ginger-garlic paste, salt, and turmeric powder for at least 1 hour.",-1,3600
+chha_gosht,2,"In a bowl, whisk the buttermilk with gram flour, coriander powder, and red chili powder until smooth.",300,-1
+chha_gosht,3,"Heat ghee/oil in a heavy-bottomed pan. Add whole spices, then add the marinated mutton and sear on all sides until browned.",600,-1
+chha_gosht,4,"Reduce the heat to low and slowly add the buttermilk mixture, stirring continuously. Cover and cook on low heat for 45-60 minutes, or until the mutton is tender and the gravy has thickened.",3600,-1
+kaale_channe_ka_khatta,1,Pressure cook the soaked black chickpeas until they are tender. Do not discard the water.,1200,-1
+kaale_channe_ka_khatta,2,Heat mustard oil in a pan until it is lightly smoking. Add cumin seeds and asafoetida.,180,-1
+kaale_channe_ka_khatta,3,"Add the turmeric and coriander powder, followed by the cooked chickpeas along with their water.",120,-1
+kaale_channe_ka_khatta,4,"Bring to a boil, then add the tamarind pulp or amchur powder and salt. Simmer for 10-15 minutes until the gravy thickens slightly.",900,-1
+tudkiya_bhaat,1,Soak rice and lentils for at least 30 minutes.,-1,1800
+tudkiya_bhaat,2,Heat ghee in a pot. Add whole spices and sauté until fragrant. Add sliced onions and cook until golden.,480,-1
+tudkiya_bhaat,3,"Add potatoes, turmeric, and other powdered spices. Sauté for a few minutes.",240,-1
+tudkiya_bhaat,4,Add the whisked yogurt and cook for a minute. Then add the drained rice and lentils. Sauté gently.,300,-1
+tudkiya_bhaat,5,"Add about 2 cups of hot water and salt. Bring to a boil, then cover and simmer on low heat for 15-20 minutes until the rice and lentils are cooked and water is absorbed.",1200,-1
+aktori_patande,1,"In a bowl, gradually whisk milk or water into the flour to create a smooth, thin, lump-free batter, similar to a crepe batter. Add sugar or salt as preferred.",300,-1
+aktori_patande,2,Let the batter rest for 15-20 minutes.,-1,1050
+aktori_patande,3,Heat a flat pan (tawa) and grease it lightly with ghee or oil.,60,-1
+aktori_patande,4,Pour a ladleful of batter onto the center of the pan and spread it quickly into a thin circle. Cook for 1-2 minutes until the edges lift.,120,-1
+aktori_patande,5,Flip and cook the other side for another minute. Serve hot.,60,-1
+aid_ka_saag,1,"Wearing gloves, carefully wash the stinging nettle leaves.",300,-1
+aid_ka_saag,2,Blanch the leaves in boiling water for 2-3 minutes. This will remove the sting. Drain and chop them coarsely.,480,-1
+aid_ka_saag,3,Heat mustard oil in a pan. Add the dried red chilies and chopped garlic. Sauté until the garlic is fragrant.,240,-1
+aid_ka_saag,4,"Add the chopped nettle leaves and salt. Stir well, cover, and cook for 10-15 minutes until the greens are soft and well-cooked.",900,-1
+kalari,1,"Part 1: Making Raw Kalari. Preparation: If using whey, bring it to a boil in a small pot and set aside.",300,-1
+kalari,2,Heating Milk: Gently warm 2 liters of raw milk. Do not boil. Test by dipping a finger; it should be comfortably warm for 15-20 seconds.,450,-1
+kalari,3,Curdling: Remove milk from stove. Pour hot whey or lemon juice in and stir for 2-3 minutes until milk separates into creamy curds and clear whey.,300,-1
+kalari,4,"Shaping: Gather curds, press firmly between palms to squeeze out whey, and shape into a flat, round disc (tikki). Place on a sieve to drain.",450,-1
+kalari,5,Drying: Place the shaped Kalari discs in baskets and let them sun-dry. This is crucial for developing the firm exterior and tangy flavor.,-1,302400
+kalari,6,"Part 2: Cooking Kalari. Frying: Heat a non-stick tawa over low-medium flame. Place the Kalari disc on the hot surface, adding oil if needed. Press gently with a spatula.",300,-1
+kalari,7,Flip and Finish: Flip the Kalari and cook the other side until crisp and golden-brown.,150,-1
+kalari,8,"Serving: Once both sides are browned and the inside is molten, remove from the pan, sprinkle with salt, and serve immediately.",60,-1
+makki_ki_roti,1,"Dough Making: Combine maize flour, salt, and carom seeds. Gradually add hot water and knead for 5-8 minutes until it becomes a smooth, firm mass.",600,-1
+makki_ki_roti,2,"Resting: Cover the dough and let it rest to allow the flour to fully hydrate, making it more pliable.",-1,900
+makki_ki_roti,3,Shaping/Rolling: Divide the dough into 8 balls. Shape rotis by hand-patting or by rolling a dough ball between two greased sheets of parchment paper.,750,-1
+makki_ki_roti,4,"Cooking: Cook the roti on a medium-hot tawa for 1-2 minutes. Flip, apply ghee, and cook the other side. Flip again, apply ghee, and press gently until both sides have golden-brown spots.",450,-1
+noon_chai,1,Brewing the Kahwa (Concentrate): Boil 2 cups of water with tea leaves and baking soda. Simmer until reduced by half. Add 2 more cups of water and boil for another 10-15 minutes until a deep red/maroon color develops.,1650,-1
+noon_chai,2,"Shocking & Aerating: Remove from heat, add 1 cup of ice-cold water. Using a ladle, scoop and pour the liquid back into the pot from a height repeatedly for several minutes until the color brightens to a clearer red.",900,-1
+noon_chai,3,"Final Preparation & Serving: Strain the concentrate (kahwa). To serve, combine one part kahwa with one part milk, add salt and cardamom. Bring to a boil and simmer for a few minutes before serving hot.",600,-1
+gucchi_pulao,1,Mushroom Soaking: Thoroughly wash dried gucchi. Soak in about 5 cups of warm water until soft.,-1,3600
+gucchi_pulao,2,"Rice Soaking: Wash Basmati rice, then soak it in fresh water.",-1,2700
+gucchi_pulao,3,Broth Preparation: Squeeze water from mushrooms. Carefully strain the mushroom soaking water through a muslin cloth and reserve this broth.,300,-1
+gucchi_pulao,4,"Sautéing Aromatics: Heat ghee, crackle whole spices, then sauté onions until deep golden brown. Add soaked gucchi and sauté for 3-4 minutes.",750,-1
+gucchi_pulao,5,"Cooking the Pulao: Add drained rice to the pot and sauté gently. Pour in 1.5 cups of the reserved mushroom broth, saffron water, and salt. Bring to a boil.",750,-1
+gucchi_pulao,6,"Dum Cooking: Reduce heat to lowest, cover with a tight lid, and cook undisturbed until all liquid is absorbed.",1050,-1
+gucchi_pulao,7,"Resting: Remove pot from heat and let it rest, covered, before fluffing with a fork.",-1,600
+mamtu,1,"Dough Making: Combine flour, salt, and oil. Gradually add water to form a firm, smooth dough. Knead well.",900,-1
+mamtu,2,Dough Resting: Cover the dough and let it rest to allow the gluten to relax.,-1,1800
+mamtu,3,"Filling Preparation: Thoroughly combine the minced meat, finely diced onions, spices, and salt.",600,-1
+mamtu,4,"Assembly: Roll the dough very thinly, cut into 3x3 inch squares. Place filling in the center and fold opposite corners together, pinching to seal.",1500,-1
+mamtu,5,Steaming: Arrange Mamtu in a greased steamer over boiling water. Steam for 10-15 minutes for a pre-cooked filling or 30-35 minutes for a raw filling.,1500,-1
+chapshuro,1,"Dough & Filling Prep: Prepare dough and let it rest. Meanwhile, prepare the filling by either combining raw ingredients to marinate, or by pre-cooking the minced meat.",900,-1
+chapshuro,2,Resting/Marinating: Let the dough rest and/or the raw meat filling marinate.,-1,1350
+chapshuro,3,"Assembly: Roll out two discs of dough. Spread filling on one, cover with the second, and crimp the edges to seal completely.",600,-1
+chapshuro,4,"Cooking: Cook on a medium-low heat tawa. If raw-filled, cover and cook for 8-10 mins, flipping often. If pre-filled, cook for 3-4 mins per side until golden brown.",750,-1
+prapu,1,"Prepare a simple dough from whole wheat flour, salt, and water.",300,-1
+prapu,2,Resting: Let the dough rest.,-1,1800
+prapu,3,Roll out the dough and cut it into thick noodles.,600,-1
+prapu,4,"Boil the noodles in salted water until tender, then drain.",600,-1
+prapu,5,"Prepare the sauce by blending ground walnuts, apricot oil, herbs, salt, and liquid to form a thick paste.",300,-1
+prapu,6,"Toss the hot, drained noodles immediately with the sauce until well-coated.",120,-1
+gyal,1,"In a bowl, mix buckwheat flour and salt. Whisk in water or milk to form a thick, pourable pancake batter.",300,-1
+gyal,2,Heat a heavy cast-iron griddle and grease it lightly.,180,-1
+gyal,3,Pour a ladleful of batter onto the griddle to form a thick cake. Cook for 3-4 minutes per side until cooked through.,420,-1
+khambir,1,"Mix whole wheat flour, salt, and yeast (if using) with warm water to form a stiff dough. Knead well.",600,-1
+khambir,2,Fermentation: Cover the bowl and leave it in a warm place to ferment overnight.,-1,36000
+khambir,3,"Punch down the fermented dough and divide it into 4-6 equal portions. Shape each into a thick, round disc.",300,-1
+khambir,4,"Cook on a dry, heavy skillet over low-medium heat, turning occasionally, until it is cooked through and has a firm, browned crust.",900,-1
+kak_moch,1,Prepare Apricots: Wash dried apricots and boil them in 250ml of water for 5-10 minutes until very soft. Reserve the cooking water.,750,-1
+kak_moch,2,"Make Flour Dumplings: On a plate, drizzle a small amount of water over the flour and rub with fingertips until small, crumbly dough nuggets form.",300,-1
+kak_moch,3,"Purée Apricots: Blend the boiled apricots with their reserved cooking water until a smooth, pulpy sauce forms.",300,-1
+kak_moch,4,"Cook the Soup: Bring the apricot purée to a boil. Add the flour dumplings and simmer on low for 10 minutes, stirring gently. Add more water to reach desired consistency.",600,-1
+dhuska,1,"Wash and soak the rice and both lentils together in water for at least 4-5 hours, or overnight.",-1,28800
+dhuska,2,"Drain the soaked mixture and grind it with ginger and green chilies into a smooth, thick batter, using minimal water.",600,-1
+dhuska,3,Add turmeric powder and salt to the batter. Let it ferment in a warm place for a few hours if not soaked overnight.,300,-1
+dhuska,4,Heat oil for deep frying in a wok (kadhai).,300,-1
+dhuska,5,"Pour a ladleful of batter into the hot oil. It will puff up like a poori. Fry on medium heat, flipping once, until golden brown on both sides. Serve hot with ghugni or potato curry.",900,-1
+pitha,1,Prepare a soft dough by mixing the rice flour with salt and hot water. Knead well and set aside.,600,-1
+pitha,2,"For the filling, drain the soaked dal and grind it into a coarse, thick paste with ginger and garlic, without adding extra water. Mix in salt.",480,-1
+pitha,3,"Take small portions of the dough, flatten them, place a spoonful of the dal filling, and seal it into a half-moon shape (gujiya) or a ball.",900,-1
+pitha,4,Arrange the pithas in a greased steamer and steam for 12-15 minutes until the outer covering is firm and cooked.,900,-1
+pitha,5,Serve hot with chutney.,60,-1
+rugra_curry,1,Clean the Rugra thoroughly to remove all dirt. You may need to boil them for 5 minutes and then wash them again. Cut larger ones in half.,600,-1
+rugra_curry,2,Heat mustard oil in a pan. Add chopped onions and sauté until golden.,480,-1
+rugra_curry,3,Add ginger-garlic paste and cook for a minute. Then add chopped tomatoes and cook until soft.,360,-1
+rugra_curry,4,"Add all the powdered spices (turmeric, coriander) and salt. Cook the masala for a few minutes until oil separates.",300,-1
+rugra_curry,5,"Add the cleaned Rugra mushrooms and stir well to coat with the masala. Add about a cup of hot water, cover, and simmer for 15-20 minutes until the Rugra are tender.",1200,-1
+red_ant_chutney,1,"Carefully clean the ants and their eggs, removing any leaves or debris from the nest.",600,-1
+red_ant_chutney,2,"Using a stone grinder or mortar and pestle, crush the ants, eggs, garlic, ginger, green chilies, and salt together into a coarse paste.",300,-1
+red_ant_chutney,3,Serve immediately as a side condiment with rice or roti.,60,-1
+dubki_tiyan,1,"Drain the soaked urad dal and grind it into a thick, fluffy batter without adding much water. Add a pinch of salt and whisk well.",600,-1
+dubki_tiyan,2,"For the curry, make a paste of the onion and tomato. Heat oil in a pan, add ginger-garlic paste, then the onion-tomato paste. Cook until oil separates.",900,-1
+dubki_tiyan,3,"Add coriander, turmeric, and salt. Cook for a minute, then add 3 cups of water and bring the curry to a rolling boil.",480,-1
+dubki_tiyan,4,Reduce the heat to a simmer. Drop small spoonfuls of the urad dal batter directly into the simmering curry to form dumplings (dubki).,300,-1
+dubki_tiyan,5,"Cover and cook for 10-12 minutes without stirring, until the dumplings are firm and cooked through. Serve hot with rice.",720,-1
+ragi_mudde,1,"In a heavy-bottomed pot, bring the water and salt to a rolling boil.",480,-1
+ragi_mudde,2,Reduce the heat to medium. Add the ragi flour all at once. Do not stir immediately; let it cook for about 2 minutes as a mound.,120,-1
+ragi_mudde,3,"Using a wooden stick or a sturdy spatula, begin stirring vigorously, pressing the mixture against the sides of the pot to break up all lumps.",600,-1
+ragi_mudde,4,"Cook for another 2-3 minutes, stirring continuously, until the mixture forms a single, smooth, dense mass.",180,-1
+ragi_mudde,5,"Wet your hands, take a portion of the hot dough, and quickly shape it into a smooth, round ball (mudde). Serve immediately with a thin curry (saaru).",120,-1
+pandi_curry,1,"In a heavy-bottomed pot, add the pork cubes and cook on low heat to render the fat. No oil is needed.",900,-1
+pandi_curry,2,"Once the fat has rendered, add the chopped onions and sauté until they turn brown.",600,-1
+pandi_curry,3,Add the ginger-garlic paste and green chilies and cook for a few minutes.,300,-1
+pandi_curry,4,"Stir in all the powdered spices (chili, coriander, pepper) and salt. Sauté for a minute.",180,-1
+pandi_curry,5,"Add about 1 cup of water, cover the pot, and let the pork cook on low heat for 45-60 minutes, or until it is very tender.",3000,-1
+pandi_curry,6,"Just before turning off the heat, stir in the Kachampuli vinegar. Mix well and serve hot with steamed rice balls (Kadambuttu).",120,-1
+neer_dosa,1,"Wash and soak the rice in water for at least 4 hours, or overnight.",-1,14400
+neer_dosa,2,Drain the rice and grind it with coconut (if using) and a little water to a very smooth paste.,600,-1
+neer_dosa,3,"Transfer the paste to a bowl. Add more water and salt to create a very thin, watery, free-flowing batter.",180,-1
+neer_dosa,4,"Heat a cast-iron tawa until it is very hot. Pour a ladleful of the batter from a height, starting from the edges and moving to the center, to cover the pan with a lacy network.",120,-1
+neer_dosa,5,Cover and cook for about 1-2 minutes until the dosa is cooked. It is only cooked on one side. Fold and serve immediately.,120,-1
+wild_greens_sambar,1,"In a pressure cooker, cook the toor dal with turmeric and a little oil until it is soft and mushy.",1200,-1
+wild_greens_sambar,2,"In a pot, add the chopped wild greens, onion, garlic, and green chilies with about 2 cups of water. Boil until the greens are tender.",600,-1
+wild_greens_sambar,3,"Add the cooked, mashed dal to the pot with the greens. Stir well.",120,-1
+wild_greens_sambar,4,Add salt and simmer for 5-7 minutes for the flavors to combine. Serve hot with Ragi Mudde or rice.,420,-1
+wild_greens_stir_fry,1,Thoroughly wash the foraged greens in several changes of water and chop them.,300,-1
+wild_greens_stir_fry,2,Heat coconut oil in a pan. Add the crushed garlic and green chilies and sauté for a minute.,180,-1
+wild_greens_stir_fry,3,"Add the chopped greens to the pan, along with salt. Stir well, cover, and cook on low heat for 5-7 minutes until the greens are wilted and tender.",420,-1
+wild_greens_stir_fry,4,"Stir in the grated coconut, mix well, and cook for another minute before serving. Traditionally eaten with boiled rice.",120,-1
+bamboo_rice_pudding,1,Wash and soak the bamboo rice in water for at least 1 hour.,-1,3600
+bamboo_rice_pudding,2,Pressure cook the soaked rice with 1.5 cups of water until it is soft and well-cooked. Bamboo rice often takes longer to cook than regular rice.,1800,-1
+bamboo_rice_pudding,3,"In a separate pan, melt the jaggery with a little water to form a syrup. Strain it to remove impurities.",300,-1
+bamboo_rice_pudding,4,"Add the cooked bamboo rice, jaggery syrup, and thick coconut milk to a pot. Simmer on low heat for 10-15 minutes, stirring, until the pudding thickens.",900,-1
+bamboo_rice_pudding,5,Stir in the cardamom powder and ghee. Serve warm.,120,-1
+foraged_mushroom_fry,1,Thoroughly clean the wild mushrooms and slice them.,300,-1
+foraged_mushroom_fry,2,Heat coconut oil in a pan. Add the sliced shallots and sauté until they turn golden brown.,480,-1
+foraged_mushroom_fry,3,Add the turmeric powder and the sliced mushrooms. Sauté on high heat for 5-7 minutes until the mushrooms release their water and it evaporates.,420,-1
+foraged_mushroom_fry,4,Sprinkle the crushed black pepper and salt. Stir well and cook for another 2 minutes. Serve hot.,120,-1
+manjakoova_porridge,1,"In a pot, make a smooth paste with the Manjakoova powder and a little water to ensure there are no lumps.",180,-1
+manjakoova_porridge,2,Gradually whisk in the remaining water or coconut milk.,120,-1
+manjakoova_porridge,3,"Place the pot on low heat and cook, stirring continuously, for 10-15 minutes until the mixture thickens into a smooth porridge.",900,-1
+manjakoova_porridge,4,Add jaggery for a sweet version or salt for a savory version. Stir until dissolved and serve warm.,120,-1
+pej,1,Bring the water to a gentle boil in a pot.,300,-1
+pej,2,Slowly whisk in the ground maize or millet flour to prevent lumps from forming.,120,-1
+pej,3,"Reduce the heat to low and let the mixture simmer, stirring occasionally, for 15-20 minutes until the grain is cooked through and the porridge has thickened.",1200,-1
+pej,4,Add salt to taste and serve warm.,60,-1
+putpuda_chicken_stew,1,"Heat the oil in a pot. Add the crushed ginger, garlic, and green chilies. Sauté for a minute until fragrant.",300,-1
+putpuda_chicken_stew,2,Add the chicken pieces and sear on all sides until they are lightly browned.,600,-1
+putpuda_chicken_stew,3,Add the chopped mushrooms and salt. Stir and cook for 5 minutes until the mushrooms release their water.,300,-1
+putpuda_chicken_stew,4,"Add about 2 cups of water, bring to a boil, then reduce the heat. Cover and simmer for 20-25 minutes, or until the chicken is tender and the gravy is rich.",1500,-1
+mahua_puri,1,Soak the dried Mahua flowers in warm water for at least 1-2 hours until they are soft. Drain and grind them into a fine paste.,-1,1800
+mahua_puri,2,"In a mixing bowl, combine the wheat flour with the prepared Mahua paste.",240,-1
+mahua_puri,3,"Gradually add water and knead into a firm, smooth dough.",480,-1
+mahua_puri,4,Divide the dough into small balls and roll each one out into a small circle (puri).,480,-1
+mahua_puri,5,Heat oil in a deep pan. Deep-fry the puris one by one until they puff up and turn golden brown.,600,-1
+baiga_chokha,1,"Wash the vegetable and place it directly on the embers of a wood fire or over a gas flame. Roast, turning occasionally, for 15-20 minutes until the skin is completely charred and the inside is soft.",1200,-1
+baiga_chokha,2,"Let the vegetable cool slightly, then carefully peel off the burnt skin.",180,-1
+baiga_chokha,3,"In a bowl, mash the cooked pulp with salt, chopped green chili, and a drizzle of mustard oil if using. Mix well and serve.",120,-1
+panmodi,1,"In a bowl, combine the rice flour, grated cucumber, and grated jaggery. Mix well to form a thick, dough-like paste. The moisture from the cucumber should be sufficient; add water only if necessary.",480,-1
+panmodi,2,Wash the leaves. Take a portion of the dough and place it on one half of a leaf.,120,-1
+panmodi,3,Fold the other half of the leaf over to create a sealed parcel.,120,-1
+panmodi,4,"Place the leaf parcels in a steamer and steam over boiling water for 15-20 minutes, until the cake inside is firm and cooked through.",1200,-1
+panmodi,5,Serve warm as a sweet festive treat.,60,-1
+ragi_ambil,1,"In a pot, whisk the ragi flour with 1 cup of water to make a smooth, lump-free paste.",180,-1
+ragi_ambil,2,"Add the remaining 2 cups of water, cover the pot, and let it sit in a warm place to ferment overnight or for at least 8 hours.",-1,28800
+ragi_ambil,3,"The next day, place the pot on the stove and bring the mixture to a simmer over low heat, stirring continuously.",300,-1
+ragi_ambil,4,Cook for 5-7 minutes until the porridge thickens and the raw taste of the flour is gone.,420,-1
+ragi_ambil,5,"Let it cool down completely. Once cool, stir in the buttermilk (if using) and salt. Serve as a cooling drink or thin porridge.",300,-1
+crab_curry,1,Thoroughly clean the crabs.,600,-1
+crab_curry,2,"In a pot, combine the cleaned crabs with chopped onion, crushed garlic, green chilies, turmeric, and salt.",240,-1
+crab_curry,3,"Add about 1 cup of water, just enough to cook the crabs. Bring to a boil.",300,-1
+crab_curry,4,Cover and simmer for 10-15 minutes until the crabs are cooked and have turned red.,900,-1
+crab_curry,5,"Lightly mash the contents in the pot to create a thick, flavorful gravy. Serve hot with bhakri or rice.",120,-1
+wild_yam_curry,1,"Follow the specific traditional method to process the wild yam to ensure it is safe for consumption (e.g., boiling, washing).",900,-1
+wild_yam_curry,2,"In a pot, add the processed and cubed yam with enough water to cover. Boil for 15-20 minutes until tender.",1200,-1
+wild_yam_curry,3,"In a separate pan, prepare a simple tempering with oil (if used), onion, garlic, turmeric, and chili powder.",300,-1
+wild_yam_curry,4,"Add the boiled yam to the tempering, mix well, add salt, and cook for another 5 minutes.",300,-1
+eromba,1,Boil the potatoes (or other vegetables) and the king chili together in water until the vegetables are completely soft.,1200,-1
+eromba,2,"Drain the water. In a bowl, add the boiled vegetables, chili, salt, and the ngari.",120,-1
+eromba,3,"Using a masher or your hands, coarsely mash all the ingredients together until well combined. If using, flake in the smoked fish.",180,-1
+eromba,4,Serve immediately as a pungent side dish with rice.,60,-1
+chamthong,1,"In a pot, add the chopped vegetables, sliced onion, ginger, ngari, and salt.",300,-1
+chamthong,2,"Pour in enough water to cover the ingredients well, creating a soupy consistency.",60,-1
+chamthong,3,"Bring to a boil, then reduce the heat, cover, and simmer for 20-25 minutes until the vegetables are tender.",1500,-1
+chamthong,4,"Serve hot in a bowl, topped with a piece of dried or fried fish, to be eaten with rice.",60,-1
+singju,1,"In a large bowl, combine all the shredded fresh vegetables.",480,-1
+singju,2,Make a pungent paste by mashing the roasted ngari and roasted red chilies together.,300,-1
+singju,3,Add the ngari-chili paste and salt to the vegetables. Toss everything together thoroughly with your hands.,120,-1
+singju,4,Serve immediately to retain the crispness of the vegetables.,60,-1
+paknam,1,"In a bowl, make a thick batter using the gram flour and a little water.",300,-1
+paknam,2,"Mix the chopped herbs, mashed ngari, and chili into the batter.",300,-1
+paknam,3,"Wash the turmeric leaves. Spread the batter evenly over one leaf, then cover it with the second leaf to create a parcel.",300,-1
+paknam,4,"Heat a flat pan (tawa). Place the leaf parcel on the pan and cook on low heat for 10-15 minutes per side, until the batter inside is firm and cooked through. The leaves will be charred.",1800,-1
+paknam,5,Unwrap the paknam from the leaves and cut into slices to serve.,120,-1
+smoked_pork_with_akhuni,1,Boil the smoked pork pieces in water for 30-40 minutes until they are tender.,2100,-1
+smoked_pork_with_akhuni,2,"In a separate pan, add the tender pork, a little of its stock, the akhuni paste, ginger, and the king chili.",300,-1
+smoked_pork_with_akhuni,3,"Simmer for 15-20 minutes, allowing the pork to absorb the pungent flavor of the akhuni.",1200,-1
+smoked_pork_with_akhuni,4,Adjust salt and serve hot with steamed rice.,60,-1
+mepoh,1,"In a heavy-bottomed pot, combine all ingredients: rice, smoked meat, vegetables, ginger, and salt with about 5-6 cups of water.",600,-1
+mepoh,2,Bring to a gentle simmer and cook on very low heat for at least 1 to 1.5 hours.,4500,-1
+mepoh,3,"Stir the mixture frequently, especially towards the end, to prevent it from sticking to the bottom of the pot.",0,-1
+mepoh,4,"The dish is ready when the rice has completely broken down and the entire mixture is a thick, savory porridge. Serve hot.",60,-1
+doh_neiiong,1,"Dry roast the black sesame seeds in a pan on low heat until they are aromatic and start to pop. Let them cool, then grind into a fine powder or a thick paste with a little water.",900,-1
+doh_neiiong,2,"In a pot, add the pork pieces and enough water to cover them. Bring to a boil and cook for 20-25 minutes until the pork is partially tender. Drain, reserving some of the stock.",1500,-1
+doh_neiiong,3,"In the same pot, heat a little oil or pork fat. Sauté the onions until golden, then add the ginger paste.",480,-1
+doh_neiiong,4,Add the partially cooked pork and the black sesame paste to the pot. Stir well to coat.,300,-1
+doh_neiiong,5,"Add the green chilies, salt, and about a cup of the reserved pork stock. Cover and simmer on low heat for 20-30 minutes until the pork is fully tender and the gravy is thick and dark.",1800,-1
+dohkhlieh,1,"Boil the pork meat in water with a pinch of salt for 45-60 minutes, or until it is completely tender.",3000,-1
+dohkhlieh,2,"Once cooked, let the meat cool down slightly. Finely mince or chop the tender pork.",300,-1
+dohkhlieh,3,"In a large bowl, combine the minced pork with the sliced onions, chopped ginger, and green chilies.",240,-1
+dohkhlieh,4,Add salt and lemon juice. Toss everything together well and serve at room temperature.,120,-1
+tungrymbai_pork,1,"In a pan, render the fat from the pork pieces over medium heat.",480,-1
+tungrymbai_pork,2,"Add the chopped onion, ginger, and garlic to the rendered fat and sauté until fragrant.",420,-1
+tungrymbai_pork,3,Add the pork pieces and cook until they are browned.,600,-1
+tungrymbai_pork,4,"Stir in the Tungrymbai and black sesame seeds (if using). Cook for 5-7 minutes, mashing the beans slightly.",420,-1
+tungrymbai_pork,5,"Add a little water to create a thick, paste-like consistency. Simmer for another 5 minutes and serve hot with rice.",300,-1
+pumaloi,1,"In a bowl, mix the rice flour with a pinch of salt.",60,-1
+pumaloi,2,"Sprinkle water little by little over the flour, mixing with your fingertips until it reaches a moist, crumbly, breadcrumb-like consistency. Do not knead into a dough.",420,-1
+pumaloi,3,Transfer this moist flour mixture into a steamer lined with a damp cloth.,120,-1
+pumaloi,4,Steam for 15-20 minutes until the cake is cooked through and fluffy.,1200,-1
+pumaloi,5,Serve hot as an accompaniment to rich curries like Doh-neiiong.,60,-1
+doo_kapa,1,"In a pot, combine the chicken pieces, Kalchi (or baking soda), slit green chilies, crushed ginger, and salt.",300,-1
+doo_kapa,2,Add just enough water to almost cover the chicken. This is an oil-free dish.,120,-1
+doo_kapa,3,Bring the mixture to a boil over medium heat. You will notice foam forming due to the alkali.,480,-1
+doo_kapa,4,"Reduce the heat, cover the pot, and let it simmer for 20-25 minutes, or until the chicken is extremely tender and a simple, soupy gravy has formed.",1500,-1
+nakam_bitchi,1,"Wash the dried fish. In a pot, combine the fish with about 3 cups of water, the green chilies, ginger, and salt.",180,-1
+nakam_bitchi,2,Bring to a boil and then simmer for 15-20 minutes.,1200,-1
+nakam_bitchi,3,"The dish is ready when the fish has rehydrated and imparted its strong, savory flavor to the soupy broth. Serve hot.",60,-1
+dakharang,1,"Flake the smoked fish, removing any large bones.",600,-1
+dakharang,2,"In a bowl, combine the flaked fish with the chopped onion, green chilies, mustard oil, and salt.",300,-1
+dakharang,3,Toss everything together well and serve as a pungent side dish with rice.,60,-1
+bai,1,"In a pot, combine the chopped vegetables with enough water to cover them.",120,-1
+bai,2,"Add the Sa-um or Bekang, cooked rice, baking soda, green chilies, and salt. Stir to combine.",180,-1
+bai,3,"Bring the mixture to a boil, then reduce the heat and let it simmer for 20-25 minutes.",1500,-1
+bai,4,The stew is ready when the vegetables are completely tender and the broth has slightly thickened. Serve hot with plain rice.,60,-1
+sawhchiar,1,"Wash the rice. In a large, heavy-bottomed pot, combine the rice, meat, ginger, garlic, and salt.",480,-1
+sawhchiar,2,Add about 5-6 cups of water and bring the mixture to a boil.,600,-1
+sawhchiar,3,"Reduce the heat to low, cover, and let it simmer for 45-60 minutes, stirring occasionally to prevent sticking.",3000,-1
+sawhchiar,4,"The sawhchiar is ready when the meat is tender and the rice has broken down into a thick, cohesive porridge. Serve hot.",60,-1
+vawksa_rep,1,Boil the smoked pork cubes in water for 20-25 minutes to tenderize them slightly. Drain.,1500,-1
+vawksa_rep,2,"In a pan, add the boiled pork, chopped greens, ginger, garlic, and chilies.",180,-1
+vawksa_rep,3,Stir-fry on medium heat for 10-15 minutes. No extra oil is needed as the pork fat will render out.,900,-1
+vawksa_rep,4,The dish is ready when the greens are wilted and the pork is well-heated and aromatic. Serve with rice.,60,-1
+hmarcha_rawt,1,"Roast the chilies, onion, and ginger directly over an open flame until their skins are charred and they are soft.",600,-1
+hmarcha_rawt,2,Peel any excess charred skin off the onion and ginger.,120,-1
+hmarcha_rawt,3,"In a mortar and pestle, pound the roasted ingredients together with salt to form a coarse, pungent chutney.",180,-1
+bachchuri_taaba,1,"If using fresh bamboo shoots, boil them in water for 10 minutes to remove bitterness. Drain.",600,-1
+bachchuri_taaba,2,"In a pot, combine the bamboo shoots, dried prawns, sidol, green chilies, turmeric, and salt.",180,-1
+bachchuri_taaba,3,Add about 2-3 cups of water and bring to a boil.,300,-1
+bachchuri_taaba,4,Simmer for 15-20 minutes until the bamboo shoots are tender and the broth is flavorful. Serve with rice.,1200,-1
+paajon_twon,1,Prepare all the vegetables by washing and chopping them. Harder vegetables should be cut smaller than softer ones.,600,-1
+paajon_twon,2,"In a large pot, combine all the prepared vegetables, ginger paste, chilies, turmeric, and salt.",300,-1
+paajon_twon,3,Add enough water to create a stew-like consistency.,120,-1
+paajon_twon,4,"Bring to a boil, then cover and simmer for 25-30 minutes, or until the hardest vegetables are tender.",1800,-1
+sizo_hmepawk,1,"In a large, heavy-bottomed pot, combine the rice, pork, and ginger with about 6-7 cups of water. Bring to a boil.",900,-1
+sizo_hmepawk,2,"Reduce the heat and let it simmer for about 1 hour, until the pork is tender and the rice starts to break down.",3600,-1
+sizo_hmepawk,3,"Add the chopped Sizo leaves and salt. Continue to simmer for another 15-20 minutes, stirring frequently, until the leaves are cooked and the mixture is a thick, cohesive porridge.",1200,-1
+arsa_biepenek,1,"In a pot, combine the chicken with ginger, garlic, crushed chilies, salt, and enough water to cover. Bring to a boil.",600,-1
+arsa_biepenek,2,Simmer for 20-25 minutes until the chicken is cooked through.,1500,-1
+arsa_biepenek,3,Make a slurry by mixing the rice flour with a little cold water.,120,-1
+arsa_biepenek,4,"Pour the slurry into the simmering curry, stirring well to thicken the gravy. Cook for another 3-5 minutes and serve.",300,-1
+anishi_curry,1,Soak the Anishi patties in warm water for about 30 minutes to soften them. Break them into smaller pieces.,-1,1800
+anishi_curry,2,"In a pot, add the smoked pork and enough water to cover. Boil for 20 minutes until partially tender.",1200,-1
+anishi_curry,3,"Add the soaked Anishi pieces, ginger, chilies, and salt to the pot.",180,-1
+anishi_curry,4,"Simmer for another 20-25 minutes until the pork is fully tender and the Anishi has dissolved to form a thick, dark, and flavorful gravy.",1500,-1
+bamboo_tube_fish,1,"Mix the fish pieces with crushed ginger, garlic, chilies, and salt.",300,-1
+bamboo_tube_fish,2,Stuff the marinated fish into the hollow of a green bamboo tube.,300,-1
+bamboo_tube_fish,3,Seal the open end of the bamboo tube with leaves.,120,-1
+bamboo_tube_fish,4,"Place the bamboo tube directly in the embers of a fire, turning it periodically. Cook for 25-30 minutes until the bamboo is charred and the fish inside is steamed and cooked through.",1800,-1
+yam_with_smoked_meat,1,"In a pot, combine the cubed yam, smoked meat, ginger, chilies, and salt.",300,-1
+yam_with_smoked_meat,2,Add enough water to cover the ingredients and bring to a boil.,600,-1
+yam_with_smoked_meat,3,"Reduce the heat, cover, and simmer for 30-40 minutes, or until both the yam and the meat are very tender.",2400,-1
+yam_with_smoked_meat,4,Mash some of the yam pieces against the side of the pot to naturally thicken the stew. Serve hot.,120,-1
+black_sticky_rice_pudding,1,Drain the soaked sticky rice.,60,-1
+black_sticky_rice_pudding,2,"In a pot, combine the drained rice and water. Bring to a boil, then reduce heat and simmer, covered, for 40-50 minutes until the rice is very soft and has absorbed most of the water.",3000,-1
+black_sticky_rice_pudding,3,Stir in the sugar or jaggery until it dissolves.,180,-1
+black_sticky_rice_pudding,4,"For a richer pudding, stir in the coconut milk and cook for another 5 minutes. Serve warm.",300,-1
+kai_chutney,1,"Carefully clean the ants and their eggs, removing any leaves or debris. They are often dried first.",600,-1
+kai_chutney,2,"Using a stone grinder (sila-bata) or a mortar and pestle, crush the ants, eggs, tomatoes, chilies, garlic, ginger, coriander, and salt together into a coarse paste.",300,-1
+kai_chutney,3,Serve immediately as a side condiment with meals.,60,-1
+dal_paniya,1,Prepare the Dal: Pressure cook the mixed lentils with turmeric and salt until soft.,1200,-1
+dal_paniya,2,"Prepare the Paniya dough: Knead the maize flour with hot water and salt to form a firm dough. Divide into thick, round cakes.",480,-1
+dal_paniya,3,"Wrap each maize cake in greased leaves, creating a parcel. Roast these parcels on slow-burning cow-dung embers or a very hot, dry griddle for 15-20 minutes, flipping once.",1200,-1
+dal_paniya,4,"Finish the Dal: Heat ghee in a small pan, add chopped garlic and green chilies, and sauté until fragrant. Pour this tempering over the cooked dal.",180,-1
+dal_paniya,5,"To serve, break the hot Paniya into pieces, pour generous amounts of ghee over it, and eat with the dal.",120,-1
+rabdi_milk,1,"Pour the milk into a wide, heavy-bottomed pan and bring to a simmer over low-medium heat.",600,-1
+rabdi_milk,2,"As a layer of cream (malai) forms on the surface, gently push it to the side of the pan with a spatula. Continue this process repeatedly as new layers form.",2400,-1
+rabdi_milk,3,"When the milk has reduced to about one-third of its original volume, add the sugar, crushed cardamom, and saffron. Stir until the sugar dissolves.",300,-1
+rabdi_milk,4,Turn off the heat. Gently scrape the collected layers of cream from the sides back into the thickened milk. Let it cool and then chill before serving.,300,-1
+khuri,1,Prepare the filling: Sauté the mustard greens with ginger until wilted. Mix with the mashed potato and crumbled chhurpi. Season with salt.,600,-1
+khuri,2,"Prepare the batter: Whisk the buckwheat or millet flour with water to create a thin, smooth, pourable batter.",300,-1
+khuri,3,Heat a flat pan (tawa) and grease it lightly. Pour a ladleful of batter and spread it into a thin crepe. Cook for 1-2 minutes.,180,-1
+khuri,4,"Place a portion of the filling on one half of the crepe, fold it over, and cook for another minute. Serve hot with a spicy chutney.",120,-1
+sishnu_ko_saag,1,"Wearing gloves, carefully wash the stinging nettle leaves in several changes of water.",300,-1
+sishnu_ko_saag,2,"In a pot, bring water to a boil and blanch the nettle leaves for 3-5 minutes to remove their sting. Drain.",480,-1
+sishnu_ko_saag,3,Heat ghee or oil in the pot. Add the crushed garlic and sauté until fragrant.,180,-1
+sishnu_ko_saag,4,Add the blanched nettle leaves and salt. Add about 2 cups of water.,120,-1
+sishnu_ko_saag,5,"Bring to a simmer and cook for 10-15 minutes until the leaves are very soft and have formed a thick, slightly tangy soup.",900,-1
+momo,1,Prepare the dough by mixing the flour with water and a pinch of salt. Knead until smooth and let it rest for 30 minutes.,-1,1800
+momo,2,"For the filling, combine the minced meat, chopped onion, minced ginger, salt, and pepper in a bowl. Mix thoroughly.",600,-1
+momo,3,"Roll out small, thin circles from the dough. Place a spoonful of filling in the center of each circle.",900,-1
+momo,4,"Fold and pleat the edges of the dough to seal the filling inside, creating the classic momo shape.",600,-1
+momo,5,Arrange the momos in a greased steamer and steam over boiling water for 10-12 minutes until cooked through. Serve hot with a spicy tomato chutney.,720,-1
+thukpa,1,Cook the noodles according to package directions. Drain and set aside.,600,-1
+thukpa,2,"In a large pot, sauté the ginger-garlic paste. Add the sliced meat and cook until browned.",480,-1
+thukpa,3,Add the chopped vegetables and stir-fry for a few minutes.,300,-1
+thukpa,4,"Pour in about 4-5 cups of hot water or stock. Add soy sauce, salt, and pepper. Bring to a boil and then simmer for 10 minutes.",720,-1
+thukpa,5,"To serve, place a portion of the cooked noodles in a bowl and ladle the hot broth with meat and vegetables over them.",180,-1
+phagshapa,1,"In a pot, combine the pork fat strips (and meat, if using), sliced radish, whole dried red chilies, ginger, and salt.",300,-1
+phagshapa,2,Add enough water to cover the ingredients. Bring to a boil.,480,-1
+phagshapa,3,"Reduce the heat, cover, and let it simmer for 30-40 minutes until the pork fat is tender and has rendered, and the radishes are cooked through.",2100,-1
+gundruk_ko_jhol,1,Soak the gundruk in warm water for 10-15 minutes to rehydrate it. Squeeze out the excess water.,-1,900
+gundruk_ko_jhol,2,Heat oil in a pan. Sauté the chopped onion until translucent. Add the chopped tomato and cook until soft.,480,-1
+gundruk_ko_jhol,3,Add the turmeric powder and the soaked gundruk (and soybeans if using). Sauté for a few minutes.,300,-1
+gundruk_ko_jhol,4,Pour in about 3 cups of hot water and add salt. Bring to a boil and then simmer for 10-15 minutes until the soup is flavorful.,900,-1
+dhindo,1,"In a heavy-bottomed pot, bring the water to a rolling boil. Add ghee if desired.",480,-1
+dhindo,2,"Reduce the heat to medium. Start adding the flour gradually to the boiling water, stirring continuously and vigorously with a wooden spatula.",300,-1
+dhindo,3,Continue to stir and press the mixture against the sides of the pot for 10-15 minutes to cook the flour and avoid lumps.,900,-1
+dhindo,4,"The dhindo is ready when it forms a single, smooth, dense mass that pulls away from the sides of the pot. Serve immediately with dal or curry.",60,-1
+sel_roti,1,"In a bowl, mix the rice flour, sugar, and melted ghee.",180,-1
+sel_roti,2,"Gradually add water or milk, whisking to form a smooth, thick but flowing batter. Let it rest for at least 30 minutes.",-1,1800
+sel_roti,3,Heat oil for deep frying in a wide pan (kadhai).,300,-1
+sel_roti,4,Take a handful of batter and pour it steadily into the hot oil in a circular motion to form a ring shape.,120,-1
+sel_roti,5,"Fry on medium-low heat for 2-3 minutes per side, until the sel roti is golden brown and cooked through. Use a skewer to turn it. Drain on absorbent paper.",360,-1
+othidvar,1,"Prepare the chutney (Tashvirg): Dry roast the tomato, garlic, chili, and coriander seeds. Grind them together with the grated coconut and salt into a coarse paste.",900,-1
+othidvar,2,"In a large bowl, mix the cooked rice with the buttermilk until well combined. The mixture should be moist enough to be shaped.",300,-1
+othidvar,3,Shape the rice mixture by hand into a neat mound on a serving plate.,180,-1
+othidvar,4,Create a small crater in the center of the rice mound.,60,-1
+othidvar,5,Fill the crater with the prepared chutney and top it with a generous dollop of fresh buffalo butter. Serve immediately.,120,-1
+roasted_termites,1,"After foraging, remove the wings from the termites.",300,-1
+roasted_termites,2,"In a dry pan over medium heat, roast the termites, stirring frequently, for 5-7 minutes until they are crisp and cooked through.",420,-1
+roasted_termites,3,"Sprinkle with a little salt and consume immediately as a crunchy, nutty-flavored snack.",60,-1
+field_rat_curry,1,Roast the cleaned rat meat over an open fire to singe off any remaining fur and impart a smoky flavor. Cut into pieces.,600,-1
+field_rat_curry,2,"In a pot, combine the meat pieces with crushed ginger, garlic, chilies, turmeric, and salt.",300,-1
+field_rat_curry,3,Add enough water to cover the meat and bring to a boil.,300,-1
+field_rat_curry,4,"Reduce the heat, cover, and simmer for 25-30 minutes until the meat is tender and a simple gravy has formed.",1800,-1
+wild_turmeric_sweet,1,"Wash, peel, and grate the wild turmeric tuber.",480,-1
+wild_turmeric_sweet,2,Boil the grated tuber in water for 20-25 minutes until it is completely soft. Drain thoroughly.,1500,-1
+wild_turmeric_sweet,3,"In a pan, combine the boiled turmeric with the grated jaggery and coconut.",120,-1
+wild_turmeric_sweet,4,"Cook on low heat, stirring continuously, until the jaggery melts and the mixture comes together to form a thick, sweet paste. Serve warm or cooled.",300,-1
+sorghum_porridge,1,Bring the water to a boil in a pot.,300,-1
+sorghum_porridge,2,"Slowly add the sorghum or maize flour, whisking continuously to prevent lumps from forming.",120,-1
+sorghum_porridge,3,"Reduce the heat to low and simmer, stirring occasionally, for 15-20 minutes until the grain is cooked through and the porridge has thickened.",1200,-1
+sorghum_porridge,4,Add salt to taste and serve warm.,60,-1
+monitor_lizard_curry,1,"In a pot, combine the lizard meat, crushed ginger, garlic, green chilies, and the piece of Voddi wood.",300,-1
+monitor_lizard_curry,2,Add enough water to cover the meat and bring to a boil.,300,-1
+monitor_lizard_curry,3,"Reduce the heat, cover, and simmer for 30-40 minutes until the meat is tender and a simple gravy has formed.",2100,-1
+monitor_lizard_curry,4,Add salt to taste and serve hot with porridge or rice.,60,-1
+basic_tamarind_chutney,1,"In a mortar and pestle or on a grinding stone, combine the chilies, chopped onion, and salt.",120,-1
+basic_tamarind_chutney,2,Pound the ingredients together into a coarse paste.,300,-1
+basic_tamarind_chutney,3,Mix in the tamarind pulp thoroughly to create a pungent relish. Serve with rice or porridge.,180,-1
+fried_flying_termites,1,"After foraging and trapping, remove the wings from the termites.",300,-1
+fried_flying_termites,2,"On a hot, flat stone or a dry pan, roast the termites for 5-7 minutes, stirring, until they are crisp.",420,-1
+fried_flying_termites,3,"Winnow to remove any remaining chaff, sprinkle with salt, and eat as a snack, often with jowar roti.",120,-1
+edible_tamarind_seeds,1,Roast the hard tamarind seeds directly on a fire until they are well-charred.,900,-1
+edible_tamarind_seeds,2,Soak the roasted seeds in water for two full days. This process softens the inner kernel.,-1,172800
+edible_tamarind_seeds,3,"After soaking, crack open the seeds and peel off the outer shell.",600,-1
+edible_tamarind_seeds,4,"The softened inner part is then eaten as a snack, said to taste like peas.",60,-1
+chakhwi,1,"In a pot, combine the pork, bamboo shoots, ginger, green chilies, and baking soda with about 2 cups of water.",300,-1
+chakhwi,2,"Bring the mixture to a boil, then reduce the heat and simmer for 30-40 minutes, or until the pork is tender.",2100,-1
+chakhwi,3,"In a small bowl, make a smooth slurry with the rice flour and a little cold water.",120,-1
+chakhwi,4,"Slowly pour the rice flour slurry into the simmering curry, stirring continuously until the gravy thickens. Add salt to taste and cook for another 2 minutes.",180,-1
+gudok,1,"In a pot, boil the mixed vegetables, bamboo shoots, and green chilies in water until they are completely soft and mashable.",1800,-1
+gudok,2,Drain the excess water thoroughly.,60,-1
+gudok,3,"In a large bowl, add the boiled vegetables, the Berma, and salt. Coarsely mash everything together with a masher or a heavy spoon until well combined.",240,-1
+gudok,4,Serve the hearty mash warm with plain rice.,60,-1
+wahan_mosdeng,1,Boil the pork in water with a pinch of salt for 30-40 minutes until it is completely tender.,2100,-1
+wahan_mosdeng,2,"Let the pork cool slightly, then shred or finely chop it.",180,-1
+wahan_mosdeng,3,"In a mixing bowl, combine the shredded pork with the chopped onion, ginger, and culantro.",120,-1
+wahan_mosdeng,4,"Mash the roasted green chilies with salt, then add this to the pork mixture. Toss everything together thoroughly. Serve at room temperature.",120,-1
+bhangui,1,Wash and soak the sticky rice in water for at least 1 hour.,-1,3600
+bhangui,2,"Drain the rice thoroughly. In a bowl, mix the drained rice with ghee, grated ginger, and salt.",300,-1
+bhangui,3,"Fashion the Lairu leaves into a cone-shaped funnel, securing the end. Pack the rice mixture tightly inside the cone.",480,-1
+bhangui,4,"Place the leaf cone upright in a steamer or a pot with a little boiling water at the bottom. Cover and steam for 20-25 minutes until the rice is cooked, fragrant, and has formed a solid cone.",1500,-1
+muya_awandru,1,Boil the sliced bamboo shoots in water for 10-15 minutes to soften them. Drain.,900,-1
+muya_awandru,2,"In a pot, add the boiled bamboo shoots, mashed Berma, green chilies, turmeric, and salt. Add about 2 cups of water and bring to a simmer.",300,-1
+muya_awandru,3,Cook for 5-7 minutes for the flavors to meld.,420,-1
+muya_awandru,4,"Make a smooth slurry of the rice flour with a little cold water. Pour it into the simmering pot, stirring continuously, and cook for another 2-3 minutes until the gravy thickens.",180,-1
+shile_kutu,1,"In a bowl, mix the flour with salt. Gradually add water to form a firm, but pliable dough. Knead for 5-7 minutes.",600,-1
+shile_kutu,2,"Divide the dough into small, equal-sized balls.",120,-1
+shile_kutu,3,"On a lightly floured surface, roll out each ball into a thin, round pancake, similar to a chapatti or roti.",300,-1
+shile_kutu,4,"Heat a flat pan (tawa). Cook the pancake on medium heat for about a minute per side, until light brown spots appear. Apply ghee if desired.",180,-1
+champain,1,"Create a very tight, firm dough from the wheat flour, salt, and water.",600,-1
+champain,2,"Take small portions of the dough and rub vigorously between your palms to form small, thin noodles.",900,-1
+champain,3,Bring a large pot of salted water to a boil. Add the noodles and cook for 5-7 minutes until they are al dente. Drain thoroughly.,600,-1
+champain,4,"Heat ghee or oil in a pan. Add the dried red chilies and herbs (jumbu). Sauté for a minute, then add the boiled noodles. Toss well and fry for 2-3 minutes.",300,-1
+machhi_bhat,1,Marinate the fish pieces with salt and turmeric powder for 15 minutes.,-1,900
+machhi_bhat,2,Heat mustard oil in a pan. Lightly fry the marinated fish pieces until golden. Set aside.,600,-1
+machhi_bhat,3,"In the same oil, add chopped onions and sauté until translucent. Add ginger-garlic paste and cook for another minute.",480,-1
+machhi_bhat,4,"Add turmeric, coriander, and chili powder with a splash of water. Cook the spice paste for 2-3 minutes.",180,-1
+machhi_bhat,5,Add about 1.5 cups of warm water and salt to create a gravy. Bring to a simmer.,300,-1
+machhi_bhat,6,Gently place the fried fish pieces into the gravy. Cover and simmer on low heat for 5-7 minutes until the fish is cooked through. Serve hot with steamed rice.,420,-1
+ghonghi,1,"Clean the snails thoroughly by washing them in several changes of water. Let them sit in water with turmeric for an hour, then wash again. Snip off the pointed tail end of each snail.",-1,3600
+ghonghi,2,Heat mustard oil in a deep pan. Add the chopped onion and sauté until golden brown.,480,-1
+ghonghi,3,"Add the ginger-garlic paste and cook for a minute. Then add turmeric, chili, and coriander powder, and cook the spice paste for another minute.",240,-1
+ghonghi,4,Add the cleaned snails to the pan and stir-fry for 5 minutes.,300,-1
+ghonghi,5,"Pour in about 2 cups of hot water and add salt. Bring to a boil, then cover and simmer for 20 minutes.",1200,-1
+ghonghi,6,"Mix the ground linseed powder with a little water to form a smooth paste. Add this paste to the simmering gravy, stirring well to combine. Cook for another 5 minutes until the gravy thickens. The meat is eaten by sucking it from the shell.",360,-1
+dhikri,1,"In a bowl, combine the rice flour and salt. Gradually pour in hot water, mixing with a spoon until cool enough to handle.",300,-1
+dhikri,2,"Knead the mixture into a smooth, pliable dough. If it's too sticky, add a little more flour; if too dry, add a bit more hot water.",480,-1
+dhikri,3,"Take small portions of the dough and roll them between your palms to form elongated, cylindrical sticks or other desired shapes.",420,-1
+dhikri,4,"Arrange the shaped dough in a greased steamer basket, ensuring they don't touch.",120,-1
+dhikri,5,"Steam over boiling water for 15-20 minutes, or until the dhikri are firm and cooked through.",1200,-1
+dhikri,6,"Serve immediately with spicy chutney, lentil soup, or curry.",60,-1
+pakuwa,1,"In a large bowl, combine the meat with all the spices, ginger-garlic paste, salt, and mustard oil. Mix thoroughly to ensure every piece is coated.",600,-1
+pakuwa,2,"Cover the bowl and let the meat marinate for at least 1-2 hours, or overnight in the refrigerator for best results.",-1,3600
+pakuwa,3,Thread the marinated meat pieces onto skewers.,300,-1
+pakuwa,4,"Roast the skewers over hot coals or in an oven, turning periodically, until the meat is cooked through, tender, and slightly charred on the edges.",1800,-1
+patushni,1,"If using lentils, soak them for 4-5 hours, then grind into a thick, smooth paste. If using rice flour, mix with water to form a thick paste. Add all spices and salt to the paste.",300,-1
+patushni,2,Wash the taro leaves and carefully remove the thick central vein.,300,-1
+patushni,3,"Lay a leaf flat and spread a thin layer of the paste over it. Place another leaf on top and repeat, creating a stack of 4-5 leaves.",480,-1
+patushni,4,Tightly roll the stack of leaves into a log. Secure with thread if necessary.,240,-1
+patushni,5,Steam the logs for 20-25 minutes until the paste is firm and cooked through. Let it cool completely.,1500,-1
+patushni,6,"Once cooled, slice the log into half-inch thick rounds.",120,-1
+patushni,7,Heat oil in a pan and shallow or deep-fry the slices until they are golden brown and crisp on both sides.,600,-1
+laato_jel,1,"Marinate the minced meat with ginger-garlic paste, turmeric, chili powder, and salt for at least 30 minutes.",-1,1800
+laato_jel,2,Heat mustard oil in a heavy-bottomed pan. Add the chopped onions and fry until deep golden brown.,600,-1
+laato_jel,3,"Add the marinated meat to the pan and cook on high heat for 5-7 minutes, stirring continuously.",420,-1
+laato_jel,4,"Reduce the heat, cover the pan, and let the meat slow-cook in its own juices for 20-25 minutes.",1500,-1
+laato_jel,5,"Slowly sprinkle in the rice powder while stirring to thicken the gravy. Cook for another 5 minutes until a rich, glazed consistency is achieved.",300,-1
+laad,1,"Marinate the meat pieces with ginger-garlic paste, turmeric, and salt.",600,-1
+laad,2,Tightly stuff the marinated meat inside the hollowed-out Sal branch.,300,-1
+laad,3,Seal both ends of the branch securely with fresh green Sal leaves.,300,-1
+laad,4,"Place the entire branch directly into the embers of a bonfire. Let it slow-roast for at least 45-60 minutes, turning occasionally, until the branch is charred and the meat inside is tender and cooked.",3600,-1
+hav_chatni,1,"Carefully clean the ants and their eggs, removing any leaves or debris from the nest.",600,-1
+hav_chatni,2,"Using a stone grinder or mortar and pestle, crush the ants, eggs, green chilies, and salt together into a coarse paste.",300,-1
+hav_chatni,3,Serve immediately as a side condiment.,60,-1
+hisa_aara_sipi,1,Thoroughly wash the tender Pakur leaves.,180,-1
+hisa_aara_sipi,2,Boil the leaves in water for 10-15 minutes until they are very soft. Drain completely.,900,-1
+hisa_aara_sipi,3,"In a bowl, mash the boiled leaves. Roast the dry red chilies over a flame until dark, then crush them.",180,-1
+hisa_aara_sipi,4,"Mix the mashed leaves with the crushed chilies, chopped onion, salt, and raw mustard oil. Serve as a side dish.",120,-1
+millet_momos,1,"Prepare the dough by mixing the ragi and wheat flour with warm water and a pinch of salt. Knead into a smooth, pliable dough and let it rest for 30 minutes.",-1,1800
+millet_momos,2,"For the filling, sauté the chopped vegetables and ginger until soft. Add soy sauce, salt, and pepper. Let the filling cool.",600,-1
+millet_momos,3,"Roll out small discs from the dough, place a spoonful of filling in the center, and fold and pleat to seal into a momo shape.",900,-1
+millet_momos,4,Arrange the momos in a steamer and steam for 10-12 minutes until the wrapper is cooked through.,720,-1
+kudrum_chutney,1,Wash the roselle calyces and separate the petals.,180,-1
+kudrum_chutney,2,"Heat oil in a pan, add mustard seeds and the dried red chili. Let them splutter.",120,-1
+kudrum_chutney,3,Add the roselle petals and sauté for 5-7 minutes until they become soft and pulpy.,420,-1
+kudrum_chutney,4,"Add the grated jaggery and a pinch of salt. Cook, stirring continuously, until the jaggery melts and the mixture thickens into a jam-like consistency.",480,-1
+wild_pig_roast,1,Dig a shallow pit and build a fire in it. Let the fire burn down to hot embers and stones.,1800,-1
+wild_pig_roast,2,"Rub the pig meat with salt, if available.",120,-1
+wild_pig_roast,3,Wrap the meat in large leaves (optional) and place it directly onto the hot stones in the pit.,180,-1
+wild_pig_roast,4,"Cover the meat with more hot stones and embers, and then with earth. Let it slow-roast for 1-2 hours until tender and cooked through.",5400,-1
+naan_yeast,1,"In a small bowl, whisk together lukewarm water, sugar, and yeast. Cover and let stand for 5-10 minutes until frothy.",-1,600
+naan_yeast,2,"In a large bowl, whisk flour and salt. Create a well and pour in the yeast mixture, lukewarm milk, yogurt, and oil.",600,-1
+naan_yeast,3,"Mix to form a shaggy dough, then knead on a floured surface for 5-8 minutes until smooth and elastic.",480,-1
+naan_yeast,4,"Place the dough in a greased bowl, cover, and let it rise in a warm place for 60-90 minutes, until doubled in volume.",-1,5400
+naan_yeast,5,"Punch down the dough, divide into 8 balls, cover, and let them rest for another 10-15 minutes.",-1,900
+naan_yeast,6,"Roll a dough ball into a teardrop shape. Cook on a hot cast-iron skillet for 1-2 minutes until bubbles form. Flip and cook for another minute, or char over a direct gas flame for 15-30 seconds.",150,-1
+naan_yeast,7,Immediately brush with melted butter or ghee and serve hot.,30,-1
+naan_no_yeast,1,"In a large bowl, whisk together flour, baking powder, baking soda, salt, and sugar.",300,-1
+naan_no_yeast,2,"Make a well and add yogurt, oil, and lukewarm milk. Mix and knead for 3-5 minutes until the dough is soft and pliable.",300,-1
+naan_no_yeast,3,"Let the dough rest for 10 minutes, then divide into 6 equal portions.",-1,600
+naan_no_yeast,4,Roll a dough ball into a teardrop shape. Cook on a hot cast-iron skillet for 1-2 minutes until bubbles form. Flip and cook for another minute. Brush with butter and serve.,150,-1
+butter_garlic_naan,1,"Prepare the yeast-leavened naan dough, adding the grated garlic along with the other wet ingredients.",1080,-1
+butter_garlic_naan,2,Allow the dough to rise for 60-90 minutes.,-1,5400
+butter_garlic_naan,3,"While the dough rests, prepare the topping by combining melted butter, minced garlic, and chopped cilantro.",300,-1
+butter_garlic_naan,4,"Divide, shape, and let the dough rest for another 10-15 minutes.",-1,900
+butter_garlic_naan,5,Roll and cook the naan as per the classic recipe.,150,-1
+butter_garlic_naan,6,"As soon as each naan comes off the heat, generously brush it with the prepared garlic butter and serve immediately.",30,-1
+keema_naan,1,Prepare one batch of yeast-leavened naan dough and allow it to complete its first rise.,-1,5400
+keema_naan,2,"While dough rises, prepare the filling. Heat oil, sauté onion until golden, add ginger-garlic paste, then add minced meat and brown it.",600,-1
+keema_naan,3,Stir in all spices and salt. Simmer for 10-12 minutes until all liquid has evaporated completely. The mixture must be dry. Let it cool.,720,-1
+keema_naan,4,Punch down the risen dough and divide it into 8 balls. Roll a ball into a small circle.,300,-1
+keema_naan,5,Place a tablespoon of cooled keema filling in the center. Gather the edges and pinch to seal completely.,600,-1
+keema_naan,6,Gently flatten and roll out the stuffed ball into a 6-7 inch oval. Cook on a hot tawa or in an oven until golden and puffed. Brush with butter.,240,-1
+paneer_naan,1,Prepare one batch of yeast-leavened naan dough and allow it to complete its first rise.,-1,5400
+paneer_naan,2,"While dough rises, prepare the filling by gently combining grated paneer, onion, coriander, chili, and all spices in a bowl.",600,-1
+paneer_naan,3,"Punch down the risen dough, divide into 8 balls, and roll one into a small circle.",300,-1
+paneer_naan,4,"Place a spoonful of paneer filling in the center, seal the edges, and gently roll it out.",600,-1
+paneer_naan,5,Cook on a hot tawa or in the oven until golden and puffed. Brush with butter before serving.,240,-1
+kulcha,1,"Whisk dry ingredients. Make a well, add yogurt, oil, and water. Knead for 5-7 minutes to a smooth, soft dough.",600,-1
+kulcha,2,Cover the dough with a damp cloth and let it rest in a warm place for 2 hours.,-1,7200
+kulcha,3,"Divide dough into 10 balls. Roll a ball into a 5-6 inch circle, brush with water, and sprinkle with nigella seeds.",300,-1
+kulcha,4,"Cook on a hot tawa for about 1 minute until bubbles form. Flip, apply ghee, and cook for 1-2 minutes until golden. Flip again, apply ghee, and cook for 30 seconds.",180,-1
+tandoori_roti,1,"Prepare a smooth, soft, and supple dough with atta, salt, oil, and water. Cover and let it rest for 30 minutes.",-1,2400
+tandoori_roti,2,"Divide dough into 8 balls and roll each into a 6-inch circle, slightly thicker than a chapati.",300,-1
+tandoori_roti,3,Heat a cast-iron or steel tawa over high heat until very hot. Apply an even layer of water to one side of the roti.,180,-1
+tandoori_roti,4,Place the roti water-side down on the hot tawa. Cook for 1-2 minutes until large bubbles form on top.,120,-1
+tandoori_roti,5,Firmly grip the tawa handle and invert the entire tawa over a gas flame to cook and char the top surface.,120,-1
+tandoori_roti,6,Turn the tawa back upright and remove the cooked roti. Brush generously with butter and serve immediately.,60,-1
+chapati,1,"Combine atta and optional salt. Gradually add warm water and knead for 7-10 minutes until the dough is very soft, smooth, and pliable.",600,-1
+chapati,2,Cover the dough with a damp cloth and let it rest for at least 20 minutes. This step is crucial for soft rotis.,-1,1200
+chapati,3,"Divide the rested dough into 12 equal balls. Dip a ball in dry atta and roll it into a thin, even circle about 6 inches in diameter.",600,-1
+chapati,4,Cook on a medium-high hot tawa for 15-30 seconds. Flip and cook the second side for 30-40 seconds.,60,-1
+chapati,5,"Using tongs, place the roti directly on a medium-high gas flame. It should puff up into a sphere almost immediately. Flip to cook the other side for a few seconds.",30,-1
+chapati,6,Brush with ghee if desired and store in a cloth-lined container to keep soft.,30,-1
+paratha,1,"Prepare a soft, pliable dough using atta, salt, 1 tsp oil, and water. Let it rest, covered, for 30 minutes.",-1,1800
+paratha,2,Divide the dough into 8 balls. Roll one into a 4-inch circle and spread ghee over the surface.,300,-1
+paratha,3,"Fold the circle in half to form a semi-circle, apply more ghee, then fold again to form a triangle.",300,-1
+paratha,4,Dust with flour and roll out into a larger triangle.,300,-1
+paratha,5,"Cook on a medium-hot tawa, frying both sides with ghee or oil until golden brown and crispy.",300,-1
+aloo_paratha,1,"Prepare a soft, pliable dough with atta, salt, and water. Let it rest for 10 minutes.",-1,600
+aloo_paratha,2,"In a bowl, combine the cool mashed potatoes with all the filling ingredients and mix well.",300,-1
+aloo_paratha,3,"Divide dough and filling into 6 portions. Roll a dough ball, place a portion of filling inside, and seal it completely.",600,-1
+aloo_paratha,4,Dust the stuffed ball with flour and gently roll it into a 6-7 inch circle.,300,-1
+aloo_paratha,5,"Cook on a medium-hot tawa, frying both sides with generous amounts of ghee or oil until golden brown and crisp.",300,-1
+lachha_paratha,1,"Prepare a soft, pliable dough with atta, salt, and water. Knead well for 10 minutes, then cover and rest for 15-30 minutes.",-1,1500
+lachha_paratha,2,Roll a ball into a very thin 8-9 inch circle. Spread ghee over the surface and sprinkle with dry atta.,300,-1
+lachha_paratha,3,"Fold the circle into small, accordion-like pleats. Stretch the pleated strip and roll it up tightly into a spiral coil.",420,-1
+lachha_paratha,4,Let the coil rest for 5-10 minutes. Lightly dust with flour and roll it out into a 5-6 inch circle.,-1,450
+lachha_paratha,5,Cook on a medium-hot tawa with ghee until golden brown and crisp. Gently crush between hands to separate the layers.,300,-1
+parotta,1,"Mix maida, salt, sugar. Add optional egg, milk, and 2 tbsp oil. Gradually add water to form a very soft, sticky dough. Knead on an oiled surface for 10-15 minutes until extremely smooth and elastic.",900,-1
+parotta,2,"Coat the dough generously with oil, cover, and let it rest for a minimum of 2 hours.",-1,7200
+parotta,3,"Divide dough into 8 balls, coat in oil, rest for 15 mins. On an oiled surface, stretch a ball into a paper-thin sheet.",-1,900
+parotta,4,"Brush the sheet with oil, pleat it, and coil the resulting strip into a rosette. Let it rest for another 15-20 minutes.",-1,1200
+parotta,5,Gently roll the rested coil into a thick 5-6 inch parotta. Cook on a medium-hot tawa with plenty of oil until golden brown.,300,-1
+parotta,6,"Stack 2-3 hot parottas and, using both hands, clap or crush them together from the sides to reveal the flaky layers.",30,-1
+dosa,1,Soak rice and dal separately for 4-5 hours. Grind into a smooth batter and allow to ferment for 8-12 hours in a warm place.,-1,52200
+dosa,2,Heat a cast-iron or non-stick tawa over medium-high heat. Rub with an oiled onion half to season.,300,-1
+dosa,3,"Reduce heat to medium-low, pour a ladleful of batter in the center, and quickly spread it in a spiral motion to form a thin crepe.",30,-1
+dosa,4,Increase heat to medium-high. Drizzle oil or ghee around the edges. Cook for 2-3 minutes until the bottom is golden brown and crisp.,180,-1
+dosa,5,Fold the dosa in half or roll it up. Serve immediately with sambar and chutney.,30,-1
+masala_dosa,1,Prepare and ferment the dosa batter as per the standard Dosa recipe.,-1,54000
+masala_dosa,2,"Prepare the potato filling: Heat oil, add mustard seeds and chana dal. Once they splutter, add onions, chilies, and curry leaves and sauté until onions are soft.",480,-1
+masala_dosa,3,"Add turmeric, then the mashed potatoes and salt. Mix well, add a splash of water, and simmer for 2-3 minutes until the mixture is a moist, spreadable consistency.",300,-1
+masala_dosa,4,"Cook a dosa as per the standard recipe. Once crisp, place 2-3 tablespoons of the potato filling down the center.",300,-1
+masala_dosa,5,Fold the sides of the dosa over the filling and serve immediately.,30,-1
+idli,1,"Separately, soak the rice in one bowl, and the urad dal with fenugreek seeds in another. Soak for 6 hours.",-1,21600
+idli,2,"Grind the soaked dal mixture to a very smooth, fluffy batter. Then, grind the soaked rice to a fine, slightly grainy consistency.",1200,-1
+idli,3,"Combine both batters in a large bowl, add salt, and mix well with your hands. Cover and let it ferment in a warm place for 8-14 hours, until doubled or tripled in volume.",-1,43200
+idli,4,Gently mix the fermented batter. Spoon the batter into greased idli molds.,300,-1
+idli,5,Steam in an idli steamer over boiling water for 10-12 minutes. Let it rest for 5 minutes before demolding. Serve hot with sambar and chutney.,1020,-1
+appam,1,Wash and soak the raw rice in water for 4-8 hours.,-1,21600
+appam,2,Grind the drained rice with fresh coconut and cooked rice into a very smooth batter.,900,-1
+appam,3,"Activate yeast with sugar in lukewarm water. Add the activated yeast and salt to the batter. The batter should have a thin, flowing consistency.",600,-1
+appam,4,Cover and let the batter ferment in a warm place for 8-12 hours until bubbly and risen.,-1,36000
+appam,5,Heat a curved appachatti pan. Pour a ladle of batter and immediately swirl the pan to spread a thin layer up the sides.,60,-1
+appam,6,Cover and cook for about 2 minutes. The appam is not flipped. Serve hot when the center is spongy and edges are crisp.,120,-1
+puttu,1,Combine puttu podi and salt. Gradually sprinkle water while mixing with your fingertips until the flour resembles wet breadcrumbs. Squeeze a handful; it should hold its shape but crumble when pressed.,240,-1
+puttu,2,"In a puttu kutti (steamer tube), alternate layers of the moist rice flour mixture and fresh grated coconut, starting and ending with coconut.",120,-1
+puttu,3,"Place the tube over the base pot with boiling water and steam on medium heat for 6-9 minutes, or until steam is released from the lid's vents.",540,-1
+puttu,4,Carefully push the cooked puttu out from the tube onto a plate and serve hot with kadala curry or bananas.,60,-1
+puri,1,"Combine atta, semolina, and salt. Add oil and water gradually to knead a stiff, tight dough. Rest for 5-10 minutes.",-1,600
+puri,2,"Divide the dough into 10-12 small balls. Using a little oil on the rolling surface, roll each ball into an even circle about 4-5 inches in diameter.",600,-1
+puri,3,"Heat oil in a deep pan over medium-high heat. Slide one puri in. As it floats, gently press it down with a slotted spoon to help it puff up.",30,-1
+puri,4,"Once puffed, flip and fry the other side for about 30 seconds until light golden brown. Drain and serve hot.",30,-1
+baati,1,"Combine flour, semolina, salt, ajwain, and baking soda. Rub in the melted ghee until the mixture resembles breadcrumbs.",300,-1
+baati,2,"Gradually add warm water/milk to knead a very stiff, tight dough. Cover and rest for 15-20 minutes.",-1,1200
+baati,3,Divide the dough into 10-12 balls. Press a thumb in the center of each to create an indentation.,300,-1
+baati,4,"Bake in a preheated oven at 190°C (375°F) for 25-30 minutes, flipping halfway, until golden brown and hard with cracks on the surface.",1800,-1
+baati,5,"Take the hot baatis, gently crack them open, and submerge them in a bowl of melted ghee for at least a minute before serving.",60,-1
+hyderabadi_biryani,1,"In a large bowl, combine chicken with all marinade ingredients: yogurt, ginger-garlic paste, spice powders, lemon juice, salt, fresh herbs, green chilies, 3 tbsp fried onions, and oil. Mix well, cover, and refrigerate.",-1,7200
+hyderabadi_biryani,2,"Wash rice until water runs clear, then soak for 30 minutes. In a large pot, bring 4-5 litres of water to a boil with whole spices and salt.",-1,1800
+hyderabadi_biryani,3,Drain the soaked rice and add it to the boiling water. Cook for 6-7 minutes until the rice is 75% cooked. Immediately drain in a colander.,420,-1
+hyderabadi_biryani,4,"In a heavy-bottomed pot, spread the marinated chicken in an even layer. Top with half the rice, then sprinkle half the remaining fried onions, mint, and coriander. Layer the rest of the rice, and top with the final garnishes, saffron milk, and ghee. [8]",600,-1
+hyderabadi_biryani,5,"Seal the pot with a tight lid (using dough if needed). Cook on high heat for 5-7 minutes to build steam, then reduce to lowest heat (on a tawa) for 25-30 minutes. [8]",2100,-1
+hyderabadi_biryani,6,"Turn off the heat and let the biryani rest, still sealed, for another 15-20 minutes to allow flavors to settle.",-1,1200
+lucknowi_biryani,1,"Marinate the chicken with yogurt, ginger-garlic paste, yellow chili powder, cardamom powder, salt, and whole spices for 1-2 hours. [22]",-1,3600
+lucknowi_biryani,2,Wash and soak basmati rice for 30-40 minutes. Par-cook in a large pot of boiling salted water until 80% done. Drain and set aside. [17],-1,2400
+lucknowi_biryani,3,"In a heavy pot, heat ghee and fry sliced onions until golden. Remove half for garnish. To the pot, add the marinated chicken and sauté for 3-4 minutes. [22]",600,-1
+lucknowi_biryani,4,"Lower the heat, cover, and cook the chicken for 20-25 minutes until 80-90% cooked, creating a fragrant gravy (yakhni). [17]",1500,-1
+lucknowi_biryani,5,"Layer the par-cooked rice over the chicken. Top with reserved fried onions, saffron milk, kewra water, and a final drizzle of ghee. [17]",300,-1
+lucknowi_biryani,6,Seal the pot and cook on the lowest heat (on a tawa) for 20-25 minutes to 'dum' cook the layers together.,1500,-1
+lucknowi_biryani,7,Let the biryani rest for 10 minutes before opening and serving.,-1,600
+vegetable_pulao,1,"Rinse and soak the basmati rice for 30 minutes, then drain completely. [28]",-1,1800
+vegetable_pulao,2,"Heat ghee in a deep pot, add whole spices and cumin seeds. Once they sizzle, add sliced onions and sauté until golden brown. [29]",480,-1
+vegetable_pulao,3,Add ginger-garlic paste and cook for a minute. Add chopped tomatoes and cook until they soften. [29],300,-1
+vegetable_pulao,4,Add the mixed vegetables and sauté for 2-3 minutes. Stir in the drained rice and sauté gently for 1-2 minutes. [28],240,-1
+vegetable_pulao,5,"Pour in hot water or stock and salt. Bring to a boil, then reduce heat to low, cover tightly, and simmer for 15-20 minutes until water is absorbed.",1200,-1
+vegetable_pulao,6,"Turn off the heat and let the pulao rest, covered, for 5-10 minutes before fluffing with a fork and serving.",-1,600
+matar_pulao,1,"Rinse and soak the basmati rice for 20-25 minutes, then drain.",-1,1500
+matar_pulao,2,"Heat ghee in a pot, add whole spices. Once fragrant, add sliced onions and sauté until deep golden brown. [31]",540,-1
+matar_pulao,3,"Add ginger-garlic paste, sauté for a minute, then add mint leaves and sauté until wilted. [31]",180,-1
+matar_pulao,4,"Stir in the green peas and drained rice, sautéing gently for 1-2 minutes.",120,-1
+matar_pulao,5,"Pour in hot water and salt. Bring to a boil, then cover and simmer on low for 15-20 minutes. [31]",1200,-1
+matar_pulao,6,"Rest for 5-10 minutes after cooking, then fluff gently and serve.",-1,600
+kashmiri_pulao,1,"Rinse and soak the basmati rice for 30 minutes, then drain.",-1,1800
+kashmiri_pulao,2,"In a pan, heat 2 tbsp of ghee and fry the cashews and almonds until golden, then fry the raisins until they puff up. Remove and set aside. [34]",300,-1
+kashmiri_pulao,3,"In the same pan, add remaining ghee and whole spices, sautéing until aromatic. Add fennel and ginger powder and stir for a few seconds. [37]",180,-1
+kashmiri_pulao,4,"Add the drained rice and sauté gently for 1-2 minutes. Pour in the water/milk mixture and salt, and bring to a boil. [34]",300,-1
+kashmiri_pulao,5,"Add the saffron-infused milk, cover tightly, and simmer on low for 15-20 minutes until the rice is cooked. [34]",1200,-1
+kashmiri_pulao,6,"Rest for 5-10 minutes, then fluff the rice and garnish with the fried nuts, raisins, and fresh pomegranate arils before serving. [34]",-1,600
+kodi_pulao,1,"Prepare the fried onion paste and ginger-garlic-green chili paste. Wash and soak rice for 20 minutes, then drain. [39]",-1,1200
+kodi_pulao,2,"Heat ghee in a pressure cooker, sauté whole spices, curry leaves, and shallots. [39]",300,-1
+kodi_pulao,3,"Add the chili paste and sauté. Add the fried onion paste, then the whisked yogurt and mix well. [39]",300,-1
+kodi_pulao,4,"Add chicken and salt, cover and simmer for 15 minutes. [39]",900,-1
+kodi_pulao,5,Stir in herbs and garam masala. Pour in coconut milk and water and bring to a rolling boil. [39],300,-1
+kodi_pulao,6,"Add the drained rice, cashews, and a final tbsp of ghee. Pressure cook for 2 whistles and let the pressure release naturally. [39]",900,-1
+kodi_pulao,7,Let the pulao rest for 10 minutes before fluffing and serving.,-1,600
+moong_dal_khichdi,1,"Rinse rice and moong dal together. Soak in water for at least 30 minutes, then drain. [46]",-1,1800
+moong_dal_khichdi,2,"Heat ghee in a pressure cooker. Add cumin seeds. Once they splutter, add chopped onion and sauté until translucent. [46]",360,-1
+moong_dal_khichdi,3,"Add chopped ginger and green chili, then chopped tomatoes and cook until they soften. [46]",300,-1
+moong_dal_khichdi,4,"Add turmeric powder, then the drained rice and dal mixture. Sauté for one minute. [46]",120,-1
+moong_dal_khichdi,5,Pour in 4 cups of water and salt. Seal the cooker and pressure cook for 7-8 whistles. Let the pressure release naturally. [46],1500,-1
+moong_dal_khichdi,6,Stir the cooked khichdi and serve hot with a dollop of ghee.,60,-1
+dal_tadka,1,"Thoroughly rinse the lentils. In a pressure cooker, combine lentils, onions, tomatoes, green chilies, ginger, water, turmeric, and a pinch of asafoetida. Pressure cook for 7-8 whistles until creamy. [7]",1200,-1
+dal_tadka,2,"Optional: To achieve a smoky flavor, heat a piece of charcoal until red hot, place it in a small bowl on the dal, pour ghee over it, and cover the pot for 1-2 minutes to infuse the smoke. [5]",120,-1
+dal_tadka,3,"Stir salt, garam masala, and chopped coriander leaves into the cooked dal. [7]",60,-1
+dal_tadka,4,"Prepare the tadka: Heat ghee in a small pan, add cumin seeds, then dried red chilies and garlic. Sauté until garlic is golden. Turn off heat, add asafoetida and red chili powder. [5]",180,-1
+dal_tadka,5,Pour the sizzling tadka over the hot dal and serve immediately. [7],30,-1
+dal_fry,1,Rinse and pressure cook the dal with water and turmeric for 2-3 whistles until very soft. Whisk lightly until smooth. [4],1200,-1
+dal_fry,2,"Heat ghee in a pan, add cumin seeds. Once they sizzle, add onions and sauté until golden brown. [4]",360,-1
+dal_fry,3,"Stir in ginger-garlic paste, then add tomatoes and salt. Cook until tomatoes are mushy and oil separates from the masala. [6]",300,-1
+dal_fry,4,"Add spice powders (turmeric, chili, garam masala) and sauté for one minute. [4]",60,-1
+dal_fry,5,Pour the cooked dal into the masala. Add hot water to adjust consistency and simmer for 5-7 minutes for flavors to absorb. [4],420,-1
+dal_fry,6,Finish by stirring in crushed kasuri methi and chopped coriander leaves. [4],60,-1
+dal_makhani,1,Rinse and soak urad dal and rajma together in water overnight. Drain before cooking. [3],-1,28800
+dal_makhani,2,Pressure cook the soaked dal and rajma with 4 cups of water and salt for 30-40 minutes until completely soft. Lightly mash the lentils. [3],2400,-1
+dal_makhani,3,"In a separate pan, heat ghee and 1 tbsp butter. Sauté onions until translucent, then add ginger-garlic paste. [3]",480,-1
+dal_makhani,4,Pour in the tomato purée and cook for 10-15 minutes until the masala thickens and oil separates. Add red chili powder. [3],900,-1
+dal_makhani,5,"Add the cooked dal mixture to the masala. Bring to a boil, then reduce heat to the lowest setting and simmer for a minimum of 30 minutes, stirring frequently. [3]",1800,-1
+dal_makhani,6,"In the last 10 minutes, stir in the remaining butter, garam masala, and kasuri methi. Turn off the heat and stir in the heavy cream. [16]",600,-1
+maa_ki_dal,1,Rinse and soak the urad dal and rajma overnight. Drain before use. [14],-1,28800
+maa_ki_dal,2,"In a pressure cooker, heat oil and butter. Add cumin seeds, whole spices, chilies, onions, and ginger-garlic paste. Sauté for 2 minutes. [14]",300,-1
+maa_ki_dal,3,"Add chili powder, turmeric, and fresh tomato pulp. Cook for 2 minutes. [14]",120,-1
+maa_ki_dal,4,"Add garam masala, soaked dals, salt, and 1 cup of water. Pressure cook for 6 whistles. Let pressure release naturally. [14]",1500,-1
+maa_ki_dal,5,"Open the cooker, add fresh cream, mix well, and lightly mash the dal. Simmer for 2-3 minutes and serve. [14]",180,-1
+sambar,1,Pressure cook the toor dal with 2 cups of water and turmeric until completely soft and mushy. Mash thoroughly and set aside. [12],1200,-1
+sambar,2,"Soak tamarind in hot water and extract the juice. In a large pot, boil the vegetables in 4 cups of water until tender but not mushy. [20]",900,-1
+sambar,3,"To the cooked vegetables, add the tamarind extract, salt, and sambar powder. Simmer for 5 minutes. [19]",300,-1
+sambar,4,"Add the mashed dal to the pot, stir, and bring to a gentle simmer for 2-3 minutes. Do not over-boil. [19]",180,-1
+sambar,5,"Prepare the tempering: heat ghee/oil, pop mustard seeds, add red chilies, curry leaves, and asafoetida. Pour this sizzling tadka over the sambar. [19]",120,-1
+rasam,1,"In a mortar or grinder, coarsely pound the peppercorns, cumin seeds, and garlic to make the fresh masala. [22]",120,-1
+rasam,2,"In a bowl, squeeze the chopped tomatoes with the tamarind extract by hand to release their juices. [22]",120,-1
+rasam,3,"Heat ghee/oil in a pot, pop mustard seeds, then add cumin, red chili, curry leaves, and hing for tempering. [22]",120,-1
+rasam,4,"Pour in the tomato-tamarind mixture, add turmeric and salt, and boil for 5 minutes to cook off the raw tamarind smell. [22]",300,-1
+rasam,5,Add 4 cups of water and bring to a rolling boil. Add the fresh masala paste and boil for just 2 more minutes until frothy. [22],300,-1
+rasam,6,"Turn off the heat, stir in fresh coriander leaves, and serve hot. [22]",60,-1
+mulligatawny_soup,1,"In a large pot, heat oil and bloom the garam masala for 30 seconds until fragrant. [30]",60,-1
+mulligatawny_soup,2,"Add onion, carrots, celery, and apple. Cook for 7-8 minutes until softened. [30]",480,-1
+mulligatawny_soup,3,Pour in the chicken broth and coconut milk. Add the rinsed red lentils and salt. Bring to a boil. [30],300,-1
+mulligatawny_soup,4,"Reduce heat and simmer for 15 minutes, until the lentils are tender and have started to break down. [30]",900,-1
+mulligatawny_soup,5,Optional: Use an immersion blender to partially purée the soup for a creamier texture. [30],120,-1
+mulligatawny_soup,6,"Stir in the cooked chicken, fresh lime juice, and cilantro. Heat through, taste and adjust seasoning, and serve hot. [30]",300,-1
+dalma,1,"In a pressure cooker, combine rinsed dal, all chopped vegetables, turmeric, grated ginger, bay leaf, salt, and 4 cups of water. [37]",300,-1
+dalma,2,"Pressure cook for 1-2 whistles, then simmer on low for 3-4 minutes. Let pressure release naturally. [35]",1200,-1
+dalma,3,"Prepare the tempering: heat mustard oil or ghee, add dried red chilies and panch phoran, and let the spices crackle. [36]",180,-1
+dalma,4,Pour the tempering over the cooked dalma. Stir and simmer for 5-6 minutes to infuse flavors. [38],360,-1
+dalma,5,"Turn off heat, sprinkle with roasted cumin-chili powder, and garnish with fresh coconut and coriander. [35]",60,-1
+kadhi_pakora,1,Prepare pakora batter: Mix 1 cup besan with onions and spices. Rest for 20-30 minutes. Add a little water to form a thick batter. [41],-1,1800
+kadhi_pakora,2,Deep fry spoonfuls of the batter until golden and crisp. Drain and set aside. [41],600,-1
+kadhi_pakora,3,"Prepare Kadhi slurry: Whisk yogurt until smooth. Add ½ cup besan, turmeric, chili powder, and salt. Whisk to a smooth paste, then whisk in 3 cups of water. [41]",480,-1
+kadhi_pakora,4,"In a large pot, heat mustard oil, add cumin and fenugreek seeds. Add chopped onions, ginger, garlic, and chilies and sauté until soft. [41]",420,-1
+kadhi_pakora,5,"On low heat, slowly pour in the yogurt slurry, stirring constantly. Increase heat and bring to a boil, stirring frequently (about 15 mins). [41]",900,-1
+kadhi_pakora,6,"Once boiling, reduce heat and simmer for 10-15 minutes. Add the fried pakoras and simmer for another 8-10 minutes. Serve hot. [41]",1500,-1
+butter_chicken,1,"Make deep incisions in the chicken. In a large bowl, combine with salt, 1.5 tsp Kashmiri red chili powder, and lemon juice. Rub well and set aside for 30 minutes. [11]",-1,1800
+butter_chicken,2,"Prepare the main marinade by whisking together thick yogurt, ginger-garlic paste, remaining chili powder, salt, garam masala, and mustard oil. Apply thoroughly to the chicken. Cover and refrigerate for at least 4 hours, or ideally overnight. [10]",-1,14400
+butter_chicken,3,"Preheat oven to 200°C (400°F). Skewer and bake chicken for 15-20 minutes, basting with butter, until cooked and lightly charred. Alternatively, pan-sear until cooked. [10]",1200,-1
+butter_chicken,4,"In a large pan, heat 2 tbsp butter and 1 tbsp oil. Add whole spices and sauté until fragrant. [11]",120,-1
+butter_chicken,5,"Add ginger-garlic paste, sauté for a minute. Add tomato puree, chili powder, and salt. Cook for 15-20 minutes until thickened. [4]",1200,-1
+butter_chicken,6,"Cool the tomato mixture slightly, blend until completely smooth, and then strain through a fine-mesh sieve back into the pan for a velvety texture. [10]",600,-1
+butter_chicken,7,"Reheat gravy on low. Stir in sugar/honey, cooked chicken, remaining 2 tbsp butter, and fresh cream. Add crushed kasuri methi and simmer gently for 5-7 minutes. Do not boil. [9]",420,-1
+chicken_tikka_masala,1,"Combine all marinade ingredients (yogurt, 1 tbsp ginger-garlic paste, spices, kasuri methi, lemon juice, oil, salt) with chicken. Cover and refrigerate for at least 8 hours. [15]",-1,28800
+chicken_tikka_masala,2,"Grill the chicken. Oven: Bake at 240°C (460°F) for 18-20 mins, turning once, then broil for 2 mins. Skillet: Pan-sear for 3-4 mins per side until charred. [15]",1200,-1
+chicken_tikka_masala,3,Heat oil/ghee. Sauté onions until deep golden brown. This is crucial for flavor. [15],600,-1
+chicken_tikka_masala,4,"Add remaining ginger-garlic paste. Lower heat, add powdered spices, stir for 30 seconds. [15]",90,-1
+chicken_tikka_masala,5,Immediately add tomato puree. Cook until masala thickens and oil separates. [15],600,-1
+chicken_tikka_masala,6,"Pour in 1 cup hot water, cover, and simmer on low for 10-12 minutes. [15]",720,-1
+chicken_tikka_masala,7,Stir in sugar and cream. Add grilled chicken and crushed kasuri methi. Simmer for 2-3 minutes. [15],180,-1
+tandoori_chicken,1,Pat chicken dry. Make 3-4 deep slits down to the bone on each piece. [16],300,-1
+tandoori_chicken,2,"Apply first marinade: lemon juice, 1 tsp chili powder, and salt. Rub into slits. Let rest for 20-30 minutes.",-1,1800
+tandoori_chicken,3,Prepare second marinade by whisking yogurt with all remaining spices and mustard oil. Massage this thick paste into the chicken. [16],600,-1
+tandoori_chicken,4,"Cover and refrigerate for at least 6 hours, or ideally overnight. [16]",-1,21600
+tandoori_chicken,5,"Oven: Bake at 240°C (470°F) on a greased wire rack for 12-15 mins per side, basting with butter. Broil for 3-4 mins to char. [16]",1800,-1
+tandoori_chicken,6,Stovetop: Cook in a hot skillet with oil for 4-5 mins per side until cooked through and charred. [16],600,-1
+tandoori_chicken,7,Optional: Infuse smoky flavor using the dhungar method with a hot coal and ghee for 5-7 minutes. [16],420,-1
+rogan_josh,1,"Pour 1 cup of boiling water over dry mawal flowers and let steep for 30 minutes. Strain, pressing the flowers to extract all color. Reserve the red liquid. [17]",-1,1800
+rogan_josh,2,"Slowly fry sliced onions until golden brown, then cool and grind to a fine paste. [17]",900,-1
+rogan_josh,3,"Boil mutton in 5 cups of water, skimming off scum. Add salt and garlic paste. Boil until half-cooked. [17]",1800,-1
+rogan_josh,4,Remove meat and set aside. Strain the stock into a clean pan. [17],120,-1
+rogan_josh,5,"In a heavy pot, heat ghee and fry whole spices until fragrant. [17]",180,-1
+rogan_josh,6,"Bring reserved stock to a boil. Add the half-cooked meat, turmeric, fried onion paste, and the infused ghee. Boil for 10 minutes. [17]",600,-1
+rogan_josh,7,"Stir in red chili powder. Reduce heat to low, cover, and simmer for 1-1.5 hours until meat is completely tender. [17]",5400,-1
+rogan_josh,8,"Stir in the mawal extract, saffron water, and pepper powder. Boil for one minute. The gravy should have a layer of red ghee (rogan) on top. [17]",120,-1
+mutton_korma,1,"Prepare Birista: Heat 1.5 cups oil and deep-fry sliced onions on medium flame for 10-14 mins until uniform golden brown. Drain and cool until crisp, then crush. Reserve the frying oil. [5]",1500,-1
+mutton_korma,2,"In a heavy pot, combine mutton with yogurt, ginger-garlic paste, spice powders, salt, whole spices, crushed birista, and 5-6 tbsp of the reserved onion oil. Mix thoroughly. Cover and marinate overnight. [5]",-1,28800
+mutton_korma,3,"The 'Bhunai': Bring marinated meat to room temp. Place pot on medium flame and braise (bhuno) for 10-15 mins, stirring as moisture releases and the mixture browns. [5]",900,-1
+mutton_korma,4,"Add 1 cup hot water, bring to a simmer. Reduce heat to lowest, cover, and slow cook for 1.5 to 2 hours until meat is exceptionally tender. Add splashes of hot water only if necessary. [5]",7200,-1
+mutton_korma,5,"Once tender and oil has separated, add ginger juliennes, finishing spice powders, kewra water, and ghee. Stir and simmer for 7-8 mins. Rest for 10-20 mins before serving. [5]",480,-1
+nihari,1,"Prepare Nihari Masala: Dry roast whole spices (star anise, nutmeg, cinnamon, cardamom, etc.) for 4 mins. Cool and grind to a fine powder. Mix with powdered spices (dry ginger, chili, turmeric). [7]",360,-1
+nihari,2,"Marinate meat with 2 tbsp each of ginger/garlic paste, 1 tsp salt, and 1 tbsp of Nihari masala. Rest for 30 minutes. [7]",-1,1800
+nihari,3,"Heat oil/ghee in a large, heavy-bottomed pot. Fry the marinated meat for 5-8 minutes until it changes color. [7]",480,-1
+nihari,4,"Add 3 tbsp of Nihari masala and cook for 5 more minutes. Pour in 2 litres of boiling water, add salt, cover, and simmer on the lowest heat for 6-8 hours. Do not stir. [7]",21600,-1
+nihari,5,"After 4-5 hours, a layer of red oil (rogan) will float to the top. Carefully skim this off and set aside. [7]",180,-1
+nihari,6,"Make a slurry with the whole wheat flour and 1 cup of warm water. Slowly pour this into the stew, stirring gently. Simmer for another hour to thicken the gravy. [7]",3600,-1
+nihari,7,"Turn off heat. Sprinkle remaining masala and lemon juice. To serve, ladle into bowls and pour the reserved rogan over the top. Garnish with ginger juliennes and cilantro. [7]",120,-1
+paya,1,"Crucial Step: Thoroughly clean the trotters. Singe any hair, then scrub with wheat flour and rinse well under running water. [28]",600,-1
+paya,2,"In a pressure cooker, combine trotters, 1-2 litres water, broth onion, ginger, garlic, whole spices, and 1 tsp salt. Pressure cook for 45-60 minutes until meat is very tender. [27, 29]",3600,-1
+paya,3,"In a separate pan, heat ghee and sauté the diced onion until golden brown. [26]",480,-1
+paya,4,"Add ginger-garlic paste, then powdered spices. Add whisked yogurt and cook, stirring, until oil separates. [26]",420,-1
+paya,5,"Strain the cooked trotters, reserving the broth. Add trotters to the masala, mix well, then pour in the reserved broth. Bring to a boil and simmer for 30-45 minutes. [28]",2700,-1
+paya,6,"Add garam masala and cilantro, and simmer for a final 10 minutes. Serve hot with naan, garnished with ginger, chilies, and lemon. [27]",600,-1
+keema_matar,1,Heat ghee/oil in a pan. Sauté onion for 6 minutes until softened. [32],360,-1
+keema_matar,2,"Increase heat, add ginger, garlic, and chilies. Sauté for 30-60 seconds. [32]",60,-1
+keema_matar,3,"Add minced meat and cook, breaking up lumps, for 5 minutes until no longer pink. [32]",300,-1
+keema_matar,4,Stir in all powdered spices and bay leaf. Cook for one minute. Add tomatoes and salt. [32],120,-1
+keema_matar,5,"Reduce heat, cover, and simmer for 8-10 minutes. [32]",600,-1
+keema_matar,6,Stir in thawed green peas and simmer for another 3-4 minutes. [32],240,-1
+keema_matar,7,Remove from heat. Stir in lemon juice and fresh cilantro. Serve hot with roti or naan. [32],60,-1
+laal_maas,1,De-seed and soak the Mathania chilies in hot water for at least 30 minutes. Grind to a smooth paste. [35],-1,1800
+laal_maas,2,Marinate the mutton with ginger-garlic paste for at least 1 hour. [35],-1,3600
+laal_maas,3,"Heat ghee, splutter whole spices. Add onions and sauté until golden and caramelized. [35]",600,-1
+laal_maas,4,Add the marinated mutton and sear on high heat for 5-10 minutes until well-browned. [36],600,-1
+laal_maas,5,Add the Mathania chili paste and salt. Sauté for 8-10 minutes to cook out the raw flavor. [35],600,-1
+laal_maas,6,"Whisk yogurt with powdered spices and mustard oil. Lower the heat and slowly add this mixture, stirring constantly to prevent curdling. Cook for 5-7 minutes until oil separates. [35]",420,-1
+laal_maas,7,"Add 2 cups hot water, bring to a boil, then cover and simmer on low for 1-1.5 hours until meat is tender and a red oil (rogan) floats on top. [36]",5400,-1
+chingri_malai_curry,1,"Marinate prawns with turmeric and salt. Prepare a smooth paste of onion, ginger, garlic, green chilies, and grated coconut. [38]",300,-1
+chingri_malai_curry,2,Heat 2 tbsp mustard oil. Fry prawns for just one minute on each side until opaque. Set aside. [38],120,-1
+chingri_malai_curry,3,"In remaining oil, temper whole spices until fragrant. [38]",30,-1
+chingri_malai_curry,4,Add the blended paste and fry on medium heat for 5-7 minutes until well-cooked. [38],420,-1
+chingri_malai_curry,5,"Stir in chili powder, sugar, and salt. Pour in coconut milk and 100ml water. Bring to a simmer. [38]",300,-1
+chingri_malai_curry,6,Add the seared prawns and cook for a final 5 minutes. Do not overcook. Garnish and serve with rice. [38],300,-1
+daab_chingri,1,Carefully cut an opening at the top of the coconut. Reserve the water. Scrape out the tender flesh and grind it to a paste. [39],600,-1
+daab_chingri,2,"Marinate prawns with salt and turmeric. In a pan, lightly fry the prawns. In the same oil, cook onion paste, ginger-garlic paste, mustard paste, coconut flesh paste, and spices to form a masala. [40]",600,-1
+daab_chingri,3,"Add coconut milk and some coconut water to the masala. Bring to a simmer, then add the prawns and chilies and cook for 2-3 minutes. [39]",180,-1
+daab_chingri,4,Pour the entire prawn and gravy mixture into the hollowed coconut shell. [40],120,-1
+daab_chingri,5,Place the coconut lid back on and seal the seam completely with wheat dough to trap the steam. [39],300,-1
+daab_chingri,6,"Cook the sealed coconut by either pressure cooking for 15-20 mins (3 whistles) or baking in a preheated 200°C oven for 25-30 mins. [39, 41]",1800,-1
+daab_chingri,7,Carefully break the seal and serve directly from the coconut shell. [39],60,-1
+kosha_mangsho,1,"In a large bowl, marinate the mutton with yogurt, ginger-garlic-chili paste, crushed fried onions, all powdered spices, sugar, and salt. Marinate overnight for best results. [42]",-1,18000
+kosha_mangsho,2,Heat oil/ghee in a heavy pot. Fry potato halves until golden brown and set aside. [42],480,-1
+kosha_mangsho,3,"In the same oil, temper whole spices until fragrant. [42]",60,-1
+kosha_mangsho,4,The 'Kosha' Process: Add the marinated meat to the pot. Stir continuously on medium-high heat for 10-15 minutes as the meat sears and releases moisture. [6],900,-1
+kosha_mangsho,5,"Lower heat to the absolute minimum, cover tightly, and slow-cook for 1.5 to 2 hours. Do not add water. Stir every 20-25 minutes to prevent sticking. [6]",7200,-1
+kosha_mangsho,6,Add the fried potatoes about 45 minutes before the meat is fully cooked. [6],2700,-1
+kosha_mangsho,7,"Continue cooking until mutton is fork-tender and the gravy is a very thick, dark brown masala. The oil should have completely separated. Rest for 15 minutes before serving. [42]",900,-1
+shorshe_ilish,1,Crucial Step: Soak black and yellow mustard seeds (and poppy seeds) in warm water for at least 30 minutes. [46],-1,1800
+shorshe_ilish,2,"Drain seeds. Grind with 2-3 green chilies, a pinch of salt, and optional coconut to a very smooth paste. Do not over-grind. [46]",300,-1
+shorshe_ilish,3,Marinate Hilsa with turmeric and salt. Heat mustard oil and fry fish for only 1-2 minutes per side to firm up the exterior. Set aside. [46],180,-1
+shorshe_ilish,4,"In the same oil, temper with kalonji and slit green chilies. Lower heat, add mustard paste, and cook for only 1-2 minutes. Do not overcook. [46]",120,-1
+shorshe_ilish,5,"Add turmeric, then 1.5 cups warm water. Simmer for 5-6 minutes. [46]",360,-1
+shorshe_ilish,6,Gently place fish in the gravy. Cover and cook on low for 5-7 minutes until oil separates. Drizzle with 1 tsp raw mustard oil before serving with rice. [46],420,-1
+chettinad_chicken,1,"Optional: Marinate chicken with ginger-garlic paste, curd, salt, and sambar powder for one hour. [52]",-1,3600
+chettinad_chicken,2,Grind ingredients for Masala Paste 1 and Masala Paste 2 separately into two smooth pastes. [52],480,-1
+chettinad_chicken,3,"Heat oil, sizzle tempering spices. Add minced onions and sauté until transparent. Add minced garlic, then chopped tomatoes and cook until mushy. [52]",420,-1
+chettinad_chicken,4,Add Masala Paste 1 and sauté until oil separates. [52],300,-1
+chettinad_chicken,5,Add chicken and mix well. Cover and cook on low for 10-15 minutes until almost cooked through. [52],900,-1
+chettinad_chicken,6,"Add Masala Paste 2, mix well, and cook for another 5 minutes until the oil separates again and the gravy is thick. [52]",300,-1
+chicken_65,1,"Combine chicken with all marination ingredients (egg, flours, ginger-garlic, spices, salt). Mix well to coat. Refrigerate for 15-20 minutes. [53]",-1,1200
+chicken_65,2,Heat oil and deep-fry the marinated chicken pieces on medium flame for 10-15 minutes until golden and cooked through. Drain and set aside. [53],900,-1
+chicken_65,3,"In a separate pan, heat 2-3 tbsp oil. Sauté crushed ginger, garlic, green chilies, and curry leaves until crisp. [53]",180,-1
+chicken_65,4,"Lower heat, add beaten yogurt, salt, chili powder, and optional food color. Stir into a smooth sauce. [53]",120,-1
+chicken_65,5,Add the fried chicken to the sauce. Toss well and cook for 5-10 minutes until the sauce thickens and clings to the chicken. [53],600,-1
+chicken_65,6,"Garnish with coriander, lemon juice, and serve with onion rings. [53]",60,-1
+haleem,1,Wash and soak broken wheat and all lentils together overnight. [56],-1,28800
+haleem,2,"Pressure cook mutton with ginger-garlic paste, turmeric, and salt until extremely tender. Separate meat from bones, shred finely, and reserve stock. [56]",3600,-1
+haleem,3,Cook the soaked grains and lentils until completely soft and mushy. Blend into a smooth paste using a hand blender. [56],2400,-1
+haleem,4,"In a large pot, heat ghee, sauté whole spices, then add the shredded meat and powdered spices. Cook for 2-3 minutes. [56]",180,-1
+haleem,5,"Add the grain-lentil paste to the pot, mixing thoroughly. Pour in reserved meat stock to achieve a porridge-like consistency. [56]",300,-1
+haleem,6,"Simmer on very low heat for at least 45-60 minutes, stirring frequently to prevent sticking. [56]",3600,-1
+haleem,7,"Serve hot, garnished generously with fried onions, fresh herbs, lemon juice, and cashews. [56]",60,-1
+jalfrezi,1,"Marinate chicken with lemon juice, salt, pepper, and chili powder for 15-20 minutes. [58]",-1,1200
+jalfrezi,2,"Heat oil, sauté chopped onions until light brown. Add ginger-garlic paste. [58]",420,-1
+jalfrezi,3,"Add marinated chicken and stir-fry until pale. Add powdered spices and salt, stir-fry for one minute. [58]",300,-1
+jalfrezi,4,"Pour in tomato puree, cook until oil separates. Add ¼ cup hot water, cover, and cook until chicken is tender. [58]",600,-1
+jalfrezi,5,"In a separate pan, heat oil on high and stir-fry diced onions and bell peppers for 3-4 minutes until crisp-tender and charred. [58]",240,-1
+jalfrezi,6,Add the stir-fried vegetables and kasuri methi to the chicken. Toss and cook for 1-2 minutes. The sauce should be thick. [58],120,-1
+meen_moilee,1,Lightly marinate fish steaks with salt and turmeric for 15 minutes. [1],-1,900
+meen_moilee,2,"Heat coconut oil. Sauté ginger, curry leaves, then onion, garlic, and green chilies until onions are soft. [59]",300,-1
+meen_moilee,3,"Add tomatoes and salt, cook until mushy. Add turmeric and chili powder. [59]",300,-1
+meen_moilee,4,"Pour in 1 cup water, bring to boil. Gently place fish steaks in and simmer for 5 minutes. [59]",300,-1
+meen_moilee,5,Reduce flame to lowest. Pour in coconut milk. Do not boil. [59],60,-1
+meen_moilee,6,Add lime juice and vinegar. Simmer very gently for 5 minutes. Let it rest for 20 minutes before serving with appam. [1],1500,-1
+sorpotel,1,"Soak 25 deseeded Kashmiri chilies in vinegar for 4 hours. Grind with 40 garlic cloves, ginger, and whole spices to a very fine paste. [63]",-1,14400
+sorpotel,2,"Boil large chunks of pork and liver with aromatics for 30-40 minutes until par-cooked. Cool, then finely dice all meat and liver into tiny, uniform cubes. Reserve the stock. [63]",2400,-1
+sorpotel,3,"Heat oil. Fry diced fatty pork until light brown, remove and add to stock. Fry lean pork, remove and add to stock. Fry liver briefly, remove and add to stock. [63]",1200,-1
+sorpotel,4,"In the remaining fat, sauté onions until soft. Add the ground masala and cook for 10 minutes until oil separates. [63]",600,-1
+sorpotel,5,"Add jaggery, then all the fried meat and the entire stock. Mix well and simmer for 10 minutes. [63]",600,-1
+sorpotel,6,"Add 1.5 cups warm water and tamarind water. Bring to a boil, then cover and simmer on low for 20-25 minutes. Adjust seasoning. [63]",1500,-1
+sorpotel,7,"Cool completely. For best taste, refrigerate for at least two days before reheating and eating. [63]",-1,172800
+kerala_beef_fry,1,"In a pressure cooker, combine beef with pressure cooking spices, half the onions, chilies, and curry leaves. Add ½ cup water and pressure cook until tender (3-4 whistles plus 20 mins on low). [67]",1500,-1
+kerala_beef_fry,2,"Heat coconut oil in a thick-bottomed pan. Sauté remaining onions, coconut slices, and curry leaves until onions are golden and coconut is crisp. [67]",600,-1
+kerala_beef_fry,3,Add ginger-garlic paste and sauté until fragrant. [67],120,-1
+kerala_beef_fry,4,"Add the cooked beef with all its liquid to the pan. Cook on medium-high heat, stirring, until all liquid has evaporated. [67]",900,-1
+kerala_beef_fry,5,"Stir in the garam masala and crushed black pepper. Reduce flame to low and pan-roast for another 15-20 minutes, stirring occasionally, until the beef is dry and dark brown. [67]",1200,-1
+mutton_dhansak,1,Wash and soak all four types of dal for 30 minutes. [71],-1,1800
+mutton_dhansak,2,"In a pressure cooker, combine the soaked dals, all the chopped vegetables (pumpkin, brinjal, potatoes, tomatoes, methi), half the onions, half the ginger-garlic paste, turmeric, and water. Cook until everything is very soft. [70]",1500,-1
+mutton_dhansak,3,"In a separate pot, heat ghee and temper whole spices. Sauté the remaining onions until golden. Add the remaining ginger-garlic paste, then the mutton pieces and brown them. [71]",900,-1
+mutton_dhansak,4,"Add the dhansak masala, chili powder, and salt. Cook until fragrant. Add enough water to cook the mutton until it is tender. [70]",1800,-1
+mutton_dhansak,5,"Blend the cooked dal and vegetable mixture to a smooth, thick puree. [70]",300,-1
+mutton_dhansak,6,"Pour the dal puree into the pot with the cooked mutton. Mix well. In a small bowl, mix tamarind paste, jaggery, and lime juice (the 'Doru'). Add this to the stew and simmer for a final 10 minutes. [71]",600,-1
+aloo_gobi,1,"Rinse cauliflower, chop into florets, and soak in hot, salted water for 15-20 minutes, then drain. [21] Peel and cube potatoes, placing them in water to prevent browning. [22]",-1,900
+aloo_gobi,2,"Heat oil in a heavy pan. Drain and add the potatoes, sautéing for 2-3 minutes. Cover and cook on low-medium heat until half-done. [22]",660,-1
+aloo_gobi,3,"Push potatoes aside, add cumin seeds to the oil. When they sizzle, add ginger and garlic and sauté until fragrant. [22] Add onions and cook until translucent. [22]",300,-1
+aloo_gobi,4,"Add cauliflower and green chili, stir-frying for 3 minutes. [22] Add all spice powders except garam masala. [22]",240,-1
+aloo_gobi,5,"Add tomatoes, stir, cover, and cook on low for 10-15 minutes until vegetables are tender but not mushy, avoiding extra water. [22]",900,-1
+aloo_gobi,6,Add garam masala and salt (added at the end to prevent mushiness). Garnish with coriander and lemon juice. [22],120,-1
+chole_masala,1,"Rinse and soak 1 cup of chickpeas in water overnight. [5] Drain, then pressure cook with 2.5-3 cups fresh water, salt, and either dried amla or a tea bag for 15-18 minutes until very soft. [5] Reserve the cooking liquid. [5]",-1,29880
+chole_masala,2,"To make fresh masala, dry roast coriander seeds, cumin seeds, fennel seeds, black cardamoms, cinnamon, peppercorns, cloves, bay leaf, dried pomegranate seeds (anardana), and dry red chilies until aromatic. [5] Cool and grind to a fine powder. [2]",600,-1
+chole_masala,3,"Heat ghee, sauté onions until golden. [27] Add ginger-garlic paste, then tomatoes, and cook until pulpy and oil separates. [5]",600,-1
+chole_masala,4,"On low heat, add the fresh chole masala powder, red chili powder, and turmeric. Sauté for one minute. [5]",60,-1
+chole_masala,5,"Add the cooked chickpeas and 1 to 1.25 cups of the reserved stock. [5] Bring to a boil, then cover and simmer for 10-15 minutes, mashing a few chickpeas to thicken the gravy. [25]",900,-1
+chole_masala,6,Finish with garam masala and crushed kasuri methi. [5],60,-1
+dum_aloo,1,"Wash, par-boil, and peel the baby potatoes. Prick each potato with a fork. [28] Fry them in oil until golden brown and slightly crisp, then set aside. [30]",600,-1
+dum_aloo,2,"Blend boiled onions, chopped tomatoes, and cashews into a very smooth paste. [28]",300,-1
+dum_aloo,3,"Heat oil, add ginger-garlic paste, then the onion-tomato-cashew paste. Cook for 7-8 minutes until thickened. [30]",540,-1
+dum_aloo,4,"On low heat, add spice powders and sauté until oil separates. Turn off the heat and vigorously stir in the whisked yogurt to prevent curdling. [30]",180,-1
+dum_aloo,5,"Turn heat back to low. Add the fried potatoes, hot water, salt, and sugar. [28] Bring to a simmer, then cover with a tight lid and 'dum' cook on the lowest heat for 6-7 minutes. [30]",420,-1
+dum_aloo,6,Finish by stirring in crushed kasuri methi. [30],60,-1
+kadai_paneer,1,"Prepare Kadai Masala: Dry roast coriander seeds, cumin seeds, fennel seeds, dry red chilies, and black peppercorns until fragrant. [20] Cool and grind to a coarse powder. [20]",300,-1
+kadai_paneer,2,"Heat oil in a kadai on high. Stir-fry onion petals and capsicum chunks for 2-3 minutes until blistered but still crisp. Add paneer cubes, toss for a minute, then remove and set aside. [20]",300,-1
+kadai_paneer,3,"In the same kadai, heat more oil. Sauté cumin, ginger, and garlic. Add finely chopped onions and cook until golden. [20]",420,-1
+kadai_paneer,4,Add spice powders and 1 tbsp of the fresh Kadai Masala. Sauté for 30 seconds. Add chopped tomatoes and cook until soft and oil separates. [20],480,-1
+kadai_paneer,5,Add the stir-fried paneer and vegetables back to the kadai. Toss to coat. Add ½ cup hot water for a gravy and simmer for 2-3 minutes. [20],180,-1
+kadai_paneer,6,Finish with cream (if using) and crushed kasuri methi. [20],60,-1
+malai_kofta,1,"For the gravy, sauté whole spices, onions, tomatoes, and cashews in oil until soft. Cool completely, then blend to a super-smooth puree. Strain if necessary. [29]",1500,-1
+malai_kofta,2,"For the koftas, combine crumbled paneer, potato, corn starch, and spices to form a smooth dough. Shape into 8-10 crack-free balls. [29]",600,-1
+malai_kofta,3,Deep-fry the koftas in medium-hot oil until evenly golden brown and crisp. Drain and set aside. [29],900,-1
+malai_kofta,4,"Reheat the gravy base in a pan. Sauté ginger-garlic paste and spice powders, then add the puree. Cook for 3-4 minutes. [29]",300,-1
+malai_kofta,5,"Add water, salt, and sugar. Simmer for 10-14 minutes until the gravy thickens. [29]",840,-1
+malai_kofta,6,"Stir in kasuri methi and heavy cream on low heat. To serve, pour the warm gravy into a dish and gently place the koftas on top. Do not simmer the koftas in the gravy. [29]",120,-1
+palak_paneer,1,"Bring water to a boil, turn off heat, and add spinach leaves for exactly one minute. [34] Immediately transfer to an ice bath to lock in the color. [34]",300,-1
+palak_paneer,2,"Drain the cooled spinach, squeezing out excess water. Blend it with ginger, garlic, and green chilies to a smooth puree. [34]",300,-1
+palak_paneer,3,"Heat oil, splutter cumin seeds. Sauté onions until golden, then add garlic and cook until fragrant. [34]",420,-1
+palak_paneer,4,Add tomatoes and cook until soft and mushy. [34],300,-1
+palak_paneer,5,"Pour in the spinach puree, water, and salt. Simmer for 6-7 minutes. [34]",420,-1
+palak_paneer,6,"Add paneer cubes (raw or lightly fried) and garam masala. Cook for one minute, then stir in cream if using. [34]",120,-1
+rajma,1,Rinse and soak 1 cup of rajma in ample water overnight (at least 8 hours). [25],-1,43200
+rajma,2,"Drain, then pressure cook the soaked beans with 3 cups of fresh water and salt until completely soft. Reserve the cooking liquid. [25]",1800,-1
+rajma,3,"Heat ghee, sauté whole spices, then add onions and cook until golden brown. [25]",420,-1
+rajma,4,"Add ginger-garlic paste, then powdered spices. Add chopped tomatoes and cook until the ghee separates from the masala. [25]",480,-1
+rajma,5,"Add the cooked rajma with its liquid to the masala. Cover and simmer for at least 15 minutes, mashing some beans to thicken the gravy. [25]",900,-1
+rajma,6,"Finish with garam masala, crushed kasuri methi, and fresh coriander. [25]",120,-1
+sarson_ka_saag_makki_di_roti,1,"For Saag: Thoroughly clean and chop all greens. [36] Pressure cook the greens with radish, onions, tomatoes, ginger, and garlic for 7-8 whistles until very soft. [36]",8700,-1
+sarson_ka_saag_makki_di_roti,2,"Cool the mixture, then blend to a puree, adding 2 tbsp of maize flour during blending to thicken. [36]",300,-1
+sarson_ka_saag_makki_di_roti,3,Simmer the puree on low heat for at least 25-30 minutes to cook the maize flour and develop flavors. [36],1800,-1
+sarson_ka_saag_makki_di_roti,4,"For Roti: Combine 2 cups maize flour with salt and hot water. [39] Knead into a smooth, firm dough and let it rest for 10 minutes. [38]",-1,900
+sarson_ka_saag_makki_di_roti,5,Shape the rotis by patting with hands or rolling between parchment paper. [40] Cook on a hot tawa with ghee until golden spots appear. [39],900,-1
+sarson_ka_saag_makki_di_roti,6,"Temper the saag in batches before serving by frying chopped onions in ghee, then adding the saag and heating through. [36] Serve hot with the makki di roti, both topped with white butter. [36]",300,-1
+gatte_ki_sabzi,1,"For Gatte: Make a firm dough with 1 cup besan, yogurt, spices, and ghee. Roll into thin logs. [11]",600,-1
+gatte_ki_sabzi,2,"Boil the logs in water for 12-15 minutes until they float and develop bubbles. [11] Remove and cut into pieces. Crucially, reserve the cooking water. [11]",900,-1
+gatte_ki_sabzi,3,"For Gravy: In a bowl, whisk ¾ cup yogurt with turmeric, chili, and coriander-cumin powders. [11]",240,-1
+gatte_ki_sabzi,4,"Heat ghee, sauté spices, then onions until golden. Add ginger-garlic and tomato pulp. [11]",480,-1
+gatte_ki_sabzi,5,"On lowest heat, slowly add the yogurt-masala paste, stirring constantly to prevent splitting. [11] Cook until ghee separates. [11]",180,-1
+gatte_ki_sabzi,6,"Pour in 2 cups of the reserved gatta water. Bring to a boil, add the gatte, and simmer for 10-12 minutes. Finish with kasuri methi. [11]",720,-1
+undhiyu,1,"Prepare Methi Muthias: Make a dough of chopped fenugreek leaves, gram flour, and spices. [47] Shape into ovals and deep-fry until golden. [47]",1500,-1
+undhiyu,2,"Prepare Green Masala: Combine grated coconut, coriander, green garlic, sugar, and spices. [57]",600,-1
+undhiyu,3,Prepare Vegetables: Peel and chop root vegetables into large chunks. [57] Slit baby potatoes and brinjals and stuff them with the green masala. [47],1200,-1
+undhiyu,4,"In a pressure cooker, heat oil and temper with carom seeds. Layer the vegetables, starting with the beans and root vegetables at the bottom, and placing stuffed vegetables on top. [57]",300,-1
+undhiyu,5,Pour a little masala water over the top and pressure cook for 2 whistles. [57] Let pressure release naturally. [57],900,-1
+undhiyu,6,"Gently transfer to a wide pan, add the fried muthias, and simmer for a final 10 minutes to meld the flavors. [47]",600,-1
+papaya_khar,1,"Peel and cube the raw papaya and optional potato. Dissolve baking soda in warm water to make the khar solution. [15, 16]",600,-1
+papaya_khar,2,"Heat mustard oil until it just begins to smoke. Reduce heat and add panch phoron, letting it sizzle. [15]",180,-1
+papaya_khar,3,"Add the papaya and potato cubes, salt, and stir-fry for 2-3 minutes. [16]",180,-1
+papaya_khar,4,"Pour in the khar solution and another cup of hot water. [16] Bring to a boil, then cover and simmer for 15-20 minutes. [61]",1200,-1
+papaya_khar,5,"The dish is ready when the vegetables are extremely tender. The final consistency should be soupy. Do not add turmeric, as it will react with the alkali and change color. [16]",60,-1
+avial,1,"Prepare a coarse paste by grinding coconut, cumin seeds, and green chilies with a little water. [63]",300,-1
+avial,2,"In a wide pan, first cook the harder vegetables (like yam, drumsticks) with turmeric and salt in 1 cup of water until half-cooked. [63]",900,-1
+avial,3,"Add the softer vegetables (like plantain, gourd) and cook until all vegetables are tender but hold their shape. [63]",600,-1
+avial,4,Stir in the ground coconut paste and simmer for 5-7 minutes. [63],420,-1
+avial,5,"Reduce heat to low, add the whisked yogurt, and stir gently. Heat through for one minute but do not boil. [63]",120,-1
+avial,6,Turn off the heat. Drizzle with raw coconut oil and scatter fresh curry leaves. Cover and let it rest for 5 minutes before serving. [63],-1,300
+bhindi_masala,1,Wash and thoroughly pat dry the okra. [3] This is the most critical step to prevent slime. [3] Chop into ½-inch rounds. [3],300,-1
+bhindi_masala,2,"Heat oil in a kadai. Fry the chopped okra on medium-high heat, stirring occasionally, until it is tender and no longer slimy. Remove from the pan and set aside. [3]",480,-1
+bhindi_masala,3,"In the same oil, splutter cumin seeds. Sauté onions until translucent. Add ginger-garlic paste and cook for a minute. [3]",240,-1
+bhindi_masala,4,Add tomatoes and cook until pulpy. Add spice powders and cook until aromatic. [3],240,-1
+bhindi_masala,5,"Add the fried okra back to the pan, toss with the masala, and add amchur powder. [3] Simmer on low for 3 minutes for flavors to meld. Finish with garam masala and kasuri methi. [3]",180,-1
+spicy_green_chutney,1,Thoroughly wash the cilantro and mint leaves. Ensure you only use mint leaves as the stems can be bitter. [36],180,-1
+spicy_green_chutney,2,"Combine all ingredients, including the ice cubes, in a high-speed blender.",60,-1
+spicy_green_chutney,3,"Blend to a smooth, fine paste. Add a teaspoon of extra chilled water only if needed to facilitate blending. The consistency should be a thick, spoonable paste.",360,-1
+tamarind_chutney,1,Soak the tamarind block in hot water for at least 30 minutes.,-1,1800
+tamarind_chutney,2,"Mash the soaked tamarind to separate the pulp from the fibers, then strain the mixture through a sieve into a saucepan, extracting all the pulp.",300,-1
+tamarind_chutney,3,"Add jaggery and all spice powders to the tamarind pulp. Bring to a boil, stirring to dissolve the jaggery.",300,-1
+tamarind_chutney,4,Reduce heat and simmer for 10-15 minutes until the chutney thickens. It will thicken more as it cools.,900,-1
+dry_garlic_chutney,1,"On low-medium heat, dry roast peanuts, garlic, sesame seeds, and desiccated coconut separately until each is aromatic and lightly golden. [9]",600,-1
+dry_garlic_chutney,2,Let all roasted ingredients cool completely.,-1,300
+dry_garlic_chutney,3,"Combine all cooled ingredients in a grinder with chili powder and salt. Pulse in short bursts to create a coarse, dry powder.",180,-1
+wet_garlic_chutney,1,Soak the dried red chilies in boiling water for 30 minutes to soften them.,-1,1800
+wet_garlic_chutney,2,"Transfer the soaked chilies along with their water, garlic, lemon juice, and salt to a blender.",60,-1
+wet_garlic_chutney,3,"Blend to a fine, smooth paste, adding a little more water only if necessary.",300,-1
+aloo_tikki_chaat,1,"Boil potatoes until fork-tender but not mushy. Cool completely, then refrigerate uncovered for at least 4-5 hours or overnight to dry them out. [2]",-1,14400
+aloo_tikki_chaat,2,"Peel and grate the cold potatoes. Add cilantro, ginger, green chilies, chaat masala, and cornstarch. Mix gently until just combined, do not overmix. [2]",300,-1
+aloo_tikki_chaat,3,"Add salt just before frying. Shape the mixture into smooth, round patties about 1-2 inches thick. [13]",480,-1
+aloo_tikki_chaat,4,"Heat oil in a skillet over medium heat. Shallow fry the tikkis for 4-6 minutes per side, until deep golden brown and crisp. [2]",1800,-1
+aloo_tikki_chaat,5,"Place hot tikkis on a plate, top with chilled yogurt, sweet tamarind chutney, and spicy green chutney. Garnish with onions, sev, and a sprinkle of chaat masala. [13]",180,-1
+bhel_puri,1,Dry roast the puffed rice in a large pan on low heat for 4-5 minutes until very crisp. Let it cool completely. [5],300,-1
+bhel_puri,2,"In a large mixing bowl, combine the cooled puffed rice, crushed papdi, peanuts, potato, onion, tomato, and raw mango.",120,-1
+bhel_puri,3,"Sprinkle with chaat masala and salt. Add the green, tamarind, and garlic chutneys to your taste, along with lemon juice.",60,-1
+bhel_puri,4,Add the sev at the very end and mix everything swiftly with a large spoon for no more than 30 seconds. [5],30,-1
+bhel_puri,5,Garnish with fresh cilantro and serve immediately.,30,-1
+chole_bhature,1,"For Bhature: Knead a soft, smooth dough from flour, yogurt, baking soda, salt, sugar, and lukewarm water. Rest in a warm place for 2-4 hours. [20]",-1,7200
+chole_bhature,2,For Chole: Pressure cook the overnight-soaked chickpeas with the tea bag/amla and salt for 20 minutes until very tender. [21],1200,-1
+chole_bhature,3,"In a pan, heat ghee, sauté onion paste until golden brown, add ginger-garlic paste, then tomato puree and cook until oil separates. [21]",900,-1
+chole_bhature,4,"Add chole masala and other spice powders. Add the boiled chickpeas with their water. Simmer for 20-30 minutes, mashing some chickpeas to thicken the gravy. [21]",1500,-1
+chole_bhature,5,"While chole simmers, roll out the rested dough into ovals and deep-fry in hot oil. Press gently to help them puff up completely. [20]",900,-1
+chole_bhature,6,Serve hot chole immediately with freshly fried bhature.,60,-1
+dahi_vada,1,"Drain soaked lentils. Grind with ginger and green chilies to a smooth, thick paste, using minimal chilled water. [26]",480,-1
+dahi_vada,2,Transfer batter to a bowl and beat with your hand or a whisk for 3-5 minutes until light and aerated. The batter should float when a drop is placed in water. [29],300,-1
+dahi_vada,3,Deep fry lemon-sized portions of the batter in medium-hot oil until golden brown. [28],900,-1
+dahi_vada,4,"Soak the hot, fried vadas in a bowl of hot water with salt and hing for 20-30 minutes. They will soften and swell. [28]",-1,1800
+dahi_vada,5,Gently press each soaked vada between your palms to remove excess water and place in a serving dish. [26],300,-1
+dahi_vada,6,Whisk chilled yogurt with powdered sugar and salt until smooth. Pour over the vadas. Refrigerate for at least 2 hours. [26],-1,7200
+dahi_vada,7,"Serve chilled, drizzled with chutneys and sprinkled with roasted cumin and chili powder. [28]",120,-1
+misal_pav,1,Pressure cook the sprouted moth beans with turmeric and salt for one whistle until soft but intact. [36],600,-1
+misal_pav,2,"Prepare masala paste by sautéing onion, ginger, garlic, and dry coconut until golden, then grinding to a smooth paste with tomatoes. [36]",900,-1
+misal_pav,3,"Heat oil, temper with mustard and cumin seeds. Add the masala paste and sauté until oil separates. Add misal masala and other spice powders. [36]",600,-1
+misal_pav,4,"Add the cooked moth beans with their water, tamarind paste, and 4-5 cups of hot water to create the gravy. Boil and then simmer for 15 minutes for the oily layer (tari) to form. [36]",900,-1
+misal_pav,5,"To serve, place the thick sprout curry (usal) in a bowl, pour the thin spicy gravy (kat) over it, top with farsan, chopped onion, and coriander. Serve with lemon and pav. [36]",180,-1
+veg_momos,1,"Knead a firm, smooth dough from flour, salt, and warm water. Rest, covered, for at least 30 minutes. [39]",-1,1800
+veg_momos,2,"Salt the chopped cabbage, let it sit for 15 minutes, then squeeze out all excess water thoroughly. [42]",-1,900
+veg_momos,3,"Sauté ginger and garlic, then add onions, carrots, and the squeezed cabbage. Stir-fry on high heat for 2-3 minutes. Season with soy sauce, salt, and pepper. Cool completely. [39]",480,-1
+veg_momos,4,"Roll out small, thin wrappers from the dough. Place a spoonful of filling, then fold and pleat to seal. [39]",900,-1
+veg_momos,5,"Steam the momos in a greased steamer over boiling water for 10-12 minutes, until the wrapper is translucent and non-sticky. [39]",720,-1
+chicken_momos,1,"Knead a firm, smooth dough from flour, salt, and warm water. Rest, covered, for at least 30 minutes. [39]",-1,1800
+chicken_momos,2,"For the filling, combine raw chicken mince, spring onions, ginger, garlic, soy sauce, oil/butter, salt, and pepper. Mix thoroughly. [41]",480,-1
+chicken_momos,3,"Roll out small, thin wrappers from the dough. Place a spoonful of the raw chicken filling, then fold and pleat to seal tightly. [39]",900,-1
+chicken_momos,4,"Steam the momos in a greased steamer over boiling water for 12-15 minutes, until the wrapper is translucent and the filling is cooked through. [39]",900,-1
+mixed_veg_pakora,1,"In a large bowl, combine the julienned vegetables with salt, ginger, and green chilies. Mix and let rest for 10 minutes to release moisture. [52]",-1,600
+mixed_veg_pakora,2,"Add gram flour, rice flour, and all spices to the vegetables. Mix well without adding water initially. The vegetable moisture should form a thick, sticky mass. Add 1-2 tbsp water only if essential. [52]",240,-1
+mixed_veg_pakora,3,"Heat oil to medium-high. Drop spoonfuls of the mixture into the oil, without overcrowding. [51]",300,-1
+mixed_veg_pakora,4,"Fry for 3-5 minutes, turning, until deep golden brown and crispy. Drain on paper towels and serve hot with chutney. [51]",600,-1
+golgappa,1,"For Puris: Knead a firm, elastic dough from semolina, flour, salt, and lukewarm water. Rest, covered, for 30 minutes. [63]",-1,1800
+golgappa,2,"Roll the dough very thin and cut small discs. Deep-fry in medium-hot oil, nudging them to help them puff. Fry until golden and crisp. Cool completely. [64]",1200,-1
+golgappa,3,"For Pani: Blend mint, cilantro, ginger, green chilies, and tamarind to a smooth paste. Strain the paste, add 4 cups of chilled water, roasted cumin powder, chaat masala, and black salt. [4]",600,-1
+golgappa,4,"For Filling: Mix boiled, diced potatoes and chickpeas with salt and spices. [4]",180,-1
+golgappa,5,"To serve, crack a hole in a puri, add the filling, dunk it in the pani, and eat immediately.",60,-1
+pav_bhaji,1,"Pressure cook the mixed vegetables (except capsicum) with water and salt for 15 minutes until very soft. Lightly mash them, retaining the cooking water. [73]",900,-1
+pav_bhaji,2,"In a large pan, heat 3 tbsp butter. Sauté onions until translucent, add ginger-garlic paste, then capsicum and cook for 3 minutes. [72]",480,-1
+pav_bhaji,3,"Add tomatoes and cook until mushy. Add all spice powders, including the pav bhaji masala, and cook until butter separates. [73]",420,-1
+pav_bhaji,4,"Add the mashed vegetables and their water to the pan. Using a potato masher, mash and mix everything together for 5-7 minutes until well combined. [73]",420,-1
+pav_bhaji,5,"Simmer for 10 minutes, adding hot water to adjust consistency. Finish with lemon juice, more butter, and cilantro. [72]",600,-1
+pav_bhaji,6,"Toast pav rolls on a tawa with butter and a pinch of pav bhaji masala. Serve hot with the bhaji, chopped onions, and a lemon wedge. [72]",300,-1
+kanda_poha,1,"Rinse the thick poha in a colander under running water for a minute until soft. Drain completely and let it rest for 10-15 minutes. Add salt, sugar, and turmeric and toss gently. [81]",-1,900
+kanda_poha,2,Heat oil in a pan. Fry peanuts until crunchy and set aside. [80],180,-1
+kanda_poha,3,"In the same oil, temper with mustard seeds, cumin, asafoetida, and curry leaves. Add onions and sauté until translucent. [80]",300,-1
+kanda_poha,4,Add the prepared poha and fried peanuts to the pan. Toss gently to combine and heat through. [80],180,-1
+kanda_poha,5,Cover and steam on low heat for 2-3 minutes. Finish with lemon juice and garnish with fresh cilantro and coconut. [89],180,-1
+indori_poha,1,"Rinse and drain poha as for Kanda Poha. Mix the damp flakes with salt, sugar, and turmeric. [82]",-1,900
+indori_poha,2,"Heat oil, temper with mustard seeds and fennel seeds. Pour this tempering over the poha and mix. [83]",180,-1
+indori_poha,3,Place the poha mixture in a steamer or on a plate over boiling water. Sprinkle with milk. Cover and steam for 10 minutes until fluffy. [29],600,-1
+indori_poha,4,"To serve, garnish generously with chopped onions, Ratlami sev, pomegranate arils, and a sprinkle of Jeeravan masala and lemon juice. [82]",120,-1
+samosa,1,"For the pastry, rub ghee into the flour, salt, and ajwain until it resembles breadcrumbs. Knead a stiff, tight dough with cold water. Rest, covered, for 30-40 minutes. [92]",-1,2400
+samosa,2,"For the filling, heat oil, splutter whole spices. Sauté ginger and green chilies, then add peas and potatoes. Add powdered spices and amchur, mix, and cook for 3 minutes. Cool completely. [92]",600,-1
+samosa,3,"Roll a ball of dough into an oval and cut it in half. Form a cone, fill it with the potato mixture, and seal the edges firmly. [93]",600,-1
+samosa,4,Heat oil on low to medium-low. Slide in the samosas and fry slowly for 10-15 minutes until pale golden and firm. [92],900,-1
+samosa,5,Increase heat to medium and continue frying until deep golden brown and crisp. [92],300,-1
+vada_pav,1,"For the vada filling, temper oil with mustard seeds, curry leaves, and asafoetida. Add ginger-garlic-chili paste, then add this tempering to the mashed potatoes with turmeric and salt. Mix and shape into balls. [98]",600,-1
+vada_pav,2,"Prepare a thick, smooth batter from gram flour, rice flour, spices, and water. [99]",300,-1
+vada_pav,3,Dip each potato ball in the batter and deep-fry in medium-hot oil until golden and crisp. [98],900,-1
+vada_pav,4,Prepare the dry and green chutneys as per the master recipes.,600,-1
+vada_pav,5,"To assemble, slit a pav roll, spread green chutney, sprinkle generously with dry garlic chutney, place the hot vada inside, and press gently. Serve with a fried green chili. [100]",180,-1
+khaman_dhokla,1,"The key to a successful dhokla is speed and readiness. Before making the batter, prepare the steaming setup. Grease a 5 or 6-inch round or square pan with oil. In a large pot or steamer, add 2-3 cups of water, place a trivet inside, and bring the water to a rolling boil over medium-high heat. The steamer must be hot and ready before the batter is mixed with Eno. [2, 5]",300,-1
+khaman_dhokla,2,"In a large mixing bowl, sift the besan and sooji. [3] In a separate bowl, combine 1 cup of water, lemon juice, oil, sugar, salt, ginger-green chili paste, and turmeric powder, and whisk until dissolved. Pour this into the dry ingredients and whisk to a smooth, flowing batter. [3] Whisk vigorously in one direction for one full minute and let the batter rest for 10 minutes. [1, 5]",-1,600
+khaman_dhokla,3,"Check that the steamer is boiling vigorously. Sprinkle Eno over the batter, pour 1 tbsp of water over it, and mix gently until just incorporated. Immediately pour into the greased pan, place in the steamer, cover, and steam on medium-high for 20 minutes, undisturbed. [2] After 20 minutes, turn off the heat and check with a toothpick. Let the dhokla rest in the pot for another 5 minutes before removing. [5]",-1,1500
+khaman_dhokla,4,"While the dhokla cools, heat oil for tempering. Add mustard seeds, curry leaves, green chilies, hing, and sesame seeds. Carefully add ⅓ cup of water, 1 teaspoon of sugar, and a pinch of salt, and bring to a boil. [1, 3] Cut the cooled dhokla into squares, pour the warm tempering liquid over it, and garnish with coconut and coriander. [2]",300,-1
+gobi_manchurian,1,"In a large pot, bring 4 cups of salted water to a boil. Add cauliflower florets and blanch for exactly 2 minutes. [7] Immediately drain and transfer to ice-cold water to stop cooking, then drain thoroughly and pat dry. [7]",600,-1
+gobi_manchurian,2,"Heat 2 tbsp oil in a wok over high heat. Stir-fry garlic, ginger, chilies, onion, and the white parts of the spring onion for a minute. Add capsicum and sauté until slightly softened but crisp. [7]",300,-1
+gobi_manchurian,3,"Lower heat, add all sauces (ketchup, chili, soy), vinegar, pepper, and salt. Stir in the cornstarch slurry to thicken the sauce into a glaze. Keep on lowest heat. [7]",300,-1
+gobi_manchurian,4,"Whisk batter ingredients into a smooth, medium consistency paste. Add the dry gobi florets and toss to coat. [7]",300,-1
+gobi_manchurian,5,Heat oil to 350°F (175°C). Deep fry battered florets in small batches for 4-6 minutes until deep golden brown and very crisp. [6] Drain on a wire rack.,900,-1
+gobi_manchurian,6,Turn the heat under the sauce to high. Add all the crispy gobi and the green parts of the spring onion. Toss vigorously for 30-60 seconds to coat everything in the glaze. [7],60,-1
+gobi_manchurian,7,Transfer to a platter and serve instantly while it is still hot and crispy.,60,-1
+khasta_kachori,1,"Drain soaked moong dal and grind to a coarse paste without water. Heat oil, sauté hing and crushed seeds, then roast besan. Add the dal paste and all spice powders, cooking for 7-8 minutes until the mixture is dry and crumbly. Cool completely. [12]",600,-1
+khasta_kachori,2,"Rub 2 tbsp of oil into the maida and salt until it resembles breadcrumbs. Knead a firm, pliable dough with cold water. Cover with a damp cloth and rest for 30 minutes. [11]",-1,2100
+khasta_kachori,3,"Divide dough and filling into 8-10 portions. Flatten a dough ball, place the filling, and seal it tightly. Gently flatten into a 3-inch kachori. [14]",600,-1
+khasta_kachori,4,"Heat oil on a low flame. Gently slide in the kachoris and fry slowly for 15-20 minutes, turning occasionally, until deep golden brown and crisp. This slow frying is essential. [11]",-1,1080
+raj_kachori,1,"Mix rava, flours, salt, baking soda, and oil. Knead a very firm dough with water for 10 minutes. Cover with a moist cloth and rest for 30 minutes. [13]",-1,2400
+raj_kachori,2,Roll a ball of dough into a 4-5 inch circle. Slide it into medium-hot oil and gently nudge it to help it puff up completely like a large poori. [13],300,-1
+raj_kachori,3,"Reduce heat to medium-low and fry, flipping, until the shell is deep golden brown and very crisp. Cool completely. [13]",900,-1
+raj_kachori,4,"To serve, crack a hole in the top of a cooled shell. Layer the fillings inside: potatoes, chickpeas, yogurt, chutneys, spices, sev, and garnishes. Serve immediately. [13]",300,-1
+khandvi,1,"Prepare 3-4 large steel plates by turning them upside down; do not grease them. [16] In a heavy-bottomed pan (off the heat), whisk all batter ingredients until completely smooth. [17]",420,-1
+khandvi,2,"Place the pan on a medium-low flame and stir constantly and vigorously with a whisk for 10-12 minutes. The batter will thicken into a smooth, glossy paste. [16]",660,-1
+khandvi,3,"Work very quickly. Pour the hot paste onto the prepared plates and immediately spread it into a paper-thin, even layer with a spatula. [17]",240,-1
+khandvi,4,Let the sheets cool for 5-10 minutes until set. Cut them into 2-inch wide strips and carefully roll each strip into a tight roll. [16],-1,600
+khandvi,5,"Prepare a tempering by heating oil and crackling mustard seeds, sesame seeds, chilies, and curry leaves. Pour this over the Khandvi rolls and garnish with coconut and coriander. [16, 17]",180,-1
+rava_uttapam,1,"In a mixing bowl, whisk rava, yogurt, and ½ cup of water to a smooth paste. Cover and let it rest for 30 minutes for the rava to soften and swell. [20]",-1,1800
+rava_uttapam,2,"After resting, add salt and a few more tablespoons of water to the thickened batter to achieve a thick but pourable consistency. Add Eno (if using) and mix gently. [20]",120,-1
+rava_uttapam,3,Heat a greased tawa. Pour a ladleful of batter and spread gently into a thick circle. Immediately sprinkle with chopped vegetables and press them in lightly. [20],180,-1
+rava_uttapam,4,"Drizzle oil around the edges, cover, and cook for 2-3 minutes until the bottom is golden. Flip and cook the other side for 2 minutes until the vegetables are caramelized. [20]",300,-1
+galouti_kebab,1,"Grind the mutton keema in a food processor until it becomes a very fine, smooth paste. [23] Prepare the Galouti masala by dry roasting and grinding the whole spices. [25]",600,-1
+galouti_kebab,2,"In a large bowl, combine the meat paste with all other ingredients (papaya paste, ginger-garlic, masala, binders, pastes, essences, salt). Knead well for 10 minutes. Cover and marinate in the refrigerator for 1-4 hours. [26]",-1,7200
+galouti_kebab,3,"Optional: To add a smoky flavor, place a hot coal in a small bowl within the meat mixture, pour ghee over it, and immediately cover tightly for 5-10 minutes to trap the smoke. [26]",300,-1
+galouti_kebab,4,"Gently shape the very soft mixture into small, flat patties with greased palms. [26] Shallow fry in a generous amount of ghee on medium-low heat for 2-3 minutes per side until a dark brown crust forms. Handle delicately. [26]",900,-1
+shammi_kebab,1,"In a pressure cooker, combine meat, soaked dal, rough chopped onion, ginger, garlic, chilies, and whole spices. Add salt, turmeric, and water. Cook until meat is fall-apart tender. [28]",1200,-1
+shammi_kebab,2,"If any liquid remains, cook on high heat, stirring constantly, until the mixture is absolutely dry. Cool completely. [27]",300,-1
+shammi_kebab,3,Discard whole spices. Grind the cooled meat-dal mixture to a paste without adding water. [28],300,-1
+shammi_kebab,4,"In a bowl, combine the ground paste with finely chopped onion, chilies, herbs, garam masala, and the beaten egg. Mix well. [28]",300,-1
+shammi_kebab,5,"Shape the mixture into thick, round patties. Shallow fry in ghee or oil on medium heat for 3-4 minutes per side until deep brown and crisp. [28]",600,-1
+lamb_seekh_kebab,1,"In a large bowl, combine minced lamb with all other ingredients (squeezed vegetables, herbs, pastes, spices, lemon juice). [30, 31]",600,-1
+lamb_seekh_kebab,2,Knead the mixture with your hands for 5-7 minutes until it becomes sticky and cohesive. Cover and chill in the refrigerator for at least 2 hours. [31],-1,7200
+lamb_seekh_kebab,3,"With wet hands, take a portion of the chilled mixture and press it firmly onto a metal skewer, shaping it into a long, even cylinder. [31]",600,-1
+lamb_seekh_kebab,4,"Grill over high heat on a barbecue or under a broiler for 10-12 minutes, turning frequently and basting with butter, until browned and cooked through. [30]",720,-1
+veg_seekh_kebab,1,"Sauté onion, ginger-garlic paste, and chili. Add besan and roast until fragrant. Add mixed vegetables and cook until all moisture has evaporated. Cool this mixture. [29]",900,-1
+veg_seekh_kebab,2,"In a bowl, combine the cooled vegetable mix with mashed potatoes, breadcrumbs, cashews, spices, and lemon juice. Knead into a firm dough. [29]",300,-1
+veg_seekh_kebab,3,"With greased hands, mold the mixture onto skewers. Roast on a hot, greased tawa, turning periodically and basting with oil, until all sides are golden brown and crisp. [29]",1800,-1
+chicken_tikka,1,"Apply the first marinade (lemon juice, salt, ginger-garlic, chili powder) to the chicken cubes. Cover and rest for 30 minutes. [36]",-1,1800
+chicken_tikka,2,"Whisk all second marinade ingredients into a smooth, thick paste. Apply this to the chicken, ensuring it is well-coated. Cover and refrigerate for at least 8 hours, or overnight. [36]",-1,28800
+chicken_tikka,3,"Preheat oven to 450°F (240°C). Thread the marinated chicken onto skewers, alternating with onion and bell pepper. [36]",900,-1
+chicken_tikka,4,"Bake on a wire rack for 10 minutes, then flip, baste with butter, and bake for another 8-10 minutes until cooked through and charred at the edges. Broil for the last 2-3 minutes for extra char. [36]",1200,-1
+gajar_ka_halwa,1,"Thoroughly wash, peel, and finely grate the carrots. In a small pan, heat a teaspoon of ghee and roast the chopped nuts until golden; set aside.",900,-1
+gajar_ka_halwa,2,"In a heavy-bottomed pan, sauté the grated carrots in 1 tablespoon of ghee for 5-6 minutes if using regular orange carrots. Pour in the milk, bring to a simmer, and cook on medium-low, stirring frequently, until all the milk has evaporated. [28]",1800,-1
+gajar_ka_halwa,3,"Add the sugar and continue to cook, stirring as the sugar melts and the mixture thickens again. Add the remaining 1-2 tablespoons of ghee and sauté for another 2-3 minutes until the halwa is glossy and pulls away from the sides. [28]",600,-1
+gajar_ka_halwa,4,Turn off the heat and stir in the cardamom powder and roasted nuts. [28],60,-1
+gujiya,1,"Rub 4 tbsp of melted ghee into the flour until it resembles breadcrumbs. Gradually add water to knead a firm, stiff dough. Cover with a damp cloth and rest for 30 minutes. [3]",-1,2400
+gujiya,2,"Roast nuts, coconut, and khoya separately in a little ghee until fragrant and light golden. Let the mixture cool completely, then stir in the sugar and cardamom powder. [3]",900,-1
+gujiya,3,"Roll small balls of dough into thin circles. Place filling on one half, brush edges with a flour-water paste, and seal using a mold or by crimping the edges by hand. [3]",900,-1
+gujiya,4,"Heat oil on a low to medium-low flame. Fry the gujiyas in batches for 8-10 minutes, flipping occasionally, until evenly golden brown and crisp. [3]",1800,-1
+jalebi,1,"Whisk flours and baking soda with water to form a smooth, flowing batter. Cover and leave in a warm place to ferment for 12 to 24 hours. [11]",-1,86400
+jalebi,2,"Prepare the sugar syrup by cooking sugar, water, and saffron until it reaches a one-string consistency. Add lemon juice to prevent crystallization and keep warm. [11]",900,-1
+jalebi,3,Pour the fermented batter into a squeezy bottle. Heat ghee or oil to a medium temperature. Pipe the batter in spirals into the hot oil and fry until crisp and golden on both sides. [11],1800,-1
+jalebi,4,"Immediately remove the fried jalebi and soak it in the warm sugar syrup for 1-2 minutes, turning once. [11]",120,-1
+gulab_jamun,1,"Mash khoya until completely smooth. Add grated paneer and knead for 10-15 minutes until the mixture is very smooth. Gently mix in flour, sooji, and baking powder to form a soft dough. Cover and rest for 30 minutes. [1, 2]",-1,2700
+gulab_jamun,2,Prepare a sticky sugar syrup by simmering sugar and water for 5-6 minutes. Turn off the heat and add rose water. Keep warm. [1],600,-1
+gulab_jamun,3,"Shape the rested dough into small, smooth, crack-free balls.",600,-1
+gulab_jamun,4,"Fry the jamun balls in ghee on a consistent low flame for 5-7 minutes, turning gently, until deep golden-brown all over. [1]",1200,-1
+gulab_jamun,5,"Immediately transfer the hot, fried jamuns into the warm sugar syrup. Let them soak for at least 2-4 hours to absorb the syrup completely. [34]",-1,7200
+rasgulla,1,"Boil milk, then let it cool for 4-5 minutes. Gradually add lemon juice to curdle the milk. Strain the chenna in a muslin cloth, rinse under cold water, and hang for 1 hour to drain. [5]",-1,4500
+rasgulla,2,"Knead the drained chenna with the heel of your palm for 5-8 minutes until it forms a smooth, soft dough. [5]",480,-1
+rasgulla,3,"Shape the dough into small, smooth, crack-free balls.",300,-1
+rasgulla,4,"In a large, wide pot, bring the sugar and water to a rolling boil. Carefully drop in the chenna balls, cover with a tight lid, and cook on high heat for 10-15 minutes without peeking. [5]",900,-1
+rasgulla,5,"Immediately transfer the cooked rasgullas into a bowl of ice-cold water to help them firm up and retain their shape. Let them cool, then transfer to the cooled sugar syrup to soak. [5]",600,-1
+rasmalai,1,"Prepare chenna as in the Rasgulla recipe. Knead until smooth, then shape into small, flattened discs. [8]",-1,4500
+rasmalai,2,Cook the discs in a thin sugar syrup (3/4 cup sugar to 3.5 cups water) on a medium-high flame for 10 minutes until they double in size. Let them rest in the covered pan. [8],1800,-1
+rasmalai,3,Prepare the rabri by simmering 4 cups of milk with sugar and saffron until it reduces by about half and thickens. This will take 25-30 minutes. Let it cool to a lukewarm temperature. [8],1800,-1
+rasmalai,4,Gently squeeze the excess sugar syrup from the cooked discs and arrange them in a shallow dish.,300,-1
+rasmalai,5,"Pour the lukewarm rabri over the discs. Let them soak for a minimum of 3-4 hours, or preferably overnight, in the refrigerator. Garnish with nuts before serving. [8]",-1,14400
+puran_poli,1,"Pressure cook the soaked chana dal until very soft. Drain completely, reserving the water. [16]",2700,-1
+puran_poli,2,"Cook the drained dal with jaggery until the mixture becomes very thick and dry. Add spices, cool, and then mash until completely smooth. [38]",1800,-1
+puran_poli,3,"Knead a very soft, pliable dough using the flours and reserved dal water. Rest for at least 30 minutes. [16]",-1,2400
+puran_poli,4,"Stuff balls of the puran filling inside dough balls, seal completely, and gently roll out into thin flatbreads using dry flour for dusting. [38]",900,-1
+puran_poli,5,Cook the poli on a hot tawa with ghee until it puffs up and has golden-brown spots on both sides. Serve hot with more ghee. [16],600,-1
+shahi_tukra,1,Prepare a quick rabri by simmering the milk with sugar and saffron until it reduces by half and thickens. [12],2400,-1
+shahi_tukra,2,Cut the bread slices into triangles. Fry them in ghee on medium-low heat until deep golden-brown and crisp. [15],600,-1
+shahi_tukra,3,Prepare a one-string consistency sugar syrup. Briefly dip each fried bread triangle into the warm syrup for a few seconds. [12],420,-1
+shahi_tukra,4,"Arrange the syrup-coated bread on a platter, pour the rabri over it, and garnish with nuts. Serve immediately. [12]",180,-1
+phirni,1,"Wash and soak the rice for 30 minutes, then drain and grind to a coarse, grainy powder. [20]",-1,1800
+phirni,2,"Bring milk to a boil in a heavy pan and simmer for 10-15 minutes. Make a smooth, lump-free slurry of the ground rice with a few tablespoons of cold milk. [41]",900,-1
+phirni,3,"Gradually pour the rice slurry into the simmering milk, stirring continuously for the first 5 minutes. Cook on low for 15-20 minutes, stirring frequently, until the rice is cooked and the mixture has thickened. [42]",1200,-1
+phirni,4,"Stir in the sugar, saffron, and cardamom powder, and cook for another 5 minutes. [20]",300,-1
+phirni,5,Pour into serving bowls and let it cool. Refrigerate for at least 4 hours to set. Garnish before serving. [41],-1,14400
+sandesh,1,"Make chenna by curdling boiled milk with lemon juice. Strain in a muslin cloth, rinse, and hang for 15-30 minutes until moist but not watery. [6]",-1,2700
+sandesh,2,Knead the chenna with the heel of your palm for 5-7 minutes until it becomes a completely smooth and soft dough. [6],420,-1
+sandesh,3,"Mix in the powdered sugar. Transfer the mixture to a non-stick pan and cook on low heat, stirring continuously, for just 4-5 minutes until it starts to come together. Do not overcook. [6]",300,-1
+sandesh,4,"Remove from heat, let it cool until warm enough to handle, then shape into small patties. Garnish and refrigerate to set. [6]",300,-1
+petha,1,"Peel, deseed, and cube the ash gourd. Prick the cubes densely on all sides with a fork. Soak the pieces in a solution of slaked lime and water for 24 hours. [43]",-1,86400
+petha,2,Drain and wash the gourd pieces thoroughly 5-6 times. Boil them in water (with optional alum) for 10-15 minutes until translucent but firm. [13],1800,-1
+petha,3,Prepare a sugar syrup. Add the boiled gourd pieces and let them soak for 24 hours. [44],-1,86400
+petha,4,"For the next 2-3 days, strain the petha pieces, re-boil the syrup to thicken it, and then soak the petha again for 24 hours each day. [44]",-1,172800
+petha,5,"On the final day, cook the petha in the thickened syrup for 5 minutes, add essence, then strain and air dry on a rack overnight until a dry crust forms. [44]",-1,43200
+rabri,1,"In a wide, heavy pan, bring milk to a simmer on low-medium heat. As layers of cream form, gently lift them and stick them to the sides of the pan. [19]",3600,-1
+rabri,2,"Continue this process, stirring the bottom occasionally, until the milk has reduced to 1/3 of its original volume. This takes about an hour. [19]",0,-1
+rabri,3,"Add sugar, saffron, and cardamom to the reduced milk and simmer for 10 minutes. [19]",600,-1
+rabri,4,Scrape the collected cream layers from the sides back into the milk. Stir in the nuts. Serve warm or chilled. [19],300,-1
+malpua,1,"Whisk flour, khoya, fennel seeds, and cardamom with milk to form a smooth, thick, flowing batter. Cover and rest for 30 minutes. [10]",-1,1800
+malpua,2,Prepare a sticky sugar syrup by simmering sugar and water for a few minutes. Keep warm. [10],600,-1
+malpua,3,Heat 1-2 inches of ghee in a shallow pan. Pour a ladleful of batter to form a pancake. Fry on low-medium heat until the edges are crisp and both sides are golden brown. [50],900,-1
+malpua,4,"Drain the fried malpua and immediately soak in the warm sugar syrup for a minute on each side. Serve warm, optionally with Rabri. [10]",300,-1
+kulfi,1,"In a heavy, wide pan, simmer the milk on low-medium heat, stirring frequently, until it reduces to 1/3 of its original volume. This can take up to an hour. [21]",3600,-1
+kulfi,2,"Stir in the sugar, nuts, saffron, and cardamom powder. Simmer for another 5 minutes. [52]",300,-1
+kulfi,3,Let the mixture cool completely to room temperature.,-1,1800
+kulfi,4,"Pour the cooled mixture into kulfi molds or small cups. Cover and freeze for at least 6-8 hours, or overnight, until solid. [52]",-1,28800
+imarti,1,Wash and soak the urad dal in water for 1-2 hours. Drain completely. [54],-1,7200
+imarti,2,"Grind the dal into a very fine, smooth, and thick paste, adding minimal water. This can take up to an hour in a wet grinder. [55]",3600,-1
+imarti,3,"Transfer the batter to a bowl, add rice flour and food colour. Beat vigorously for 5-7 minutes to aerate it. [55]",420,-1
+imarti,4,Prepare a one-string consistency sugar syrup and keep it warm.,900,-1
+imarti,5,Pipe the batter into medium-hot ghee in a floral shape. Fry on medium-low heat until crisp. [55],1800,-1
+imarti,6,Drain the fried Imarti and soak in warm sugar syrup for a couple of minutes. [55],120,-1
+kaju_katli,1,Grind the cashews in short bursts until you get a fine powder. Do not grind continuously. Sieve the powder. [18],300,-1
+kaju_katli,2,"In a non-stick pan, dissolve sugar in water and bring to a boil. Add the cashew powder and stir continuously on a low flame. [57]",120,-1
+kaju_katli,3,"Cook for 7-9 minutes, stirring constantly, until the mixture thickens and comes together into a single, non-sticky lump of dough. [59]",540,-1
+kaju_katli,4,Immediately transfer the hot dough to a greased parchment paper. Knead for a minute while still warm until smooth. [57],120,-1
+kaju_katli,5,Roll the dough between sheets of parchment paper to a thickness of 3-5 mm. Let it cool completely for an hour or two. [57],-1,3600
+kaju_katli,6,"Once set, cut into diamond shapes. [59]",120,-1
+sweet_lassi,1,"In a large bowl, place the chilled yogurt. Using a wire whisk or a traditional mathani, whisk vigorously until it is completely smooth and free of lumps. [2]",120,-1
+sweet_lassi,2,"Add the sugar to the smooth yogurt. Whisk again until the sugar is fully incorporated. [2, 5]",60,-1
+sweet_lassi,3,"Pour in the ice-cold water. Using an immersion blender or a regular blender, blend until the lassi is homogenous and a layer of froth forms on top. [2]",120,-1
+sweet_lassi,4,"Stir in the ground cardamom powder and, if using, a few drops of rose water. Mix gently one last time. [2]",60,-1
+sweet_lassi,5,Pour into tall glasses. Garnish with a sprinkle of crushed pistachios and a few strands of saffron. It is best consumed immediately. [2],0,-1
+salted_lassi,1,"In a bowl or blender jar, whisk the plain yogurt until it is smooth. [2]",120,-1
+salted_lassi,2,Add the roasted cumin powder and black salt. Mix until the spices are well combined with the yogurt. [2],60,-1
+salted_lassi,3,Add the cold water and blend until the mixture is smooth and frothy. [2],120,-1
+salted_lassi,4,Pour into glasses and garnish with fresh mint leaves and optional chile. [3],0,-1
+mango_lassi,1,"In a blender, combine the cubed mango, sugar (if using), and ground cardamom. Blend until the mango becomes a thick, smooth paste. [1]",180,-1
+mango_lassi,2,Add the plain yogurt and milk (or water) to the blender. Blend for 30-45 seconds until the mixture is completely smooth and creamy. [7],45,-1
+mango_lassi,3,Taste the lassi and adjust sweetness or consistency if needed. [9],0,-1
+mango_lassi,4,Pour into chilled glasses. Garnish with chopped pistachios and saffron. Serve immediately. [1],0,-1
+masala_chai,1,"In a mortar and pestle, coarsely crush the fresh ginger, green cardamom pods, cloves, and black peppercorns. [12]",120,-1
+masala_chai,2,"In a saucepan, bring the water to a boil. Add the crushed spice mixture and let it simmer for 2-3 minutes to create a spiced decoction. [15]",180,-1
+masala_chai,3,Add the CTC tea leaves and the sugar to the simmering water. Allow it to come to a vigorous boil for another 1-2 minutes. [15],120,-1
+masala_chai,4,"Pour in the full-fat milk. Bring to a rolling boil, then reduce heat to low, then bring to a boil again. Repeat this 2-3 times. [13]",180,-1
+masala_chai,5,Strain the chai through a fine-mesh sieve directly into serving cups. Serve immediately. [13],60,-1
+kashmiri_kahwah,1,"In a saucepan, bring the water to a boil. Reduce heat to a low simmer. Add the cinnamon, cardamom, clove, and saffron. Simmer gently for 3-4 minutes. [19]",240,-1
+kashmiri_kahwah,2,Turn off the heat completely. Add the green tea leaves and dried rose petals (if using). Stir gently once and immediately cover the pan. [18],0,-1
+kashmiri_kahwah,3,Allow the tea to steep for only 30 to 40 seconds to prevent bitterness. [19],-1,40
+kashmiri_kahwah,4,Strain the Kahwah into cups. Add slivered almonds and extra saffron to each cup. Sweeten with honey or sugar if desired. [22],60,-1
+vegetable_raita,1,"In a mixing bowl, whisk the chilled yogurt until it is completely smooth and creamy. [26]",120,-1
+vegetable_raita,2,"Add the roasted cumin powder, salt, red chili powder, and chaat masala (if using). Whisk again. [24]",60,-1
+vegetable_raita,3,"Add the finely chopped cucumber, onion, tomato, fresh herbs, and green chili to the spiced yogurt. [26]",360,-1
+vegetable_raita,4,Gently mix all the ingredients together. Refrigerate for at least 30 minutes before serving for the best flavor. [24],-1,1800
+axone_chutney,1,"On a dry griddle or over an open flame, roast the tomato and the dry chilies until their skins are blackened and charred. [36]",300,-1
+axone_chutney,2,"In a mortar and pestle, place the roasted chilies, tomato, and salt. Mash them together to form a rough paste. [36]",180,-1
+axone_chutney,3,Add the Axone paste to the mortar. Gently mash and mix it with the tomato-chili paste until just combined. Serve immediately. [36],120,-1
+bamboo_shoot_stir_fry,1,"Heat mustard oil in a wok. Add chopped onions and green chilies, and sauté for 2 minutes. [39]",300,-1
+bamboo_shoot_stir_fry,2,Add the prepared bamboo shoots and stir-fry for 2-3 minutes. [39],180,-1
+bamboo_shoot_stir_fry,3,Add the other vegetables and salt. Continue to stir-fry until vegetables are cooked but crisp. [42],600,-1
+bamboo_shoot_stir_fry,4,"Sprinkle with red chili flakes, toss, and garnish with coriander. Serve hot. [42]",60,-1
+gundruk_soup,1,"Soak dried Gundruk in hot water for 15 minutes to rehydrate, then squeeze out excess water. Dry roast soybeans until they crackle. [45]",-1,900
+gundruk_soup,2,"Heat mustard oil, temper with seeds. Add onion, garlic, and ginger, and sauté until golden. [30]",300,-1
+gundruk_soup,3,"Add soaked Gundruk and sauté for 2 minutes. Add tomatoes, turmeric, salt, and optional potatoes. Cook until tomatoes are pulpy. [45]",300,-1
+gundruk_soup,4,"Add roasted soybeans, chilies, and hot water. Bring to a boil, then cover and simmer for 10-15 minutes. [46]",900,-1
+gundruk_soup,5,"Turn off heat, stir in lemon juice, and garnish with coriander. Serve hot with rice. [45]",60,-1

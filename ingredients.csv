@@ -1,0 +1,2148 @@
+Recipe Id,Name,Amount,Unit,Is local
+coconut_prawn_curry,Prawns,400.0,"g, cleaned and deveined",False
+coconut_prawn_curry,Thick Coconut Milk,1.0,cup,False
+coconut_prawn_curry,Onion,1.0,"medium, finely chopped",False
+coconut_prawn_curry,Tomato,1.0,"medium, chopped",False
+coconut_prawn_curry,Ginger-Garlic Paste,1.0,tsp,False
+coconut_prawn_curry,Turmeric Powder,0.5,tsp,False
+coconut_prawn_curry,Red Chili Powder,1.0,tsp,False
+coconut_prawn_curry,Coconut Oil,2.0,tbsp,False
+coconut_prawn_curry,Mustard Seeds,0.5,tsp,False
+macher_jhol,Freshwater or Sea Fish Steaks,500.0,g,False
+macher_jhol,Mustard Oil,3.0,tbsp,False
+macher_jhol,Nigella Seeds (Kalonji),0.5,tsp,False
+macher_jhol,Green Chilies,3.0,slit,False
+macher_jhol,Turmeric Powder,1.0,tsp,False
+macher_jhol,Cumin Powder,1.0,tsp,False
+macher_jhol,Salt,-1.0,to taste,False
+foraged_tuber_meal,Foraged Wild Yams or Tubers,500.0,g,True
+turtle_eggs,Sea Turtle Eggs,6.0,,True
+kikad_roti,Wheat or Millet Flour,2.0,cups,False
+kikad_roti,Water,1.0,cup (approx.),False
+kikad_roti,Camel Foot Tree (Bauhinia variegata) Leaves,4.0,sets,True
+kikad_roti,Ghee and Jaggery,-1.0,for serving,False
+litti_chokha,Whole Wheat Flour (Atta),2.0,cups,False
+litti_chokha,Roasted Gram Flour (Sattu),1.0,cup,False
+litti_chokha,Large Eggplant (Baingan),1.0,,False
+litti_chokha,Large Tomatoes,2.0,,False
+litti_chokha,Potatoes,2.0,medium,False
+litti_chokha,Mustard Oil,2.0,tbsp,False
+litti_chokha,Garlic Cloves,4.0,chopped,False
+litti_chokha,Green Chilies,2.0,chopped,False
+litti_chokha,Ghee,-1.0,for dipping,False
+jil_pitha,Rice Flour or Finger Millet Flour,2.0,cups,False
+jil_pitha,Chicken or Pork,250.0,"g, finely chopped or minced",False
+jil_pitha,Ginger-Garlic Paste,1.0,tbsp,False
+jil_pitha,Turmeric Powder,0.5,tsp,False
+jil_pitha,Garam Masala,1.0,tsp,False
+jil_pitha,Salt,-1.0,to taste,False
+jil_pitha,Sal Leaves,4.0,large sets,True
+goan_fish_curry,Kingfish or Mackerel,500.0,"g, steaks",False
+goan_fish_curry,Grated Coconut,1.0,"cup, fresh",False
+goan_fish_curry,Onion,1.0,"medium, chopped",False
+goan_fish_curry,Dried Red Chilies,4.0,,False
+goan_fish_curry,Coriander Seeds,1.0,tbsp,False
+goan_fish_curry,Turmeric Powder,1.0,tsp,False
+goan_fish_curry,Tamarind Pulp or Kokum,1.0,tbsp,False
+goan_fish_curry,Salt,-1.0,to taste,False
+pork_vindaloo,Pork,1.0,"kg, with fat, cubed",False
+pork_vindaloo,Toddy Vinegar,0.5,cup,False
+pork_vindaloo,Dried Kashmiri Red Chilies,15.0,,False
+pork_vindaloo,Garlic,10.0,cloves,False
+pork_vindaloo,Ginger,1.0,inch piece,False
+pork_vindaloo,Cumin Seeds,1.0,tsp,False
+pork_vindaloo,Cloves,6.0,,False
+pork_vindaloo,Cinnamon Stick,1.0,inch,False
+pork_vindaloo,Black Peppercorns,1.0,tsp,False
+pork_vindaloo,Onion,2.0,"large, chopped",False
+lapsi,Cracked Wheat (Daliya),1.0,cup,False
+lapsi,Palm Jaggery (Gur) or Sugar,0.75,"cup, grated",False
+lapsi,Ghee (Clarified Butter),3.0,tbsp,False
+lapsi,Water,3.0,cups,False
+lapsi,Cardamom Powder,0.5,tsp,False
+paniya,Maize Flour (Makai Atta),2.0,cups,False
+paniya,Hot Water,1.0,cup (approx.),False
+paniya,Salt,-1.0,to taste,False
+paniya,"Large, Non-toxic Leaves (e.g., Aakda, Khakhra, Banana)",4.0,sets,False
+rabdi_maize,Coarsely Ground Maize,1.0,cup,False
+rabdi_maize,Water,4.0,cups,False
+rabdi_maize,Buttermilk,1.0,cup,False
+rabdi_maize,Salt,-1.0,to taste,False
+kheer,Full-Fat Milk,1.0,Liter,False
+kheer,Basmati Rice,0.25,"cup, washed and soaked",False
+kheer,Sugar,0.5,cup (to taste),False
+kheer,Cardamom Pods,3.0,crushed,False
+kheer,"Nuts (Almonds, Pistachios)",-1.0,for garnish,False
+bamboo_shoot_curry,Tender Bamboo Shoots (Karil),200.0,"g, processed and chopped",False
+bamboo_shoot_curry,Mustard Oil,2.0,tbsp,False
+bamboo_shoot_curry,Mustard Seeds,1.0,tsp,False
+bamboo_shoot_curry,Garlic,4.0,"cloves, chopped",False
+bamboo_shoot_curry,Turmeric Powder,0.5,tsp,False
+bamboo_shoot_curry,Salt,-1.0,to taste,False
+bisi_bele_bath,Rice,1.0,cup,False
+bisi_bele_bath,Toor Dal (Pigeon Peas),1.0,cup,False
+bisi_bele_bath,"Mixed Vegetables (Carrots, Beans, Peas)",2.0,"cups, chopped",False
+bisi_bele_bath,Tamarind Pulp,2.0,tbsp,False
+bisi_bele_bath,Jaggery,1.0,tbsp,False
+bisi_bele_bath,Bisi Bele Bath Spice Powder,3.0,tbsp,False
+bisi_bele_bath,Ghee,3.0,tbsp,False
+bisi_bele_bath,Mustard Seeds,1.0,tsp,False
+bisi_bele_bath,Cashew Nuts,10.0,,False
+wild_tuber_curry,"Wild Yams (e.g., Dioscorea species)",500.0,"g, peeled and cubed",True
+wild_tuber_curry,Turmeric Powder,0.5,tsp,False
+wild_tuber_curry,Red Chili Powder,1.0,tsp,False
+wild_tuber_curry,Salt,-1.0,to taste,False
+wild_tuber_curry,Coconut Oil (optional),1.0,tbsp,False
+chak_hao_kheer,Black Glutinous Rice (Chak-hao),0.5,cup,False
+chak_hao_kheer,Full-Fat Milk,1.0,Liter,False
+chak_hao_kheer,Sugar,0.75,cup (to taste),False
+chak_hao_kheer,Bay Leaf,1.0,,False
+galho,Rice,1.0,cup,False
+galho,Smoked Pork or Beef,200.0,"g, shredded",False
+galho,Mixed Seasonal Vegetables,1.0,"cup, chopped",False
+galho,Ginger,1.0,inch piece,False
+galho,Garlic,3.0,cloves,False
+galho,Salt,-1.0,to taste,False
+jadoh,Short-grain or Red Rice,1.0,cup,False
+jadoh,Pork,250.0,"g, with fat, cubed",False
+jadoh,Pork Fat,2.0,"tbsp, for cooking",False
+jadoh,Onion,1.0,"large, chopped",False
+jadoh,Ginger Paste,1.0,tbsp,False
+jadoh,Turmeric Powder,1.0,tsp,False
+jadoh,Black Pepper,0.5,tsp,False
+jadoh,Bay Leaf,1.0,,False
+jadoh,Salt,-1.0,to taste,False
+smoked_pork_with_axone,Smoked Pork,500.0,"g, cut into chunks",False
+smoked_pork_with_axone,Axone (Fermented Soybean) Paste or Cake,1.0,tbsp,True
+smoked_pork_with_axone,Naga King Chili,1.0,or to taste,False
+smoked_pork_with_axone,Ginger,1.0,"inch piece, sliced",False
+smoked_pork_with_axone,Garlic,5.0,cloves,False
+smoked_pork_with_axone,Salt,-1.0,to taste,False
+dal_baati_churma,Whole Wheat Flour,3.0,cups,False
+dal_baati_churma,Semolina (Suji),0.5,cup,False
+dal_baati_churma,Mixed Lentils (Panchmel Dal),1.0,cup,False
+dal_baati_churma,Ghee,1.0,cup,False
+dal_baati_churma,Jaggery (Gur) or Powdered Sugar,0.75,cup,False
+dal_baati_churma,Yogurt,0.25,cup,False
+amritsari_kulcha,All-Purpose Flour,2.0,cups,False
+amritsari_kulcha,Potatoes,2.0,"large, boiled and mashed",False
+amritsari_kulcha,Onion,1.0,"medium, finely chopped",False
+amritsari_kulcha,Garam Masala,1.0,tsp,False
+amritsari_kulcha,Yogurt,2.0,tbsp,False
+amritsari_kulcha,Ghee or Butter,-1.0,for cooking,False
+jowar_bhakri,Sorghum (Jowar) Flour,2.0,cups,False
+jowar_bhakri,Hot Water,1.0,cup (approx.),False
+jowar_bhakri,Salt,-1.0,to taste,False
+nagli_rotla,Finger Millet (Nagli/Ragi) Flour,2.0,cups,False
+nagli_rotla,Hot Water,1.0,cup (approx.),False
+nagli_rotla,Salt,-1.0,to taste,False
+wild_pig_curry,Andaman Wild Pig Meat,500.0,"g, cut into pieces",True
+wild_pig_curry,Ginger,1.0,"inch piece, crushed",False
+wild_pig_curry,Wild Chilies,3.0,,False
+wild_pig_curry,Salt,-1.0,to taste,False
+pandanus_dough,Pandanus Fruit Cluster,1.0,large,True
+pandanus_dough,Water,-1.0,for boiling,False
+pandanus_dough,Mollusc Shell,1.0,for scraping,True
+pesarattu,Whole Green Gram (Moong Dal),1.0,cup,False
+pesarattu,Rice,2.0,tbsp,False
+pesarattu,Ginger,1.0,inch piece,False
+pesarattu,Green Chilies,2.0,,False
+pesarattu,Cumin Seeds,1.0,tsp,False
+pesarattu,Salt,-1.0,to taste,False
+pesarattu,Oil,-1.0,for cooking,False
+gutti_vankaya_kura,Small Brinjals (Eggplants),250.0,g,False
+gutti_vankaya_kura,Peanuts,2.0,tbsp,False
+gutti_vankaya_kura,Sesame Seeds,1.0,tbsp,False
+gutti_vankaya_kura,Dried Coconut,2.0,"tbsp, grated",False
+gutti_vankaya_kura,Onion,1.0,"large, chopped",False
+gutti_vankaya_kura,Tamarind Pulp,1.0,tbsp,False
+gutti_vankaya_kura,Red Chili Powder,1.0,tsp,False
+gutti_vankaya_kura,Coriander Powder,1.0,tsp,False
+gutti_vankaya_kura,Salt,-1.0,to taste,False
+gongura_mamsam,Mutton,500.0,"g, bone-in",False
+gongura_mamsam,Gongura (Sorrel) Leaves,2.0,"cups, tightly packed",False
+gongura_mamsam,Onions,2.0,"large, sliced",False
+gongura_mamsam,Ginger-Garlic Paste,1.5,tbsp,False
+gongura_mamsam,Green Chilies,4.0,slit,False
+gongura_mamsam,Red Chili Powder,1.5,tsp,False
+gongura_mamsam,Turmeric Powder,0.5,tsp,False
+gongura_mamsam,Oil,3.0,tbsp,False
+chepa_pulusu,Freshwater Fish,500.0,"g, steaks",False
+chepa_pulusu,Tamarind,1.0,lemon-sized ball,False
+chepa_pulusu,Onion,1.0,"large, finely chopped",False
+chepa_pulusu,Green Chilies,3.0,slit,False
+chepa_pulusu,Red Chili Powder,2.0,tsp,False
+chepa_pulusu,Coriander Powder,1.0,tsp,False
+chepa_pulusu,Turmeric Powder,0.5,tsp,False
+chepa_pulusu,Mustard Seeds,1.0,tsp,False
+chepa_pulusu,Fenugreek Seeds,0.25,tsp,False
+chepa_pulusu,Oil,3.0,tbsp,False
+chenchu_tuber_meal,Foraged Wild Tubers (Dumpa),500.0,g,True
+chenchu_tuber_meal,Salt,-1.0,to taste,False
+kodo_kutki_porridge,Kodo or Kutki Millet,1.0,"cup, broken or as flour",False
+kodo_kutki_porridge,Water,4.0,cups,False
+kodo_kutki_porridge,Salt,-1.0,to taste,False
+koya_tuber_detox,Karsi or Keski Dumpa (Wild Tubers),1.0,kg,True
+eyup_choih,Dried Bamboo Shoots (Eyup),0.5,cup,False
+eyup_choih,Dried Red Chilies,5.0,,False
+eyup_choih,Salt,-1.0,to taste,False
+pasa,Freshwater Fish,250.0,"g, deboned and skinned",False
+pasa,Khumpatt Herb,1.0,"tbsp, finely chopped",True
+pasa,Ginger,1.0,"inch piece, minced",False
+pasa,Garlic,3.0,"cloves, minced",False
+pasa,Green Chilies,2.0,minced,False
+pasa,Salt,-1.0,to taste,False
+lukter,"Smoked Meat (Pork, Beef, or Mithun)",100.0,g,False
+lukter,Bhut Jolokia or other Dried Red Chili Flakes,1.0,tbsp (or to taste),False
+lukter,Salt,-1.0,to taste,False
+bamboo_tube_cooking,Fish,300.0,"g, cut into pieces",False
+bamboo_tube_cooking,Ginger,1.0,"inch piece, crushed",False
+bamboo_tube_cooking,Garlic,3.0,"cloves, crushed",False
+bamboo_tube_cooking,Turmeric Powder,0.5,tsp,False
+bamboo_tube_cooking,Salt,-1.0,to taste,False
+bamboo_tube_cooking,Green Bamboo Internode,1.0,large,True
+oying,"Mixed Seasonal Vegetables (Potato, Beans, Cabbage)",3.0,"cups, chopped",False
+oying,Ginger,1.0,"inch piece, crushed",False
+oying,Green Chilies,2.0,slit,False
+oying,Salt,-1.0,to taste,False
+pikey_pila,Pork with Fat,500.0,"g, cubed",False
+pikey_pila,Fermented Bamboo Shoots,0.5,cup,False
+pikey_pila,Pila (Alkaline Extract),2.0,tbsp,True
+pikey_pila,King Chilies (Bhut Jolokia),2.0,,False
+pikey_pila,Ginger,1.0,inch piece,False
+pikey_pila,Salt,-1.0,to taste,False
+chura_sabji,Fermented Cheese (Churpi/Chura),100.0,"g, crumbled",False
+chura_sabji,"Leafy Greens (e.g., Spinach, Mustard Greens)",1.0,"cup, chopped",False
+chura_sabji,King Chilies (Bhut Jolokia),1.0,or to taste,False
+chura_sabji,Salt,-1.0,to taste,False
+oma_jwng_narjwi,Pork with Fat,500.0,"g, cubed",False
+oma_jwng_narjwi,Dried Jute Leaves (Narzi),1.0,cup,False
+oma_jwng_narjwi,Kharwi (Alkaline Liquid),0.5,cup,True
+oma_jwng_narjwi,Ginger Paste,1.0,tbsp,False
+oma_jwng_narjwi,Garlic Paste,1.0,tbsp,False
+oma_jwng_narjwi,Green Chilies,3.0,slit,False
+oma_jwng_narjwi,Paprika or Red Chili Powder,1.0,tsp,False
+oma_jwng_narjwi,Salt,-1.0,to taste,False
+onla,Chicken,500.0,"g, bone-in",False
+onla,Rice Powder (On),2.0,tbsp,False
+onla,Ginger Paste,1.0,tbsp,False
+onla,Garlic Paste,1.0,tbsp,False
+onla,Green Chilies,2.0,slit,False
+onla,Turmeric Powder,0.5,tsp,False
+onla,Salt,-1.0,to taste,False
+samo_sobai,Freshwater Snails,250.0,g,False
+samo_sobai,Black Lentils (Urad Dal),0.5,cup,False
+samo_sobai,Onion,1.0,chopped,False
+samo_sobai,Garlic,4.0,"cloves, chopped",False
+samo_sobai,Wild Coriander (Kata Masala),1.0,"tbsp, chopped",True
+samo_sobai,Cumin Powder,1.0,tsp,False
+samo_sobai,Salt,-1.0,to taste,False
+pitang_oiying,Chicken or Pork,500.0,"g, cut into pieces",False
+pitang_oiying,Coarsely Ground Raw Rice (Pitang),3.0,tbsp,False
+pitang_oiying,Ginger Paste,1.0,tbsp,False
+pitang_oiying,Garlic Paste,1.0,tbsp,False
+pitang_oiying,Green Chilies,3.0,slit,False
+pitang_oiying,"Wild Herbs (e.g., Marshang)",1.0,"tbsp, chopped",True
+pitang_oiying,Salt,-1.0,to taste,False
+namsing_chutney,Namsing (Fermented Fish Powder),2.0,tbsp,True
+namsing_chutney,Onion,1.0,"small, finely chopped",False
+namsing_chutney,Green Chilies,2.0,finely chopped,False
+namsing_chutney,Mustard Oil,1.0,tsp,False
+namsing_chutney,Salt,-1.0,to taste,False
+pork_kalangdang,Pork,500.0,"g, with fat, cubed",False
+pork_kalangdang,Sour Fermented Bamboo Shoots,0.5,cup,False
+pork_kalangdang,Ginger,1.0,"inch piece, crushed",False
+pork_kalangdang,Garlic,4.0,"cloves, crushed",False
+pork_kalangdang,Green Chilies,3.0,slit,False
+pork_kalangdang,Salt,-1.0,to taste,False
+pork_kimung,Pork,500.0,"g, minced or finely chopped",False
+pork_kimung,"Wild Herbs (e.g., Lopong leaves)",2.0,"tbsp, chopped",True
+pork_kimung,Ginger,1.0,"inch piece, crushed",False
+pork_kimung,Green Chilies,3.0,chopped,False
+pork_kimung,Salt,-1.0,to taste,False
+pork_kimung,Green Bamboo Internode (Langpong),1.0,large,True
+champaran_meat,Mutton,1.0,"kg, bone-in",False
+champaran_meat,Onions,500.0,"g, thinly sliced",False
+champaran_meat,Ginger-Garlic Paste,3.0,tbsp,False
+champaran_meat,Mustard Oil,150.0,ml,False
+champaran_meat,"Whole Spices (Cinnamon, Cardamom, Cloves, Bay Leaf)",-1.0,,False
+champaran_meat,Whole Dried Red Chilies,5.0,,False
+champaran_meat,Turmeric Powder,1.0,tbsp,False
+champaran_meat,Coriander Powder,2.0,tbsp,False
+champaran_meat,Salt,-1.0,to taste,False
+kadhi_badi,Gram Flour (Besan),1.0,cup,False
+kadhi_badi,Sour Yogurt (Dahi),1.5,"cups, whisked",False
+kadhi_badi,Mustard Oil,3.0,tbsp,False
+kadhi_badi,Panchphoran (Five-Spice Blend),1.0,tsp,False
+kadhi_badi,Turmeric Powder,1.0,tsp,False
+kadhi_badi,Asafoetida (Hing),0.25,tsp,False
+kadhi_badi,Salt,-1.0,to taste,False
+kadhi_badi,Oil,-1.0,for frying badi,False
+sattu_paratha,Whole Wheat Flour,2.0,cups,False
+sattu_paratha,Sattu (Roasted Gram Flour),1.0,cup,False
+sattu_paratha,Onion,1.0,finely chopped,False
+sattu_paratha,Garlic,3.0,"cloves, minced",False
+sattu_paratha,Mustard Oil or Pickle Masala,1.0,tbsp,False
+sattu_paratha,Salt,-1.0,to taste,False
+sattu_paratha,Ghee or Oil,-1.0,for pan-frying,False
+dal_puri,Whole Wheat Flour,2.0,cups,False
+dal_puri,Chana Dal (Split Chickpeas),1.0,"cup, soaked",False
+dal_puri,Cumin Seeds,1.0,tsp,False
+dal_puri,Asafoetida (Hing),0.25,tsp,False
+dal_puri,Turmeric Powder,0.5,tsp,False
+dal_puri,Oil,-1.0,for deep frying,False
+leto,Rice Flour (Finely Ground),1.0,cup,False
+leto,Chicken,250.0,"g, boneless, cooked and shredded",False
+leto,Ginger-Garlic Paste,1.0,tbsp,False
+leto,Turmeric Powder,0.5,tsp,False
+leto,Mustard Oil,2.0,tbsp,False
+leto,Salt,-1.0,to taste,False
+patpoda_chicken,Chicken,500.0,"g, small pieces",False
+patpoda_chicken,Ginger Paste,1.0,tbsp,False
+patpoda_chicken,Garlic Paste,1.0,tbsp,False
+patpoda_chicken,Salt,-1.0,to taste,False
+patpoda_chicken,Sal Leaves,4.0,large sets,True
+bore_baasi,Cooked Rice,1.0,"cup, preferably leftover",False
+bore_baasi,"Water, Curd, or Buttermilk",2.0,cups,False
+bore_baasi,Salt,-1.0,to taste,False
+bore_baasi,Raw Onion and Pickles,-1.0,for serving,False
+chila,Rice Flour,1.0,cup,False
+chila,Water,1.5,cups (approx.),False
+chila,Salt,-1.0,to taste,False
+chila,Green Chili,1.0,finely chopped (optional),False
+chila,Coriander Leaves,1.0,"tbsp, chopped (optional)",False
+chila,Oil,-1.0,for cooking,False
+faraa,Rice Flour,2.0,cups,False
+faraa,Hot Water,1.5,cups (approx.),False
+faraa,Split Chickpeas (Chana Dal),0.5,"cup, soaked for 3-4 hours",False
+faraa,Garlic Cloves,4.0,,False
+faraa,Green Chilies,2.0,,False
+faraa,Salt,-1.0,to taste,False
+aamat,Bamboo Shoots,1.0,"cup, processed and shredded",False
+aamat,"Mixed Vegetables (e.g., beans, carrots)",1.0,"cup, chopped",False
+aamat,Ginger Paste,1.0,tsp,False
+aamat,Garlic Paste,1.0,tsp,False
+aamat,Turmeric Powder,0.5,tsp,False
+aamat,Salt,-1.0,to taste,False
+chaprah,Red Ants and their Eggs,1.0,cup,True
+chaprah,Salt,-1.0,to taste,False
+chaprah,Ginger,0.5,inch piece,False
+chaprah,Garlic,3.0,cloves,False
+chaprah,Green or Red Chilies,4.0,,False
+chaprah,Coriander Leaves,2.0,tbsp,False
+sikiya_kheer,Sikiya Millet (or substitute),0.5,cup,True
+sikiya_kheer,Milk,1.0,Liter,False
+sikiya_kheer,Jaggery or Sugar,0.5,cup (to taste),False
+sikiya_kheer,Cardamom Powder,0.5,tsp,False
+madra,Chickpeas (Kabuli Chana),1.0,cup,False
+madra,Yogurt (Dahi),1.5,"cups, whisked",False
+madra,Ghee (Clarified Butter),3.0,tbsp,False
+madra,Gram Flour (Besan),1.0,tbsp,False
+madra,Cumin Seeds,1.0,tsp,False
+madra,Cloves,4.0,,False
+madra,Green Cardamom,3.0,,False
+madra,Cinnamon Stick,1.0,inch,False
+madra,Bay Leaf,1.0,,False
+madra,Turmeric Powder,0.5,tsp,False
+madra,Coriander Powder,1.0,tsp,False
+madra,Salt,-1.0,to taste,False
+siddu,Whole Wheat Flour (Atta),2.0,cups,False
+siddu,Active Dry Yeast,1.0,tsp,False
+siddu,Sugar,0.5,tsp,False
+siddu,Walnuts or Poppy Seeds (Khas-Khas),0.75,"cup, for stuffing",False
+siddu,Salt,-1.0,to taste,False
+siddu,Ghee (for serving),-1.0,as needed,False
+chha_gosht,Mutton,500.0,"g, bone-in",False
+chha_gosht,Buttermilk (Chha),2.0,cups,False
+chha_gosht,Gram Flour (Besan),2.0,tbsp,False
+chha_gosht,Ghee or Mustard Oil,3.0,tbsp,False
+chha_gosht,Ginger-Garlic Paste,1.0,tbsp,False
+chha_gosht,Turmeric Powder,1.0,tsp,False
+chha_gosht,Coriander Powder,1.5,tsp,False
+chha_gosht,Red Chili Powder,1.0,tsp,False
+chha_gosht,"Whole Spices (Cloves, Cardamom, Cinnamon)",-1.0,,False
+kaale_channe_ka_khatta,Black Chickpeas (Kaale Chane),1.0,"cup, soaked overnight",False
+kaale_channe_ka_khatta,Mustard Oil,2.0,tbsp,False
+kaale_channe_ka_khatta,Tamarind Pulp or Dried Mango Powder (Amchur),2.0,tbsp,False
+kaale_channe_ka_khatta,Cumin Seeds,1.0,tsp,False
+kaale_channe_ka_khatta,Asafoetida (Hing),0.25,tsp,False
+kaale_channe_ka_khatta,Turmeric Powder,0.5,tsp,False
+kaale_channe_ka_khatta,Coriander Powder,1.0,tsp,False
+kaale_channe_ka_khatta,Salt,-1.0,to taste,False
+tudkiya_bhaat,Basmati Rice,1.0,"cup, soaked",False
+tudkiya_bhaat,Split Chickpeas (Chana Dal) or other lentils,0.25,"cup, soaked",False
+tudkiya_bhaat,Yogurt,0.5,cup,False
+tudkiya_bhaat,Ghee,2.0,tbsp,False
+tudkiya_bhaat,Onion,1.0,"medium, sliced",False
+tudkiya_bhaat,Potatoes,1.0,"medium, cubed",False
+tudkiya_bhaat,"Whole Spices (Cardamom, Cloves, Cinnamon, Bay Leaf)",-1.0,,False
+tudkiya_bhaat,Turmeric Powder,0.5,tsp,False
+tudkiya_bhaat,Salt,-1.0,to taste,False
+aktori_patande,Buckwheat Flour (Kuttu ka Atta) or Wheat Flour,1.0,cup,False
+aktori_patande,Milk or Water,1.5,cups (approx.),False
+aktori_patande,Ghee or Oil,-1.0,for cooking,False
+aktori_patande,Sugar or Salt,-1.0,to taste,False
+aid_ka_saag,Fresh Stinging Nettle Leaves (Bichhu Ghass),500.0,g,True
+aid_ka_saag,Mustard Oil,2.0,tbsp,False
+aid_ka_saag,Garlic,4.0,"cloves, chopped",False
+aid_ka_saag,Dried Red Chilies,2.0,,False
+aid_ka_saag,Salt,-1.0,to taste,False
+kalari,Raw Full-Fat Milk,2.0,Liters,False
+kalari,Sour Whey (Matthar),2.0,cups (approx. 500 ml),True
+kalari,Lemon Juice (substitute),3.0,tbsp,False
+kalari,Curd (Yogurt) (substitute),1.0,kg,False
+kalari,Oil or Ghee (for cooking),1.0,tsp (or none),False
+kalari,Salt,-1.0,A pinch,False
+makki_ki_roti,Maize Flour (Makki ka Atta),2.0,cups,False
+makki_ki_roti,Hot Water,1.5,cups (approx.),False
+makki_ki_roti,Salt,0.5,tsp,False
+makki_ki_roti,Carom Seeds (Ajwain),1.0,tsp,False
+makki_ki_roti,Ghee or Oil (for cooking),6.0,tbsp,False
+noon_chai,Kashmiri/Green Tea Leaves,4.0,tsp,False
+noon_chai,Water,5.0,cups,False
+noon_chai,Baking Soda,0.25,tsp (a generous pinch),False
+noon_chai,Salt,-1.0,to taste,False
+noon_chai,Milk,2.0,cups,False
+gucchi_pulao,Dried Morel Mushrooms (Gucchi),60.0,g,False
+gucchi_pulao,Long-Grain Basmati Rice,1.5,cups,False
+gucchi_pulao,Ghee (Clarified Butter),4.0,tbsp,False
+gucchi_pulao,Onions,2.0,"large, thinly sliced",False
+mamtu,All-Purpose Flour,3.0,cups,False
+mamtu,Minced Meat (Lamb/Beef/Yak),1.0,lb / 450g,False
+mamtu,Onions,2.0,"cups, finely diced",False
+chapshuro,All-Purpose or Whole Wheat Flour,500.0,g,False
+chapshuro,Minced Meat (Beef/Mutton/Yak),500.0,g,False
+chapshuro,Onions,5.0,"medium, finely chopped",False
+prapu,Whole Wheat Flour (for noodles),100.0,g (approx.),False
+prapu,Walnuts,0.25,"cup (approx.), finely ground",False
+prapu,Apricot Oil,2.0,tbsp,True
+gyal,Buckwheat Flour,0.5,cup (approx.),True
+gyal,"Accompaniments (Apricot Oil, butter, honey, or walnut paste)",-1.0,,True
+balay,Goat meat stock,-1.0,,False
+balay,Handmade noodles,-1.0,,False
+marzan,Whole wheat grains,-1.0,,False
+marzan,Apricot oil (for dipping),-1.0,,True
+khambir,Whole Wheat Flour,2.0,cups (approx.),False
+kak_moch,Organic Dried Apricots,200.0,g,False
+kak_moch,Flour (All-Purpose or Wheat),50.0,g,False
+dhuska,Rice,1.0,cup,False
+dhuska,Chana Dal (Split Chickpeas),0.5,cup,False
+dhuska,Urad Dal (Split Black Gram),0.25,cup,False
+dhuska,Ginger,1.0,inch piece,False
+dhuska,Green Chilies,2.0,,False
+dhuska,Turmeric Powder,0.5,tsp,False
+dhuska,Salt,-1.0,to taste,False
+dhuska,Oil,-1.0,for deep frying,False
+pitha,Rice Flour,2.0,cups,False
+pitha,Hot Water,1.5,cups (approx.),False
+pitha,Chana Dal (Split Chickpeas),0.75,"cup, soaked for 3-4 hours",False
+pitha,Garlic,3.0,cloves,False
+pitha,Ginger,0.5,inch piece,False
+pitha,Salt,-1.0,to taste,False
+rugra_curry,Rugra Mushrooms,250.0,g,True
+rugra_curry,Mustard Oil,2.0,tbsp,False
+rugra_curry,Onion,1.0,"large, chopped",False
+rugra_curry,Ginger-Garlic Paste,1.0,tbsp,False
+rugra_curry,Tomato,1.0,chopped,False
+rugra_curry,Turmeric Powder,0.5,tsp,False
+rugra_curry,Coriander Powder,1.0,tsp,False
+rugra_curry,Salt,-1.0,to taste,False
+red_ant_chutney,Red Weaver Ants and their Eggs,1.0,cup,True
+red_ant_chutney,Salt,-1.0,to taste,False
+red_ant_chutney,Garlic,4.0,cloves,False
+red_ant_chutney,Ginger,1.0,inch piece,False
+red_ant_chutney,Green Chilies,3.0,,False
+dubki_tiyan,Urad Dal (Split Black Gram),1.0,"cup, soaked for 4-5 hours",False
+dubki_tiyan,Onion,1.0,"large, for curry paste",False
+dubki_tiyan,Tomato,1.0,"large, for curry paste",False
+dubki_tiyan,Ginger-Garlic Paste,1.0,tbsp,False
+dubki_tiyan,Coriander Powder,1.0,tsp,False
+dubki_tiyan,Turmeric Powder,0.5,tsp,False
+dubki_tiyan,Oil,2.0,tbsp,False
+dubki_tiyan,Salt,-1.0,to taste,False
+ragi_mudde,Finger Millet (Ragi) Flour,1.0,cup,False
+ragi_mudde,Water,2.0,cups,False
+ragi_mudde,Salt,-1.0,a pinch,False
+pandi_curry,Pork,1.0,"kg, with fat, cubed",False
+pandi_curry,Kachampuli Vinegar,1.0,tbsp,True
+pandi_curry,Onion,2.0,"large, chopped",False
+pandi_curry,Ginger-Garlic Paste,2.0,tbsp,False
+pandi_curry,Green Chilies,4.0,slit,False
+pandi_curry,Red Chili Powder,1.0,tbsp,False
+pandi_curry,Coriander Powder,2.0,tbsp,False
+pandi_curry,Black Peppercorns,1.0,"tbsp, crushed",False
+neer_dosa,Raw Rice,1.0,cup,False
+neer_dosa,Water,2.0,cups (approx.),False
+neer_dosa,Salt,-1.0,to taste,False
+neer_dosa,Grated Coconut (optional),2.0,tbsp,False
+wild_greens_sambar,Mixed Foraged Greens (Soppu),4.0,"cups, chopped",False
+wild_greens_sambar,Toor Dal (Pigeon Peas),0.5,cup,False
+wild_greens_sambar,Onion,1.0,"small, chopped",False
+wild_greens_sambar,Garlic,3.0,cloves,False
+wild_greens_sambar,Green Chilies,2.0,,False
+wild_greens_sambar,Turmeric Powder,0.5,tsp,False
+wild_greens_sambar,Salt,-1.0,to taste,False
+wild_greens_stir_fry,"Mixed Foraged Greens (e.g., Ponnangenni, Mullencheera)",4.0,"cups, chopped",True
+wild_greens_stir_fry,Grated Coconut,0.25,cup,False
+wild_greens_stir_fry,Garlic,2.0,"cloves, crushed",False
+wild_greens_stir_fry,Green Chilies,1.0,,False
+wild_greens_stir_fry,Coconut Oil,1.0,tbsp,False
+wild_greens_stir_fry,Salt,-1.0,to taste,False
+bamboo_rice_pudding,Bamboo Rice,0.5,cup,False
+bamboo_rice_pudding,Coconut Milk,2.0,cups,False
+bamboo_rice_pudding,Jaggery (Gur),0.75,"cup, grated",False
+bamboo_rice_pudding,Cardamom Powder,0.5,tsp,False
+bamboo_rice_pudding,Ghee,1.0,tbsp,False
+foraged_mushroom_fry,Edible Wild Mushrooms,250.0,"g, cleaned",True
+foraged_mushroom_fry,Shallots,0.5,"cup, sliced",False
+foraged_mushroom_fry,Black Peppercorns,1.0,"tsp, crushed",False
+foraged_mushroom_fry,Turmeric Powder,0.25,tsp,False
+foraged_mushroom_fry,Coconut Oil,2.0,tbsp,False
+foraged_mushroom_fry,Salt,-1.0,to taste,False
+manjakoova_porridge,Manjakoova Powder,0.25,cup,True
+manjakoova_porridge,Water or Thin Coconut Milk,2.0,cups,False
+manjakoova_porridge,Jaggery or Salt,-1.0,to taste,False
+pej,Coarsely Ground Maize or Millet (Kodo/Kutki),1.0,cup,False
+pej,Water,4.0,cups,False
+pej,Salt,-1.0,to taste,False
+putpuda_chicken_stew,Chicken,500.0,"g, cut into pieces",False
+putpuda_chicken_stew,Putpuda Mushrooms (or other wild mushrooms),200.0,"g, cleaned and chopped",True
+putpuda_chicken_stew,Mahua Oil or other vegetable oil,2.0,tbsp,False
+putpuda_chicken_stew,Ginger,1.0,"inch piece, crushed",False
+putpuda_chicken_stew,Garlic,4.0,"cloves, crushed",False
+putpuda_chicken_stew,Green Chilies,2.0,,False
+putpuda_chicken_stew,Salt,-1.0,to taste,False
+mahua_puri,Sun-dried Mahua Flowers,0.5,cup,True
+mahua_puri,Whole Wheat Flour (Atta),2.0,cups,False
+mahua_puri,Water,0.5,cup (approx.),False
+mahua_puri,Mahua Oil or Ghee,-1.0,for deep frying,False
+baiga_chokha,Large Potato or Eggplant (Baingan),1.0,,False
+baiga_chokha,Salt,-1.0,to taste,False
+baiga_chokha,Green Chili,1.0,finely chopped,False
+baiga_chokha,Raw Mustard Oil (optional),1.0,tsp,False
+panmodi,Fresh Rice Flour,1.0,cup,False
+panmodi,Cucumber,1.0,"medium, grated",False
+panmodi,Jaggery (Gur),0.5,"cup, grated",False
+panmodi,Chai Leaves (or substitute Banana/Turmeric Leaves),2.0,large,True
+ragi_ambil,Finger Millet (Ragi/Nagli) Flour,0.5,cup,False
+ragi_ambil,Water,3.0,cups,False
+ragi_ambil,Buttermilk (optional),0.5,cup,False
+ragi_ambil,Salt,-1.0,to taste,False
+crab_curry,Freshwater Crabs,250.0,g,False
+crab_curry,Onion,1.0,chopped,False
+crab_curry,Garlic,3.0,"cloves, crushed",False
+crab_curry,Green Chilies,2.0,chopped,False
+crab_curry,Turmeric Powder,0.5,tsp,False
+crab_curry,Salt,-1.0,to taste,False
+wild_yam_curry,"Wild Yam (e.g., Ratalu, Vazkand)",500.0,"g, peeled and cubed",True
+wild_yam_curry,Onion,1.0,chopped,False
+wild_yam_curry,Garlic,4.0,cloves,False
+wild_yam_curry,Turmeric Powder,0.5,tsp,False
+wild_yam_curry,Red Chili Powder,1.0,tsp,False
+wild_yam_curry,Salt,-1.0,to taste,False
+eromba,Potatoes or other vegetables,2.0,large,False
+eromba,King Chili (U-Morok),1.0,or to taste,False
+eromba,Ngari (Fermented Fish),2.0,tbsp,True
+eromba,Smoked or Roasted Freshwater Fish,100.0,g (optional),False
+eromba,Salt,-1.0,to taste,False
+chamthong,Mixed Seasonal Vegetables,3.0,"cups, chopped",False
+chamthong,Onion,1.0,sliced,False
+chamthong,Ginger,1.0,"inch piece, sliced",False
+chamthong,Ngari (Fermented Fish),1.0,tbsp,True
+chamthong,Dried or Fried Fish,2.0,"pieces, for topping",False
+chamthong,Salt,-1.0,to taste,False
+singju,Cabbage,1.0,"cup, finely shredded",False
+singju,Lotus Stem (Thambou),0.5,"cup, finely sliced",False
+singju,Banana Flower (Laphu Tharo),0.5,"cup, shredded",False
+singju,Ngari (Fermented Fish),1.0,"tbsp, roasted",True
+singju,Red Chilies,2.0,roasted,False
+singju,Salt,-1.0,to taste,False
+paknam,Gram Flour (Besan) or Pea Flour,1.0,cup,False
+paknam,Fresh Herbs (Maroi Nakuppi),0.5,"cup, chopped",False
+paknam,Ngari (Fermented Fish),1.0,"tbsp, mashed",False
+paknam,King Chili (U-Morok),1.0,finely chopped,False
+paknam,Fresh Turmeric Leaves,2.0,large,False
+smoked_pork_with_akhuni,Smoked Pork,500.0,"g, cut into pieces",False
+smoked_pork_with_akhuni,Akhuni (Axone) Paste,1.0,tbsp,True
+smoked_pork_with_akhuni,King Chili (U-Morok),1.0,,False
+smoked_pork_with_akhuni,Ginger,1.0,"inch piece, sliced",False
+smoked_pork_with_akhuni,Salt,-1.0,to taste,False
+mepoh,Rice,1.0,cup,False
+mepoh,Smoked Beef or Pork,250.0,"g, shredded",False
+mepoh,"Vegetables (e.g., Banana Stem, Bitter Gourd)",1.0,"cup, chopped",False
+mepoh,Ginger,1.0,inch piece,False
+mepoh,Salt,-1.0,to taste,False
+doh_neiiong,Pork,500.0,"g, cubed",False
+doh_neiiong,Black Sesame Seeds (Nei-iong),0.5,cup,False
+doh_neiiong,Onion,1.0,chopped,False
+doh_neiiong,Ginger Paste,1.0,tbsp,False
+doh_neiiong,Green Chilies,2.0,slit,False
+doh_neiiong,Salt,-1.0,to taste,False
+dohkhlieh,Pork (preferably from the head),500.0,g,False
+dohkhlieh,Onion,1.0,"large, thinly sliced",False
+dohkhlieh,Ginger,2.0,"inch piece, finely chopped",False
+dohkhlieh,Green Chilies,3.0,finely chopped,False
+dohkhlieh,Lemon Juice,2.0,tbsp,False
+dohkhlieh,Salt,-1.0,to taste,False
+tungrymbai_pork,Tungrymbai (Fermented Soybeans),1.0,cup,True
+tungrymbai_pork,Pork with Fat,200.0,"g, chopped",False
+tungrymbai_pork,Ginger,1.0,"inch piece, chopped",False
+tungrymbai_pork,Garlic,5.0,"cloves, chopped",False
+tungrymbai_pork,Onion,1.0,chopped,False
+tungrymbai_pork,Black Sesame Seeds,1.0,"tbsp, optional",False
+pumaloi,Rice Flour (from non-sticky rice),2.0,cups,False
+pumaloi,Water,0.5,cup (approx.),False
+pumaloi,Salt,-1.0,a pinch,False
+doo_kapa,Chicken,500.0,"g, bone-in, cut into pieces",False
+doo_kapa,Kalchi or Baking Soda,1.0,tbsp,False
+doo_kapa,Fresh Green Chilies,4.0,slit,False
+doo_kapa,Ginger,1.0,"inch piece, crushed",False
+doo_kapa,Salt,-1.0,to taste,False
+nakam_bitchi,Dried Fish (Na'kam),50.0,g,False
+nakam_bitchi,Green Chilies,4.0,slit,False
+nakam_bitchi,Ginger,1.0,inch piece,False
+nakam_bitchi,Salt,-1.0,to taste,False
+dakharang,Smoked Fish (Dakharang),100.0,g,True
+dakharang,Onion,1.0,"small, finely chopped",False
+dakharang,Green Chilies,2.0,finely chopped,False
+dakharang,Mustard Oil,1.0,tsp,False
+dakharang,Salt,-1.0,to taste,False
+bai,"Mixed Seasonal Vegetables (Ferns, Beans, etc.)",3.0,"cups, chopped",False
+bai,Sa-um (Fermented Pork Fat) or Bekang,1.0,tbsp,True
+bai,Cooked Rice,1.0,"tbsp, for thickening",False
+bai,Baking Soda,0.25,tsp,False
+bai,Green Chilies,2.0,slit,False
+bai,Salt,-1.0,to taste,False
+sawhchiar,Rice,1.0,cup,False
+sawhchiar,"Pork, Chicken, or Beef",500.0,"g, cut into pieces",False
+sawhchiar,Ginger,1.0,"inch piece, sliced",False
+sawhchiar,Garlic,4.0,"cloves, sliced",False
+sawhchiar,Salt,-1.0,to taste,False
+vawksa_rep,Smoked Pork,500.0,"g, cubed",False
+vawksa_rep,Mustard Leaves or other Greens,2.0,"cups, chopped",False
+vawksa_rep,Ginger,1.0,inch piece,False
+vawksa_rep,Garlic,4.0,cloves,False
+vawksa_rep,Green Chilies,3.0,,False
+hmarcha_rawt,Green or Red Chilies,10.0,,False
+hmarcha_rawt,Onion,1.0,small,False
+hmarcha_rawt,Ginger,1.0,inch piece,False
+hmarcha_rawt,Salt,-1.0,to taste,False
+bachchuri_taaba,Tender Bamboo Shoots (Bachchuri),2.0,"cups, sliced",False
+bachchuri_taaba,Dried Prawns,0.25,cup,False
+bachchuri_taaba,Sidol (Fermented Fish/Shrimp Paste),1.0,tsp,True
+bachchuri_taaba,Green Chilies,3.0,slit,False
+bachchuri_taaba,Turmeric Powder,0.5,tsp,False
+bachchuri_taaba,Salt,-1.0,to taste,False
+paajon_twon,"Mixed Seasonal Vegetables, Herbs, and Flowers",5.0,"cups, chopped",False
+paajon_twon,Ginger Paste,1.0,tsp,False
+paajon_twon,Green Chilies,2.0,,False
+paajon_twon,Turmeric Powder,0.5,tsp,False
+paajon_twon,Salt,-1.0,to taste,False
+sizo_hmepawk,Rice,1.0,cup,False
+sizo_hmepawk,Pork,500.0,"g, with fat",False
+sizo_hmepawk,Sizo (Tapering Leaf Eurya) Leaves,2.0,"cups, chopped",True
+sizo_hmepawk,Ginger,1.0,inch piece,False
+sizo_hmepawk,Salt,-1.0,to taste,False
+arsa_biepenek,Chicken,500.0,"g, bone-in",False
+arsa_biepenek,Rice Flour,2.0,tbsp,False
+arsa_biepenek,Bird's Eye Chilies,4.0,crushed,False
+arsa_biepenek,Ginger,1.0,"inch piece, crushed",False
+arsa_biepenek,Garlic,4.0,"cloves, crushed",False
+arsa_biepenek,Salt,-1.0,to taste,False
+anishi_curry,Anishi (Smoked Taro Leaf Cakes),2.0,patties,True
+anishi_curry,Smoked Pork,300.0,"g, cubed",False
+anishi_curry,Ginger,1.0,inch piece,False
+anishi_curry,Chilies,3.0,,False
+anishi_curry,Salt,-1.0,to taste,False
+bamboo_tube_fish,Freshwater Fish,300.0,"g, deboned and cut",False
+bamboo_tube_fish,Ginger,1.0,"inch piece, crushed",False
+bamboo_tube_fish,Garlic,3.0,"cloves, crushed",False
+bamboo_tube_fish,Chilies,2.0,,False
+bamboo_tube_fish,Salt,-1.0,to taste,False
+bamboo_tube_fish,Green Bamboo Internode,1.0,large,True
+yam_with_smoked_meat,Yam or Taro (Colocasia),500.0,"g, peeled and cubed",False
+yam_with_smoked_meat,Smoked Pork or Beef,250.0,"g, cubed",False
+yam_with_smoked_meat,Ginger,1.0,inch piece,False
+yam_with_smoked_meat,Chilies,3.0,,False
+yam_with_smoked_meat,Salt,-1.0,to taste,False
+black_sticky_rice_pudding,Black Sticky Rice (Nap Naang),1.0,"cup, soaked overnight",False
+black_sticky_rice_pudding,Water,3.0,cups,False
+black_sticky_rice_pudding,Sugar or Jaggery,0.5,cup (to taste),False
+black_sticky_rice_pudding,Coconut Milk (optional),0.5,cup,False
+kai_chutney,Red Weaver Ants (Hao) and their Eggs,1.0,cup,True
+kai_chutney,Tomatoes,1.0,"small, chopped",False
+kai_chutney,Green Chilies,3.0,,False
+kai_chutney,Garlic,4.0,cloves,False
+kai_chutney,Ginger,1.0,inch piece,False
+kai_chutney,Coriander Leaves,2.0,tbsp,False
+kai_chutney,Salt,-1.0,to taste,False
+dal_paniya,Maize Flour (Makki ka Atta),2.0,cups,False
+dal_paniya,Mixed Lentils (Panchmel Dal),1.0,cup,False
+dal_paniya,Aakda or Palash Leaves,4.0,sets,True
+dal_paniya,Ghee,4.0,tbsp,False
+dal_paniya,Garlic,4.0,"cloves, chopped",False
+dal_paniya,Green Chilies,2.0,chopped,False
+dal_paniya,Turmeric Powder,0.5,tsp,False
+dal_paniya,Salt,-1.0,to taste,False
+rabdi_milk,Full-Fat Milk,1.0,Liter,False
+rabdi_milk,Sugar,0.25,cup (to taste),False
+rabdi_milk,Cardamom Pods,3.0,crushed,False
+rabdi_milk,Saffron Strands,-1.0,a pinch,False
+khuri,Buckwheat or Finger Millet Flour,1.0,cup,False
+khuri,Mustard Greens (Rai Saag),1.0,"cup, chopped",False
+khuri,Soft Chhurpi (Traditional Cheese) or Paneer,0.5,"cup, crumbled",False
+khuri,Potato,1.0,"medium, boiled and mashed",False
+khuri,Ginger,0.5,"inch piece, minced",False
+khuri,Salt,-1.0,to taste,False
+khuri,Oil,-1.0,for cooking,False
+sishnu_ko_saag,Fresh Stinging Nettle (Sishnu) Leaves,500.0,g,True
+sishnu_ko_saag,Garlic,4.0,"cloves, crushed",False
+sishnu_ko_saag,Ghee or Oil,1.0,tbsp,False
+sishnu_ko_saag,Salt,-1.0,to taste,False
+momo,All-Purpose Flour,2.0,cups,False
+momo,Minced Pork or Beef,400.0,g,False
+momo,Onion,1.0,"large, finely chopped",False
+momo,Ginger,1.0,"inch piece, minced",False
+momo,Salt and Pepper,-1.0,to taste,False
+thukpa,Noodles (Hand-pulled or Dried),200.0,g,False
+thukpa,Chicken or Pork,200.0,"g, sliced",False
+thukpa,"Mixed Vegetables (Carrots, Cabbage, Onions)",2.0,"cups, chopped",False
+thukpa,Ginger-Garlic Paste,1.0,tbsp,False
+thukpa,Soy Sauce,1.0,tbsp,False
+thukpa,Salt and Pepper,-1.0,to taste,False
+phagshapa,Pork Fat,300.0,"g, cut into strips",False
+phagshapa,Pork Meat (optional),200.0,"g, cubed",False
+phagshapa,Radish,2.0,"medium, sliced",False
+phagshapa,Whole Dried Red Chilies,5.0,,False
+phagshapa,Ginger,1.0,inch piece,False
+phagshapa,Salt,-1.0,to taste,False
+gundruk_ko_jhol,Gundruk,0.5,cup,False
+gundruk_ko_jhol,Soybeans (optional),2.0,tbsp,False
+gundruk_ko_jhol,Onion,1.0,"small, chopped",False
+gundruk_ko_jhol,Tomato,1.0,chopped,False
+gundruk_ko_jhol,Turmeric Powder,0.5,tsp,False
+gundruk_ko_jhol,Salt,-1.0,to taste,False
+gundruk_ko_jhol,Oil,1.0,tbsp,False
+dhindo,Buckwheat or Millet Flour,1.0,cup,False
+dhindo,Water,3.0,cups,False
+dhindo,Ghee (optional),1.0,tsp,False
+sel_roti,Rice Flour,2.0,cups,False
+sel_roti,Sugar,0.5,cup,False
+sel_roti,Ghee,2.0,"tbsp, melted",False
+sel_roti,Water or Milk,1.0,cup (approx.),False
+sel_roti,Oil,-1.0,for deep frying,False
+othidvar,Cooked Rice,2.0,cups,False
+othidvar,Buttermilk,0.5,cup,False
+othidvar,Tomato,1.0,large,False
+othidvar,Grated Coconut,2.0,tbsp,False
+othidvar,Garlic,2.0,cloves,False
+othidvar,Green Chili,1.0,,False
+othidvar,Coriander Seeds,1.0,tsp,False
+othidvar,Fresh Buffalo Butter,1.0,tbsp,False
+othidvar,Salt,-1.0,to taste,False
+roasted_termites,Winged Termites (Eesal),1.0,cup,True
+roasted_termites,Salt,-1.0,to taste,False
+field_rat_curry,Field Rats,2.0,cleaned and cut,True
+field_rat_curry,Ginger,1.0,"inch piece, crushed",False
+field_rat_curry,Garlic,4.0,"cloves, crushed",False
+field_rat_curry,Red Chilies,3.0,,False
+field_rat_curry,Turmeric Powder,0.5,tsp,False
+field_rat_curry,Salt,-1.0,to taste,False
+wild_turmeric_sweet,Wild Turmeric (Kasthurimanjal) Tuber,250.0,g,True
+wild_turmeric_sweet,Jaggery (Gur),0.5,"cup, grated",False
+wild_turmeric_sweet,Grated Coconut,2.0,tbsp,False
+sorghum_porridge,Sorghum (Jowar) or Maize Flour,1.0,"cup, coarsely ground",False
+sorghum_porridge,Water,4.0,cups,False
+sorghum_porridge,Salt,-1.0,to taste,False
+monitor_lizard_curry,Monitor Lizard (Udumu) meat,500.0,"g, cleaned and cut",True
+monitor_lizard_curry,Ginger,1.0,"inch piece, crushed",False
+monitor_lizard_curry,Garlic,4.0,"cloves, crushed",False
+monitor_lizard_curry,Green Chilies,3.0,,False
+monitor_lizard_curry,Salt,-1.0,to taste,False
+monitor_lizard_curry,"Voddi Tree Wood (optional, traditional)",1.0,small piece,True
+basic_tamarind_chutney,Tamarind Pulp,2.0,tbsp,False
+basic_tamarind_chutney,Red or Green Chilies,3.0,,False
+basic_tamarind_chutney,Onion,1.0,small,False
+basic_tamarind_chutney,Salt,-1.0,to taste,False
+fried_flying_termites,Flying Termites (Usillu),1.0,cup,True
+fried_flying_termites,Salt,-1.0,to taste,False
+edible_tamarind_seeds,Tamarind Seeds,1.0,cup,False
+chakhwi,Pork with Fat,500.0,"g, cubed",False
+chakhwi,Bamboo Shoots (Muya),1.0,"cup, sliced",False
+chakhwi,Rice Flour,2.0,tbsp,False
+chakhwi,Baking Soda,0.5,tsp,False
+chakhwi,Green Chilies,3.0,slit,False
+chakhwi,Ginger,1.0,"inch piece, crushed",False
+chakhwi,Salt,-1.0,to taste,False
+gudok,"Mixed Vegetables (Potatoes, Beans, Yams)",3.0,"cups, cubed",False
+gudok,Berma (Fermented Fish),2.0,tbsp,True
+gudok,Bamboo Shoots (Muya),1.0,"cup, chopped",False
+gudok,Green Chilies,3.0,,False
+gudok,Salt,-1.0,to taste,False
+wahan_mosdeng,Pork,300.0,"g, preferably with some fat",False
+wahan_mosdeng,Onion,1.0,"large, finely chopped",False
+wahan_mosdeng,Green Chilies,3.0,roasted,False
+wahan_mosdeng,Fresh Ginger,1.0,"inch piece, finely chopped",False
+wahan_mosdeng,Culantro (Kásing Mósla) or Coriander,2.0,"tbsp, chopped",False
+wahan_mosdeng,Salt,-1.0,to taste,False
+bhangui,Sticky Rice (Guriya or Mami),1.0,cup,False
+bhangui,Ghee,1.0,tbsp,False
+bhangui,Ginger,0.5,"inch piece, grated",False
+bhangui,Salt,-1.0,a pinch,False
+bhangui,Lairu Banana Leaves,2.0,large,True
+muya_awandru,Bamboo Shoots (Muya),2.0,"cups, sliced",False
+muya_awandru,Berma (Fermented Fish),1.0,"tbsp, mashed",True
+muya_awandru,Rice Flour,1.0,tbsp,False
+muya_awandru,Green Chilies,2.0,slit,False
+muya_awandru,Turmeric Powder,0.5,tsp,False
+muya_awandru,Salt,-1.0,to taste,False
+shile_kutu,Buckwheat Flour (Kutu) or Wheat Flour,2.0,cups,False
+shile_kutu,Water,1.0,cup (approx.),False
+shile_kutu,Salt,-1.0,to taste,False
+shile_kutu,Ghee or Oil,-1.0,for cooking,False
+champain,Wheat Flour,2.0,cups,False
+champain,Water,0.75,cup (approx.),False
+champain,"Local Herbs (Jumbu) or substitute (e.g., Chives)",2.0,"tbsp, chopped",True
+champain,Dried Red Chilies,3.0,,False
+champain,Ghee or Oil,2.0,tbsp,False
+champain,Salt,-1.0,to taste,False
+machhi_bhat,Freshwater Fish,500.0,"g, cut into pieces",False
+machhi_bhat,Steamed Rice,-1.0,for serving,False
+machhi_bhat,Mustard Oil,3.0,tbsp,False
+machhi_bhat,Onion,1.0,"large, chopped",False
+machhi_bhat,Ginger-Garlic Paste,1.0,tbsp,False
+machhi_bhat,Turmeric Powder,1.0,tsp,False
+machhi_bhat,Coriander Powder,1.0,tsp,False
+machhi_bhat,Red Chili Powder,1.0,tsp,False
+machhi_bhat,Salt,-1.0,to taste,False
+ghonghi,Freshwater Snails (Ghonghi),500.0,g,True
+ghonghi,Linseed (Tisi),2.0,"tbsp, ground to a powder",False
+ghonghi,Mustard Oil,3.0,tbsp,False
+ghonghi,Onion,1.0,finely chopped,False
+ghonghi,Ginger-Garlic Paste,1.0,tbsp,False
+ghonghi,Turmeric Powder,1.0,tsp,False
+ghonghi,Red Chili Powder,1.0,tsp,False
+ghonghi,Coriander Powder,1.0,tsp,False
+ghonghi,Salt,-1.0,to taste,False
+dhikri,Rice Flour,2.0,cups,False
+dhikri,Hot Water,1.5,cups (approx.),False
+dhikri,Salt,0.5,tsp,False
+pakuwa,Pork or Wild Boar,1.0,"kg, cut into pieces",False
+pakuwa,Ginger Paste,2.0,tbsp,False
+pakuwa,Garlic Paste,2.0,tbsp,False
+pakuwa,Turmeric Powder,1.0,tsp,False
+pakuwa,Red Chili Powder,1.0,tbsp,False
+pakuwa,Cumin Powder,1.0,tbsp,False
+pakuwa,Coriander Powder,1.0,tbsp,False
+pakuwa,Salt,-1.0,to taste,False
+pakuwa,Mustard Oil,3.0,tbsp,False
+patushni,Taro or Colocasia Leaves,10.0,large,False
+patushni,Black Lentil (Urad Dal) or Rice Flour,1.0,cup,False
+patushni,Ginger-Garlic Paste,1.0,tsp,False
+patushni,Turmeric Powder,0.5,tsp,False
+patushni,Red Chili Powder,1.0,tsp,False
+patushni,Salt,-1.0,to taste,False
+patushni,Oil,-1.0,for deep frying,False
+laato_jel,Minced Meat (Chicken or Mutton Intestines),500.0,g,False
+laato_jel,Onion,2.0,"large, finely chopped",False
+laato_jel,Ginger-Garlic Paste,2.0,tbsp,False
+laato_jel,Mustard Oil,3.0,tbsp,False
+laato_jel,Turmeric Powder,1.0,tsp,False
+laato_jel,Red Chili Powder,1.0,tsp,False
+laato_jel,Rice Powder,1.0,tbsp,False
+laato_jel,Salt,-1.0,to taste,False
+laad,"Mutton, Chicken, or Pork",1.0,"kg, cut into small pieces",False
+laad,Ginger-Garlic Paste,2.0,tbsp,False
+laad,Turmeric Powder,1.0,tsp,False
+laad,Salt,-1.0,to taste,False
+laad,Hollowed Sal Tree Branch,1.0,section,True
+laad,Green Sal Leaves,-1.0,for sealing,True
+hav_chatni,Red Weaver Ants and their Eggs,1.0,cup,True
+hav_chatni,Salt,-1.0,to taste,False
+hav_chatni,Green Chilies,4.0,,False
+hisa_aara_sipi,Tender Pakur Leaves (Hisa Aara),2.0,cups,True
+hisa_aara_sipi,Dried Red Chilies,2.0,,False
+hisa_aara_sipi,Onion,1.0,"small, finely chopped",False
+hisa_aara_sipi,Mustard Oil,1.0,tsp,False
+hisa_aara_sipi,Salt,-1.0,to taste,False
+millet_momos,Finger Millet (Ragi/Madwa) Flour,1.0,cup,False
+millet_momos,Whole Wheat Flour,0.5,cup,False
+millet_momos,"Mixed Vegetables (cabbage, carrots, onions)",1.5,"cups, finely chopped",False
+millet_momos,Ginger,1.0,"tsp, grated",False
+millet_momos,Soy Sauce,1.0,tsp,False
+millet_momos,Salt and Pepper,-1.0,to taste,False
+kudrum_chutney,Roselle (Kudrum) Calyces,1.0,cup,False
+kudrum_chutney,Jaggery (Gur),0.5,"cup, grated",False
+kudrum_chutney,Mustard Seeds,0.5,tsp,False
+kudrum_chutney,Dried Red Chili,1.0,,False
+kudrum_chutney,Salt,-1.0,a pinch,False
+kudrum_chutney,Oil,1.0,tsp,False
+wild_pig_roast,Andaman Wild Pig Meat,1.0,"kg, large pieces",True
+wild_pig_roast,Salt,-1.0,to taste,False
+naan_yeast,Active Dry Yeast,2.0,tsp,False
+naan_yeast,Sugar,1.0,tbsp,False
+naan_yeast,Lukewarm Water,1.0,cup,False
+naan_yeast,All-purpose Flour (Maida),3.25,cups,False
+naan_yeast,Salt,1.0,tsp,False
+naan_yeast,Lukewarm Milk,0.33,cup,False
+naan_yeast,"Plain, Full-fat Yogurt",2.0,tbsp,False
+naan_yeast,Oil or Melted Ghee,3.0,tbsp,False
+naan_no_yeast,All-purpose Flour (Maida),2.0,cups,False
+naan_no_yeast,Baking Powder,0.5,tsp,False
+naan_no_yeast,Baking Soda,0.25,tsp,False
+naan_no_yeast,Salt,0.5,tsp,False
+naan_no_yeast,Sugar,2.0,tsp,False
+naan_no_yeast,Plain Yogurt,0.5,cup,False
+naan_no_yeast,Oil or Melted Butter,2.0,tbsp,False
+naan_no_yeast,Lukewarm Milk,0.25,cup,False
+butter_garlic_naan,Naan Dough (Yeast Method),1.0,batch,False
+butter_garlic_naan,Garlic,3.0,"cloves, grated (for dough)",False
+butter_garlic_naan,Unsalted Butter,3.0,"tbsp, melted",False
+butter_garlic_naan,Garlic,3.0,"cloves, finely minced (for topping)",False
+butter_garlic_naan,Fresh Cilantro,3.0,"tbsp, finely chopped",False
+keema_naan,Yeast-Leavened Naan Dough,1.0,batch,False
+keema_naan,Oil,1.0,tbsp,False
+keema_naan,Onion,1.0,"small, finely chopped",False
+keema_naan,Ginger-Garlic Paste,1.0,tbsp,False
+keema_naan,"Minced Lamb, Mutton, or Chicken",200.0,g,False
+keema_naan,Red Chili Powder,1.0,tsp,False
+keema_naan,Ground Coriander,1.0,tsp,False
+keema_naan,Ground Cumin,1.0,tsp,False
+keema_naan,Garam Masala,0.5,tsp,False
+keema_naan,Salt,-1.0,to taste,False
+keema_naan,Fresh Coriander,2.0,"tbsp, chopped",False
+paneer_naan,Yeast-Leavened Naan Dough,1.0,batch,False
+paneer_naan,Paneer,1.5,"cups, grated or crumbled",False
+paneer_naan,Onion,1.0,"medium, finely chopped",False
+paneer_naan,Fresh Coriander,2.0,"tbsp, finely chopped",False
+paneer_naan,Green Chili,1.0,finely chopped (optional),False
+paneer_naan,Chaat Masala,1.0,tsp,False
+paneer_naan,Red Chili Powder,0.5,tsp,False
+paneer_naan,Roasted Cumin Powder,0.5,tsp,False
+paneer_naan,Salt,-1.0,to taste,False
+kulcha,All-purpose Flour (Maida),2.5,cups,False
+kulcha,Baking Powder,0.5,tsp,False
+kulcha,Baking Soda,0.25,tsp,False
+kulcha,Salt,0.75,tsp,False
+kulcha,Sugar,2.0,tsp,False
+kulcha,Plain Yogurt,4.0,tbsp,False
+kulcha,Oil or Ghee,2.5,tbsp,False
+kulcha,Lukewarm Water,0.75,cup,False
+kulcha,Nigella Seeds (Kalonji),1.0,tbsp,False
+tandoori_roti,Atta (Whole Wheat Flour),2.5,cups,False
+tandoori_roti,Salt,1.0,tsp,False
+tandoori_roti,Oil or Softened Butter,0.5,tbsp,False
+tandoori_roti,Water,0.75,cup,False
+chapati,Atta (Whole Wheat Flour),2.0,cups,False
+chapati,Warm Water,0.75,cup,False
+chapati,Oil (optional),1.0,tsp,False
+chapati,Salt (optional),0.25,tsp,False
+paratha,Atta (Whole Wheat Flour),2.0,cups,False
+paratha,Salt,0.5,tsp,False
+paratha,Oil or Ghee,1.0,tsp (for dough),False
+paratha,Water,0.5,cup,False
+paratha,Ghee or Oil,-1.0,for layering and frying,False
+aloo_paratha,Atta (Whole Wheat Flour),2.0,cups,False
+aloo_paratha,Potatoes,3.0,"medium, boiled and mashed",False
+aloo_paratha,Green Chili,1.0,finely chopped,False
+aloo_paratha,Fresh Coriander,2.0,"tbsp, finely chopped",False
+aloo_paratha,Coriander Powder,1.0,tsp,False
+aloo_paratha,Dry Mango Powder (Amchur),0.5,tsp,False
+aloo_paratha,Salt,-1.0,to taste,False
+aloo_paratha,Ghee or Oil,-1.0,for frying,False
+lachha_paratha,Atta (Whole Wheat Flour),2.0,cups,False
+lachha_paratha,Salt,0.5,tsp,False
+lachha_paratha,Warm Water,1.0,cup,False
+lachha_paratha,Ghee or Oil,-1.0,for layering and frying,False
+parotta,Maida (All-purpose Flour),3.0,cups,False
+parotta,Salt,1.0,tsp,False
+parotta,Sugar,1.0,tbsp,False
+parotta,Egg (optional),1.0,,False
+parotta,Warm Milk,0.5,cup,False
+parotta,Warm Water,0.5,cup,False
+parotta,Oil or Ghee,0.25,cup,False
+dosa,Parboiled Rice,1.0,cup,False
+dosa,Urad Dal,0.25,cup,False
+dosa,Thick Poha (Flattened Rice),2.0,tbsp,False
+dosa,Fenugreek Seeds,0.125,tsp,False
+dosa,Non-iodized Salt,0.5,tsp,False
+masala_dosa,Dosa Batter,1.0,batch,False
+masala_dosa,Potatoes,4.0,"medium, boiled and mashed",False
+masala_dosa,Oil,1.0,tbsp,False
+masala_dosa,Mustard Seeds,0.5,tsp,False
+masala_dosa,Chana Dal,0.5,tsp,False
+masala_dosa,Onion,1.0,"large, thinly sliced",False
+masala_dosa,Green Chilies,2.0,slit,False
+masala_dosa,Curry Leaves,10.0,,False
+masala_dosa,Turmeric Powder,0.25,tsp,False
+masala_dosa,Salt,-1.0,to taste,False
+idli,Idli Rice (Parboiled Rice),1.5,cups,False
+idli,Urad Dal (Husked Black Gram),0.5,cup,False
+idli,Thick Poha (Flattened Rice),2.0,tbsp,False
+idli,Fenugreek Seeds (Methi),0.5,tsp,False
+idli,Non-iodized Salt,0.5,tsp,False
+appam,Raw Rice,2.0,cups,False
+appam,Fresh Grated Coconut,0.5,cup,False
+appam,Cooked Rice,0.5,cup (for softness),False
+appam,Active Dry Yeast,0.75,tsp,False
+appam,Sugar,2.0,tbsp,False
+appam,Salt,1.5,tsp,False
+puttu,Puttu Podi (Roasted Rice Flour),1.0,cup,False
+puttu,Fresh Grated Coconut,0.5,cup,False
+puttu,Salt,0.33,tsp,False
+puttu,Water,0.33,cup (approx.),False
+puri,Atta (Whole Wheat Flour),1.0,cup,False
+puri,Semolina (Rava/Suji),0.75,"tsp, for crispness",False
+puri,Salt,0.125,tsp,False
+puri,Oil,0.75,"tsp, for dough",False
+puri,Water,0.25,cup,False
+puri,Oil,-1.0,for deep-frying,False
+baati,Whole Wheat Flour (Atta),2.0,cups,False
+baati,Semolina (Suji),0.25,cup,False
+baati,Ghee,0.25,"cup, melted",False
+baati,Salt,0.5,tsp,False
+baati,Carom Seeds (Ajwain),0.5,tsp,False
+baati,Baking Soda,0.25,tsp,False
+baati,Warm Water or Milk,0.5,cup,False
+hyderabadi_biryani,Chicken,1.0,"kg, bone-in",False
+hyderabadi_biryani,Thick Yogurt,1.0,cup,False
+hyderabadi_biryani,Ginger-Garlic Paste,1.5,tbsp,False
+hyderabadi_biryani,Red Chili Powder,1.5,tsp,False
+hyderabadi_biryani,Biryani Masala,1.0,tsp,False
+hyderabadi_biryani,Turmeric Powder,0.5,tsp,False
+hyderabadi_biryani,Lemon Juice,1.0,tbsp,False
+hyderabadi_biryani,Mint Leaves (Pudina),0.5,"cup, chopped",False
+hyderabadi_biryani,Coriander Leaves (Dhania),0.5,"cup, chopped",False
+hyderabadi_biryani,Green Chilies,5.0,slit,False
+hyderabadi_biryani,Fried Onions (Birista),1.25,"cups, divided",False
+hyderabadi_biryani,Oil (from frying onions),4.0,tbsp,False
+hyderabadi_biryani,Aged Basmati Rice,2.0,cups,False
+hyderabadi_biryani,Saffron Strands,1.0,"large pinch, soaked in 0.25 cup warm milk",False
+hyderabadi_biryani,Ghee,2.0,tbsp,False
+lucknowi_biryani,Chicken,1.0,"kg, bone-in",False
+lucknowi_biryani,Thick Yogurt,0.75,cup,False
+lucknowi_biryani,Ginger-Garlic Paste,1.5,tbsp,False
+lucknowi_biryani,Yellow Chili Powder,0.5,tsp,False
+lucknowi_biryani,Cardamom Powder,0.5,tsp,False
+lucknowi_biryani,Mace (Javitri),3.0,strands,False
+lucknowi_biryani,Ghee,0.25,cup,False
+lucknowi_biryani,Onion,1.0,"large, thinly sliced",False
+lucknowi_biryani,Aged Basmati Rice,2.5,cups,False
+lucknowi_biryani,Saffron Strands,1.0,"large pinch, in 2 tbsp warm milk",False
+lucknowi_biryani,Kewra Water,1.0,tsp,False
+vegetable_pulao,Basmati Rice,1.5,cups,False
+vegetable_pulao,Hot Water or Vegetable Stock,2.5,cups,False
+vegetable_pulao,Ghee or Oil,3.0,tbsp,False
+vegetable_pulao,Cumin Seeds,1.0,tsp,False
+vegetable_pulao,Whole Spices,1.0,"bay leaf, cinnamon, cloves, cardamom",False
+vegetable_pulao,Onion,1.0,"large, thinly sliced",False
+vegetable_pulao,Ginger-Garlic Paste,1.0,tsp,False
+vegetable_pulao,Tomato,1.0,"large, chopped",False
+vegetable_pulao,Mixed Vegetables,1.5,"cups, chopped (potatoes, carrots, peas, beans)",False
+matar_pulao,Aged Basmati Rice,1.5,cups,False
+matar_pulao,Green Peas (Matar),1.25,"cups, fresh or frozen",False
+matar_pulao,Ghee or Oil,2.0,tbsp,False
+matar_pulao,Whole Spices,1.0,"tsp cumin, bay leaf, cinnamon, cardamom, cloves",False
+matar_pulao,Onion,1.0,"medium, thinly sliced",False
+matar_pulao,Ginger-Garlic Paste,1.0,tbsp,False
+matar_pulao,Mint Leaves (Pudina),0.25,"cup, chopped",False
+matar_pulao,Hot Water,2.5,cups,False
+kashmiri_pulao,Aged Basmati Rice,1.0,cup,False
+kashmiri_pulao,Water or a mix of Water and Milk,2.0,cups,False
+kashmiri_pulao,Ghee,4.0,tbsp,False
+kashmiri_pulao,Fennel Powder (Saunf),1.0,tsp,False
+kashmiri_pulao,Dry Ginger Powder (Saunth),0.5,tsp,False
+kashmiri_pulao,Saffron Strands,1.0,"pinch, soaked in warm milk",False
+kashmiri_pulao,Cashews,2.0,tbsp,False
+kashmiri_pulao,Almonds,2.0,tbsp,False
+kashmiri_pulao,Raisins,2.0,tbsp,False
+kashmiri_pulao,Pomegranate Arils,0.25,"cup, for garnish",False
+kodi_pulao,Basmati Rice,2.0,cups,False
+kodi_pulao,Chicken,1.0,"kg, bone-in",False
+kodi_pulao,Fried Onion Paste (1 onion + 2 tbsp yogurt),1.0,batch,False
+kodi_pulao,Green Chili Paste (6-10 chilies + ginger + garlic),1.0,batch,False
+kodi_pulao,Shallots (Sambar Onions),0.25,cup,False
+kodi_pulao,Yogurt,0.5,"cup, whisked",False
+kodi_pulao,Coconut Milk,1.0,cup,False
+kodi_pulao,Water,1.5,cups,False
+kodi_pulao,Cashews,0.25,"cup, fried",False
+moong_dal_khichdi,Basmati Rice,0.5,cup,False
+moong_dal_khichdi,Yellow Moong Dal,0.5,cup,False
+moong_dal_khichdi,Water,4.0,cups,False
+moong_dal_khichdi,Turmeric Powder,0.25,tsp,False
+moong_dal_khichdi,Ghee,2.0,tbsp,False
+moong_dal_khichdi,Cumin Seeds,1.0,tsp,False
+moong_dal_khichdi,Onion,1.0,"medium, finely chopped",False
+moong_dal_khichdi,Tomato,1.0,"medium, finely chopped",False
+dal_tadka,Toor Dal (Split Pigeon Peas),0.75,cup,False
+dal_tadka,Moong Dal or Masoor Dal,0.25,cup,False
+dal_tadka,Chana Dal,2.0,tbsp,False
+dal_tadka,Water,2.5,cups,False
+dal_tadka,Onion,0.5,"cup, chopped",False
+dal_tadka,Tomatoes,1.0,"cup, finely chopped",False
+dal_tadka,Green Chilies,2.0,chopped,False
+dal_tadka,Ginger,1.0,"tsp, finely chopped",False
+dal_tadka,Turmeric Powder,0.5,tsp,False
+dal_tadka,Asafoetida (Hing),1.0,pinch,False
+dal_tadka,Salt,-1.0,to taste,False
+dal_tadka,Garam Masala Powder,0.5,tsp,False
+dal_tadka,Coriander Leaves (Cilantro),2.0,"tbsp, chopped",False
+dal_tadka,Ghee (Clarified Butter),2.0,tbsp,False
+dal_tadka,Cumin Seeds,0.75,tsp,False
+dal_tadka,Dried Red Chilies,2.0,broken,False
+dal_tadka,Garlic,1.0,"tbsp, finely chopped",False
+dal_tadka,Kashmiri Red Chili Powder,0.33,tsp,False
+dal_fry,Toor Dal (Split Pigeon Peas),0.75,cup,False
+dal_fry,Moong Dal,0.25,cup,False
+dal_fry,Water,3.0,cups,False
+dal_fry,Turmeric Powder,0.25,tsp,False
+dal_fry,Ghee,2.0,tbsp,False
+dal_fry,Cumin Seeds,0.75,tsp,False
+dal_fry,Onions,0.25,"cup, finely chopped",False
+dal_fry,Ginger-Garlic Paste,1.0,tsp,False
+dal_fry,Tomatoes,0.5,"cup, chopped",False
+dal_fry,Kashmiri Red Chili Powder,0.5,tsp,False
+dal_fry,Garam Masala,0.5,tsp,False
+dal_fry,Kasuri Methi (Dried Fenugreek Leaves),0.5,tsp,False
+dal_fry,Coriander Leaves,2.0,"tbsp, finely chopped",False
+dal_fry,Salt,1.0,tsp,False
+dal_makhani,Whole Urad Dal (Whole Black Lentils),1.0,cup,False
+dal_makhani,Rajma (Red Kidney Beans),0.25,cup,False
+dal_makhani,Onions,0.5,"cup, finely chopped",False
+dal_makhani,Ginger-Garlic Paste,1.0,tbsp,False
+dal_makhani,Tomato Purée,1.0,cup,False
+dal_makhani,Ghee or Oil,2.0,tbsp,False
+dal_makhani,Unsalted Butter,3.0,tbsp,False
+dal_makhani,Heavy Cream,0.25,cup,False
+dal_makhani,Kashmiri Red Chili Powder,0.75,tsp,False
+dal_makhani,Garam Masala,1.0,tsp,False
+dal_makhani,Kasuri Methi (Dried Fenugreek Leaves),1.0,"tbsp, crushed",False
+dal_makhani,Salt,-1.0,to taste,False
+maa_ki_dal,Whole Urad Dal,0.75,cup,False
+maa_ki_dal,Rajma,2.0,tbsp,False
+maa_ki_dal,Oil,1.0,tbsp,False
+maa_ki_dal,Butter,2.0,tbsp,False
+maa_ki_dal,Onions,0.5,"cup, finely chopped",False
+maa_ki_dal,Ginger-Garlic Paste,0.5,tsp,False
+maa_ki_dal,Fresh Tomato Pulp,1.5,cups,False
+maa_ki_dal,Cumin Seeds,1.0,tsp,False
+maa_ki_dal,Red Chili Powder,1.0,tsp,False
+maa_ki_dal,Garam Masala,0.5,tsp,False
+maa_ki_dal,Fresh Cream,0.5,cup,False
+maa_ki_dal,Salt,-1.0,to taste,False
+sambar,Toor Dal,0.75,cup,False
+sambar,"Mixed Vegetables (Onion, Tomato, Drumstick, Carrot, Pumpkin)",3.0,"cups, chopped",False
+sambar,Tamarind,1.0,"tbsp, seedless",False
+sambar,Sambar Powder,2.0,tbsp,False
+sambar,Turmeric Powder,0.25,tsp,False
+sambar,Ghee or Oil,1.0,tbsp,False
+sambar,Mustard Seeds,0.5,tsp,False
+sambar,Curry Leaves,1.0,sprig,False
+sambar,Asafoetida (Hing),1.0,pinch,False
+sambar,Salt,-1.0,to taste,False
+rasam,Black Peppercorns,2.0,tbsp,False
+rasam,Cumin Seeds,2.0,tbsp,False
+rasam,Garlic,6.0,cloves,False
+rasam,Tamarind Extract,1.0,cup,False
+rasam,Tomatoes,2.0,"large, chopped",False
+rasam,Water,4.0,cups,False
+rasam,Turmeric Powder,0.5,tsp,False
+rasam,Ghee or Oil,2.0,tbsp,False
+rasam,Mustard Seeds,1.0,tsp,False
+rasam,Coriander Leaves,2.0,"tbsp, chopped",False
+rasam,Salt,1.0,tsp,False
+mulligatawny_soup,Chicken Broth,6.0,cups,False
+mulligatawny_soup,Shredded Cooked Chicken,2.0,cups,False
+mulligatawny_soup,Red Lentils (Masoor Dal),1.33,cups,False
+mulligatawny_soup,Vegetable Oil,2.0,tbsp,False
+mulligatawny_soup,Yellow Onion,1.0,"cup, chopped",False
+mulligatawny_soup,Carrots,1.0,"cup, diced",False
+mulligatawny_soup,Celery,0.5,"cup, finely chopped",False
+mulligatawny_soup,Apple (Honeycrisp or Granny Smith),1.0,peeled and finely chopped,False
+mulligatawny_soup,Full-fat Coconut Milk,1.0,"cup, unsweetened",False
+mulligatawny_soup,Garam Masala,1.0,tbsp,False
+mulligatawny_soup,Fresh Lime Juice,1.0,tbsp,False
+mulligatawny_soup,Fresh Cilantro,0.25,"cup, chopped",False
+mulligatawny_soup,Salt,0.5,tsp,False
+dalma,Toor Dal,0.75,cup,False
+dalma,"Mixed Vegetables (Raw Papaya, Raw Banana, Potato, Pumpkin, Yam)",4.0,"cups, chopped",False
+dalma,Water,4.0,cups,False
+dalma,Turmeric Powder,1.0,tsp,False
+dalma,Ginger,1.0,"inch, grated",False
+dalma,Mustard Oil or Ghee,3.0,tbsp,False
+dalma,Panch Phoran,1.0,tbsp,True
+dalma,Roasted Cumin-Chili Powder,1.0,tsp,False
+dalma,Fresh Grated Coconut,2.0,tbsp,False
+dalma,Salt,-1.0,to taste,False
+kadhi_pakora,Besan (Gram Flour),1.5,"cups, divided",False
+kadhi_pakora,Onions,2.0,"medium, thinly sliced",False
+kadhi_pakora,Oil,-1.0,for deep frying,False
+kadhi_pakora,Sour Full-Fat Curd (Yogurt),1.5,cups,False
+kadhi_pakora,Water,3.0,cups,False
+kadhi_pakora,Turmeric Powder,0.5,tsp,False
+kadhi_pakora,Mustard Oil,2.0,tbsp,False
+kadhi_pakora,Cumin Seeds,1.0,tsp,False
+kadhi_pakora,Fenugreek Seeds,10.0,seeds,False
+kadhi_pakora,Ginger & Garlic,1.0,"tbsp, chopped",False
+kadhi_pakora,Salt,-1.0,to taste,False
+butter_chicken,Chicken,1.0,"kg, bone-in pieces or boneless thighs",False
+butter_chicken,Thick Yogurt (Hung Curd),0.5,cup,False
+butter_chicken,Ginger-Garlic Paste,2.5,tbsp,False
+butter_chicken,Kashmiri Red Chili Powder,1.0,tbsp,False
+butter_chicken,Garam Masala Powder,0.5,tsp,False
+butter_chicken,Lemon Juice,0.5,lemon,False
+butter_chicken,Mustard Oil,1.0,tbsp,False
+butter_chicken,Butter,4.0,"tbsp, divided",False
+butter_chicken,Ghee or Oil,1.0,tbsp,False
+butter_chicken,Fresh Tomatoes,8.0,"medium, pureed",False
+butter_chicken,Whole Spices,1.0,"lot (3-4 green cardamoms, 1-inch cinnamon, 3-4 cloves, 6-7 peppercorns)",False
+butter_chicken,Sugar or Honey,2.0,tbsp,False
+butter_chicken,Fresh Cream,0.5,cup,False
+butter_chicken,Kasuri Methi (Dried Fenugreek Leaves),1.0,"tsp, crushed",False
+chicken_tikka_masala,Boneless Chicken,700.0,"g, thighs or breasts, cubed",False
+chicken_tikka_masala,Greek Yogurt (Hung Curd),0.5,cup,False
+chicken_tikka_masala,Ginger-Garlic Paste,2.0,tbsp,False
+chicken_tikka_masala,Kashmiri Red Chili Powder,2.0,tsp,False
+chicken_tikka_masala,Garam Masala,3.0,tsp,False
+chicken_tikka_masala,Coriander Powder,1.0,tbsp,False
+chicken_tikka_masala,Cumin Powder,1.5,tsp,False
+chicken_tikka_masala,Turmeric Powder,0.25,tsp,False
+chicken_tikka_masala,Kasuri Methi,2.0,tbsp,False
+chicken_tikka_masala,Lemon Juice,1.0,tbsp,False
+chicken_tikka_masala,Oil or Ghee,4.0,tbsp,False
+chicken_tikka_masala,Onions,1.5,"cups, finely chopped",False
+chicken_tikka_masala,Tomatoes,500.0,"g, pureed",False
+chicken_tikka_masala,Heavy Cream,0.5,cup,False
+chicken_tikka_masala,Sugar,1.0,tsp,False
+tandoori_chicken,Chicken,0.75,"kg, bone-in, skinless pieces",False
+tandoori_chicken,Lemon Juice,1.0,tbsp,False
+tandoori_chicken,Kashmiri Red Chili Powder,2.0,tsp,False
+tandoori_chicken,Greek Yogurt (Hung Curd),0.5,cup,False
+tandoori_chicken,Ginger-Garlic Paste,1.0,tbsp,False
+tandoori_chicken,Garam Masala,1.0,tsp,False
+tandoori_chicken,Coriander Powder,1.5,tsp,False
+tandoori_chicken,Cumin Powder,0.5,tsp,False
+tandoori_chicken,Black Pepper,0.25,"tsp, crushed",False
+tandoori_chicken,Turmeric,0.25,tsp,False
+tandoori_chicken,Kasuri Methi,1.5,"tsp, crushed",False
+tandoori_chicken,Mustard Oil,1.5,tbsp,False
+rogan_josh,Mutton or Lamb,1.0,"kg, bone-in",False
+rogan_josh,Ghee,1.0,cup,False
+rogan_josh,Onions or Shallots,3.0,"large, thinly sliced",False
+rogan_josh,Garlic Paste,1.0,tbsp,False
+rogan_josh,Whole Spices,1.0,"lot (4 cloves, 8 green & 2 black cardamoms, 2-inch cinnamon)",False
+rogan_josh,Turmeric Powder,5.0,tsp,False
+rogan_josh,Kashmiri Red Chili Powder,4.0,tsp,False
+rogan_josh,Fennel Powder,1.0,tsp,False
+rogan_josh,Dry Ginger Powder,1.0,tsp,False
+rogan_josh,Mawal (Dried Cockscomb Flower),1.0,"cup, dry",True
+rogan_josh,Saffron,1.0,"generous pinch, soaked",False
+rogan_josh,Black Pepper Powder,1.0,tsp,False
+mutton_korma,Mutton or Goat Meat,600.0,"g, bone-in",False
+mutton_korma,Onions,250.0,"g, thinly sliced",False
+mutton_korma,"Thick, Full-Fat Yogurt",0.5,"cup, whisked",False
+mutton_korma,Ginger-Garlic Paste,1.0,tbsp,False
+mutton_korma,Coriander Powder,3.0,tsp,False
+mutton_korma,Kashmiri Red Chili Powder,2.0,tsp,False
+mutton_korma,Whole Spices,1.0,"lot (4 green & 1 black cardamoms, 5 cloves, ½-inch cinnamon, 2 mace twigs)",False
+mutton_korma,Ghee,1.0,tbsp,False
+mutton_korma,Kewra Water,0.5,tsp,False
+mutton_korma,Finishing Spices,0.125,"tsp each of nutmeg, mace, and green cardamom powder",False
+nihari,Mutton or Beef Shank,1.0,"kg, with marrow bones",False
+nihari,Ghee and Vegetable Oil,1.0,combination of 2 tbsp ghee and 150 ml oil,False
+nihari,Ginger Paste,2.0,tbsp,False
+nihari,Garlic Paste,2.0,tbsp,False
+nihari,Whole Wheat Flour (Atta),3.0,tbsp,False
+nihari,Homemade Nihari Masala,4.5,tbsp,False
+paya,Goat or Lamb Trotters (Paya),8.0,"pieces, well-cleaned",False
+paya,Ghee,0.25,cup,False
+paya,Onion for Broth,1.0,"large, quartered",False
+paya,Onion for Masala,1.0,"large, finely diced",False
+paya,Ginger for Broth,2.0,"inch piece, sliced",False
+paya,Garlic for Broth,6.0,whole cloves,False
+paya,Ginger-Garlic Paste,2.0,tbsp,False
+paya,Yogurt,1.0,"cup, whisked",False
+paya,Whole Spices for Broth,1.0,"lot (bay leaves, cardamoms, cloves, peppercorns, cinnamon)",False
+paya,Powdered Spices,1.0,"lot (1 tsp chili, 1 tsp turmeric, 1 tsp coriander, 0.5 tsp garam masala)",False
+keema_matar,Minced Lamb or Goat Meat,500.0,g,False
+keema_matar,Ghee or Coconut Oil,1.0,tbsp,False
+keema_matar,Onion,1.0,"medium, finely chopped",False
+keema_matar,Ginger,1.0,"inch piece, finely chopped",False
+keema_matar,Garlic,3.0,"cloves, minced",False
+keema_matar,Green Chilies,2.0,finely chopped,False
+keema_matar,Tomatoes,1.0,"large, finely chopped",False
+keema_matar,Frozen Green Peas (Matar),1.0,"cup, thawed",False
+keema_matar,Powdered Spices,1.0,"lot (0.5 tsp cumin, 0.5 tsp coriander, 0.5 tsp garam masala, 1 tsp turmeric, 1 tsp cayenne)",False
+keema_matar,Lemon Juice,0.5,tsp,False
+laal_maas,Mutton,1.0,"kg, curry cuts",False
+laal_maas,Mathania Chilies,20.0,dried,True
+laal_maas,Ghee,0.25,cup,False
+laal_maas,Mustard Oil,2.0,tbsp,False
+laal_maas,Onions,2.0,"large, thinly sliced",False
+laal_maas,Ginger-Garlic Paste,2.0,tbsp,False
+laal_maas,Yogurt,1.0,"cup, beaten",False
+laal_maas,Whole Spices,1.0,"lot (cloves, peppercorns, cardamoms, cinnamon)",False
+laal_maas,Powdered Spices,1.0,"lot (1.5 tbsp coriander, 0.5 tsp cumin, 0.25 tsp turmeric)",False
+chingri_malai_curry,Large Prawns (Chingri),15.0,shelled and deveined,False
+chingri_malai_curry,Mustard Oil,4.0,tbsp,False
+chingri_malai_curry,Thick Coconut Milk,100.0,ml,False
+chingri_malai_curry,Onion,1.0,"small, for paste",False
+chingri_malai_curry,Ginger,1.0,"inch piece, for paste",False
+chingri_malai_curry,Garlic,2.0,"cloves, for paste",False
+chingri_malai_curry,Green Chilies,4.0,,False
+chingri_malai_curry,Freshly Grated Coconut,50.0,"g (optional, for paste)",False
+chingri_malai_curry,Whole Spices,1.0,"lot (4 green cardamoms, 3 cloves, 2 bay leaves)",False
+chingri_malai_curry,Kashmiri Chili Powder,0.25,tsp,False
+chingri_malai_curry,Sugar,0.5,tsp,False
+daab_chingri,Tender Green Coconut (Daab),1.0,large,True
+daab_chingri,King Prawns,12.0,deveined,False
+daab_chingri,Mustard Paste,3.0,tbsp,False
+daab_chingri,Coconut Milk,1.0,cup,False
+daab_chingri,Onion Paste,5.0,tbsp,False
+daab_chingri,Ginger-Garlic Paste,1.0,tsp each,False
+daab_chingri,Green Chilies,4.0,slit,False
+daab_chingri,Mustard Oil,4.0,tbsp,False
+daab_chingri,Turmeric Powder,1.0,tbsp,False
+daab_chingri,Garam Masala Powder,1.0,tsp,False
+daab_chingri,Wheat Dough (Atta),1.0,for sealing,False
+kosha_mangsho,Mutton or Goat Meat,1.0,"kg, bone-in, curry cut",False
+kosha_mangsho,Potatoes,2.0,"medium, peeled and halved",False
+kosha_mangsho,Mustard Oil & Ghee,1.0,combination of 3 tbsp each,False
+kosha_mangsho,Yogurt,1.0,"cup, whisked",False
+kosha_mangsho,Ginger-Garlic-Green Chili Paste,1.0,"from 1-inch ginger, 4 garlic cloves, 3 green chilies",False
+kosha_mangsho,Fried Onion (Birista),1.0,from 2 cups sliced onions,False
+kosha_mangsho,Powdered Spices,1.0,"lot (2 tsp turmeric, 1 tsp coriander, 0.5 tsp red chili, 0.5 tsp garam masala)",False
+kosha_mangsho,Sugar,1.0,tsp,False
+kosha_mangsho,Whole Spices,1.0,"lot (bay leaves, cardamoms, cloves, cinnamon)",False
+shorshe_ilish,Hilsa (Ilish) Fish,6.0,pieces,False
+shorshe_ilish,Mustard Oil,5.0,tbsp,False
+shorshe_ilish,Black Mustard Seeds,1.5,tbsp,False
+shorshe_ilish,Yellow Mustard Seeds,1.5,tbsp,False
+shorshe_ilish,Green Chilies,5.0,,False
+shorshe_ilish,Poppy Seeds (Posto),1.0,tbsp (optional),False
+shorshe_ilish,Fresh Coconut,1.0,few chunks (optional),False
+shorshe_ilish,Kalonji (Nigella Seeds),0.5,tsp,False
+shorshe_ilish,Turmeric Powder,1.0,tsp,False
+chettinad_chicken,Chicken,750.0,"g, cut into pieces",False
+chettinad_chicken,Small Onions (Shallots),30.0,minced,False
+chettinad_chicken,Tomatoes,2.0,chopped,False
+chettinad_chicken,Garlic,20.0,"pods, minced",False
+chettinad_chicken,Gingelly/Sesame Oil,2.0,tbsp,False
+chettinad_chicken,Curry Leaves & Mint Leaves,1.0,handful each,False
+chettinad_chicken,"Masala Paste 1 (Ginger, Shallots, Garlic, Chilies, Spice Powders)",1.0,batch,False
+chettinad_chicken,"Masala Paste 2 (Coconut, Cashews, Fennel)",1.0,batch,False
+chettinad_chicken,Tempering Spices,1.0,"lot (Cinnamon, Fennel, Cloves, Cardamom, Bay Leaf)",False
+chicken_65,Boneless Chicken,1.0,"kg, bite-sized pieces",False
+chicken_65,Egg,1.0,beaten,False
+chicken_65,Corn Flour,2.0,tbsp,False
+chicken_65,All-Purpose Flour (Maida),2.0,tbsp,False
+chicken_65,Ginger-Garlic Paste,1.0,tsp,False
+chicken_65,Red Chili Powder,2.5,tbsp,False
+chicken_65,Turmeric Powder,0.5,tsp,False
+chicken_65,Garam Masala Powder,1.0,tsp,False
+chicken_65,Oil for deep frying,1.0,as needed,False
+chicken_65,Yogurt,1.0,"cup, beaten",False
+chicken_65,Curry Leaves,12.0,,False
+haleem,Mutton with bones,1.0,kg,False
+haleem,Broken Wheat (Dalia),1.0,cup,False
+haleem,"Mixed Lentils (Chana, Urad, Masoor, Moong)",8.0,tbsp total,False
+haleem,Ghee,0.5,cup,False
+haleem,Onions,2.0,"large, for frying",False
+haleem,Yogurt,1.0,"cup, whisked",False
+haleem,Whole Spices,1.0,"lot (cumin, cardamoms, cloves, cinnamon, bay leaves)",False
+haleem,Powdered Spices,1.0,"lot (coriander, garam masala, chili, nutmeg, mace)",False
+jalfrezi,Boneless Chicken,600.0,"g, cut into strips",False
+jalfrezi,Onions,1.0,"0.75 cup finely chopped, 0.5 cup diced",False
+jalfrezi,Bell Peppers (mixed colors),1.5,"cups, diced",False
+jalfrezi,Ginger-Garlic Paste,1.0,tbsp,False
+jalfrezi,Tomato Puree,0.75,cup,False
+jalfrezi,Powdered Spices,1.0,"lot (chili, garam masala, coriander, cumin, turmeric)",False
+jalfrezi,Kasuri Methi,1.0,tbsp,False
+meen_moilee,Fish Steaks,500.0,g (Kingfish or Seer fish),False
+meen_moilee,Coconut Oil,4.0,tbsp,False
+meen_moilee,Onion,2.0,"medium, finely chopped",False
+meen_moilee,Ginger,2.0,"inch piece, finely chopped",False
+meen_moilee,Garlic,6.0,"cloves, finely chopped",False
+meen_moilee,Green Chilies,3.0,chopped,False
+meen_moilee,Tomatoes,2.0,finely chopped,False
+meen_moilee,Curry Leaves,3.0,sprigs,False
+meen_moilee,Coconut Milk,500.0,ml fresh,False
+meen_moilee,Lime Juice,1.0,from 1 small lime,False
+meen_moilee,Vinegar,1.0,tsp,False
+sorpotel,Boneless Pork (with fat),1.0,kg,False
+sorpotel,Pork Liver,250.0,g,False
+sorpotel,Onions,3.0,"large, finely chopped",False
+sorpotel,"Masala Paste (Kashmiri Chilies, Garlic, Ginger, Whole Spices, Vinegar)",1.0,batch,False
+sorpotel,Palm Jaggery,2.0,"tbsp, grated",False
+sorpotel,Tamarind,1.0,marble-sized ball,False
+sorpotel,Palm Vinegar,0.5,cup,True
+kerala_beef_fry,Beef,1.0,"kg, boneless stew meat, cut into small chunks",False
+kerala_beef_fry,Coconut Oil,4.0,tbsp,False
+kerala_beef_fry,Small Onions (Shallots),0.75,"cup, sliced",False
+kerala_beef_fry,Coconut Slices (Thenga Kothu),0.5,cup,False
+kerala_beef_fry,Ginger-Garlic Paste,2.0,tbsp,False
+kerala_beef_fry,Curry Leaves,3.0,sprigs,False
+kerala_beef_fry,Spices for Pressure Cooking,1.0,"lot (turmeric, chili, coriander, meat masala)",False
+kerala_beef_fry,Spices for Roasting,1.0,"lot (homemade garam masala, crushed black pepper)",False
+mutton_dhansak,Mutton,1.0,"kg, bone-in",False
+mutton_dhansak,"Lentil Mixture (Tur, Masoor, Moong, Chana)",12.0,tbsp total,False
+mutton_dhansak,Yellow Pumpkin,200.0,"g, cubed",False
+mutton_dhansak,Brinjal (Eggplant),1.0,"small, cubed",False
+mutton_dhansak,Potatoes,2.0,cubed,False
+mutton_dhansak,Tomatoes,3.0,chopped,False
+mutton_dhansak,Onions,3.0,chopped,False
+mutton_dhansak,Fenugreek Leaves (Methi),0.5,"cup, chopped",False
+mutton_dhansak,Ginger-Garlic Paste,2.0,tbsp,False
+mutton_dhansak,Dhansak Masala Powder,4.0,tsp,False
+mutton_dhansak,Tamarind Paste,1.0,tbsp,False
+mutton_dhansak,Jaggery,1.0,"tbsp, grated",False
+aloo_gobi,Cauliflower,1.0,"medium head (about 2 cups, 180g florets)",False
+aloo_gobi,Potatoes,2.0,"medium (about 1.5 cups, cubed)",False
+aloo_gobi,Oil,3.0,tbsp,False
+aloo_gobi,Cumin Seeds,0.5,tsp,False
+aloo_gobi,Onion,1.0,"medium, finely chopped",False
+aloo_gobi,Ginger,0.5,"inch piece, minced",False
+aloo_gobi,Garlic,4.0,"cloves, minced",False
+aloo_gobi,Tomatoes,2.0,"medium, finely chopped",False
+aloo_gobi,Green Chilies,2.0,slit,False
+aloo_gobi,Turmeric Powder,0.25,tsp,False
+aloo_gobi,Red Chili Powder,1.0,tsp,False
+aloo_gobi,Coriander Powder,1.0,tsp,False
+aloo_gobi,Roasted Cumin Powder,0.75,tsp,False
+aloo_gobi,Garam Masala,1.0,tsp,False
+aloo_gobi,Salt,-1.0,to taste,False
+chole_masala,Dried White Chickpeas (Kabuli Chana),1.0,cup,False
+chole_masala,Dried Amla or Black Tea Bag,1.0,for color,True
+chole_masala,Ghee or Oil,2.0,tbsp,False
+chole_masala,Onions,0.5,"cup, finely chopped",False
+chole_masala,Ginger-Garlic Paste,1.0,tsp,False
+chole_masala,Tomatoes,1.0,"cup, finely chopped or pureed",False
+chole_masala,Kashmiri Red Chili Powder,0.5,tsp,False
+chole_masala,Turmeric Powder,0.25,tsp,False
+chole_masala,Amchur (Dry Mango Powder),1.0,tsp (if not using anardana),False
+chole_masala,Garam Masala,0.5,tsp,False
+chole_masala,Kasuri Methi (Dried Fenugreek Leaves),2.0,"tbsp, crushed",False
+chole_masala,Fresh Chole Masala Powder,1.0,batch (see instructions),False
+dum_aloo,Baby Potatoes,500.0,g,False
+dum_aloo,Oil,4.0,"tbsp, for frying",False
+dum_aloo,Onions,1.0,"cup, chopped",False
+dum_aloo,Tomatoes,1.0,"cup, chopped",False
+dum_aloo,Cashew Nuts,15.0,whole,False
+dum_aloo,Yogurt,0.25,"cup, whisked",False
+dum_aloo,Ginger-Garlic Paste,1.0,tsp,False
+dum_aloo,"Spice Powders (Turmeric, Red Chili, Coriander, Garam Masala)",-1.0,to taste,False
+dum_aloo,Sugar,0.75,tsp,False
+dum_aloo,Kasuri Methi,1.0,"tsp, crushed",False
+kadai_paneer,Paneer,250.0,"g, cubed",False
+kadai_paneer,Onion,1.0,"medium, cut into petals",False
+kadai_paneer,Bell Pepper (Capsicum),1.0,"medium, cut into chunks",False
+kadai_paneer,Onions,2.0,"medium, finely chopped (for gravy)",False
+kadai_paneer,Tomatoes,3.0,"medium, finely chopped",False
+kadai_paneer,Kadai Masala,1.0,tbsp (see instructions),False
+kadai_paneer,Cream,2.0,tbsp (optional),False
+kadai_paneer,Kasuri Methi,1.0,"tsp, crushed",False
+malai_kofta,Paneer,1.0,"heaped cup (150g), crumbled",False
+malai_kofta,Potatoes,1.0,"heaped cup, boiled and crumbled",False
+malai_kofta,Corn Starch,2.5,tbsp,False
+malai_kofta,Onions,1.0,"cup, cubed (for gravy)",False
+malai_kofta,Tomatoes,1.5,"cups, cubed (for gravy)",False
+malai_kofta,Cashew Nuts,15.0,whole,False
+malai_kofta,Heavy Cream (Malai),4.0,tbsp,False
+malai_kofta,Oil,-1.0,for deep-frying,False
+palak_paneer,Fresh Spinach (Palak),250.0,g,False
+palak_paneer,Paneer,250.0,"g, cubed",False
+palak_paneer,Onions,0.33,"cup, finely chopped",False
+palak_paneer,Tomatoes,0.33,"cup, finely chopped",False
+palak_paneer,Ginger,1.0,inch piece,False
+palak_paneer,Garlic,3.0,cloves,False
+palak_paneer,Green Chilies,2.0,,False
+palak_paneer,Cream,2.0,tbsp (optional),False
+rajma,Dried Red Kidney Beans (Rajma),1.0,cup,False
+rajma,Ghee,2.0,tbsp,False
+rajma,Onions,2.0,"medium, finely chopped",False
+rajma,Tomatoes,3.0,"medium, finely chopped",False
+rajma,Ginger-Garlic Paste,1.0,tbsp,False
+rajma,"Spice Powders (Turmeric, Kashmiri Red Chili, Coriander, Cumin)",-1.0,to taste,False
+rajma,Kasuri Methi,2.0,"tbsp, crushed",False
+sarson_ka_saag_makki_di_roti,Mustard Greens (Sarson),1.0,large bunch,True
+sarson_ka_saag_makki_di_roti,Spinach (Palak),0.5,bunch,False
+sarson_ka_saag_makki_di_roti,Bathua,0.5,bunch,True
+sarson_ka_saag_makki_di_roti,Maize Flour (Makki ka Atta),2.25,"cups (2 for roti, 2 tbsp for saag)",False
+sarson_ka_saag_makki_di_roti,Onions,2.0,medium,False
+sarson_ka_saag_makki_di_roti,Tomatoes,3.0,medium,False
+sarson_ka_saag_makki_di_roti,Ghee or White Butter,-1.0,for cooking and serving,False
+gatte_ki_sabzi,Gram Flour (Besan),1.0,cup,False
+gatte_ki_sabzi,Yogurt (Dahi),1.0,"cup, whisked",False
+gatte_ki_sabzi,Ghee,3.0,tbsp,False
+gatte_ki_sabzi,Onions,1.0,"cup, finely chopped",False
+gatte_ki_sabzi,"Crushed Whole Spices (Coriander, Cumin, Fennel, Carom seeds)",1.0,tsp total,False
+undhiyu,Surti Papdi (Indian Flat Beans),1.25,cups,True
+undhiyu,Purple Yam (Kand),1.5,cups,True
+undhiyu,Methi Muthia,1.0,batch (see instructions),False
+undhiyu,Green Masala Stuffing,1.0,batch (see instructions),False
+undhiyu,"Mixed winter vegetables (baby potatoes, small brinjals, raw bananas)",3.0,cups,False
+papaya_khar,Raw Papaya (Omita),1.0,small (300g),False
+papaya_khar,Khar or Baking Soda,0.25,tsp baking soda in 0.5 cup water,False
+papaya_khar,Mustard Oil,2.0,tbsp,False
+papaya_khar,Panch Phoron (Bengali five-spice),0.5,tsp,True
+papaya_khar,Potato,1.0,small (optional),False
+avial,"Mixed Vegetables (Drumsticks, Yam, Plantain, Ash Gourd, etc.)",4.0,"cups, cut into 2-inch batons",False
+avial,Fresh Grated Coconut,1.0,cup,False
+avial,Yogurt (Curd),1.0,"cup, whisked",False
+avial,Coconut Oil,2.0,tbsp,False
+avial,Cumin Seeds,1.0,tsp,False
+avial,Green Chilies,3.0,,False
+avial,Curry Leaves,15.0,fresh leaves,False
+bhindi_masala,Okra (Bhindi),250.0,g,False
+bhindi_masala,Oil,4.0,tbsp,False
+bhindi_masala,Onion,1.0,"medium, thinly sliced",False
+bhindi_masala,Tomatoes,2.0,"medium, finely chopped",False
+bhindi_masala,Amchur Powder (Dry Mango Powder),0.5,tsp,False
+bhindi_masala,Ginger-Garlic Paste,1.0,tsp,False
+spicy_green_chutney,Fresh Cilantro (with tender stems),2.0,"cups, tightly packed",False
+spicy_green_chutney,Fresh Mint Leaves (no stems),1.0,"cup, tightly packed",False
+spicy_green_chutney,Indian Green Chilies,3.0,adjusted to taste,False
+spicy_green_chutney,Ginger,1.0,"inch piece, chopped",False
+spicy_green_chutney,Garlic Cloves,2.0,large,False
+spicy_green_chutney,Lemon Juice,1.0,tbsp,False
+spicy_green_chutney,Plain Yogurt,1.0,tbsp (optional),False
+spicy_green_chutney,Cumin Seeds,0.5,tsp,False
+spicy_green_chutney,Salt,0.5,tsp,False
+spicy_green_chutney,Black Salt (Kala Namak),0.25,tsp (optional),False
+spicy_green_chutney,Ice Cubes,3.0,or 3 tbsp chilled water,False
+tamarind_chutney,Seedless Tamarind Block,0.5,cup,False
+tamarind_chutney,Jaggery (Gur) or Dates,0.5,"cup, grated",False
+tamarind_chutney,Hot Water,2.0,cups,False
+tamarind_chutney,Roasted Cumin Powder,0.5,tsp,False
+tamarind_chutney,Ginger Powder (Sonth),0.5,tsp,False
+tamarind_chutney,Kashmiri Red Chili Powder,0.25,tsp,False
+tamarind_chutney,Salt,0.5,tsp,False
+tamarind_chutney,Black Salt (Kala Namak),0.25,tsp,False
+dry_garlic_chutney,Desiccated Coconut,0.5,cup,False
+dry_garlic_chutney,Garlic Cloves,12.0,"large, peeled",False
+dry_garlic_chutney,Raw Peanuts,0.25,cup,False
+dry_garlic_chutney,White Sesame Seeds,2.0,tbsp,False
+dry_garlic_chutney,Kashmiri Red Chili Powder,1.5,tbsp,False
+dry_garlic_chutney,Salt,0.5,tsp,False
+wet_garlic_chutney,Whole Dry Kashmiri Red Chilies,12.0,stems removed,False
+wet_garlic_chutney,Garlic Cloves,12.0,"large, peeled",False
+wet_garlic_chutney,Lemon Juice or Vinegar,1.0,tbsp,False
+wet_garlic_chutney,Salt,0.5,tsp,False
+wet_garlic_chutney,Boiling Water,0.5,cup,False
+aloo_tikki_chaat,"Starchy Potatoes (e.g., Russet)",650.0,g,False
+aloo_tikki_chaat,Cornstarch or Rice Flour,4.0,tbsp,False
+aloo_tikki_chaat,Grated Ginger,1.0,tsp,False
+aloo_tikki_chaat,Green Chilies,2.0,finely chopped,False
+aloo_tikki_chaat,Chaat Masala,1.0,tsp,False
+aloo_tikki_chaat,Cilantro,2.0,"tbsp, chopped",False
+aloo_tikki_chaat,Oil or Ghee,1.0,"cup, for shallow frying",False
+aloo_tikki_chaat,Plain Yogurt,2.0,"cups, whisked for serving",False
+bhel_puri,Puffed Rice (Murmura),4.0,cups,False
+bhel_puri,Nylon Sev,0.5,cup,False
+bhel_puri,Papdi,6.0,crushed,False
+bhel_puri,Roasted Peanuts,2.0,tbsp,False
+bhel_puri,Boiled Potato,1.0,"medium, finely diced",False
+bhel_puri,Red Onion,1.0,"small, finely chopped",False
+bhel_puri,Tomato,1.0,"small, deseeded and finely chopped",False
+bhel_puri,Raw Mango,2.0,"tbsp, finely chopped (seasonal)",False
+bhel_puri,Lemon Juice,1.0,tbsp,False
+bhel_puri,Chaat Masala,0.5,tsp,False
+chole_bhature,Dried White Chickpeas,1.0,"cup, soaked overnight",False
+chole_bhature,Black Tea Bag or Dried Amla,1.0,unit,True
+chole_bhature,Onion,2.0,"medium, made into paste",False
+chole_bhature,Tomato Puree,1.0,cup,False
+chole_bhature,Chole Masala Powder,2.0,tbsp,False
+chole_bhature,All-Purpose Flour (Maida),2.0,cups (for bhature),False
+chole_bhature,Sour Yogurt,0.5,cup (for bhature),False
+chole_bhature,Baking Soda,0.25,tsp (for bhature),False
+chole_bhature,Oil,1.0,for deep frying,False
+dahi_vada,Urad Dal (Skinned Black Gram),1.0,"cup, soaked 5-6 hours",False
+dahi_vada,Moong Dal (Skinned Mung Lentils),0.25,"cup, soaked 5-6 hours",False
+dahi_vada,Ginger,1.0,inch piece,False
+dahi_vada,Green Chilies,2.0,,False
+dahi_vada,Full-fat Plain Yogurt,3.0,"cups, chilled and whisked",False
+dahi_vada,Powdered Sugar,2.0,tbsp,False
+dahi_vada,Asafoetida (Hing),1.0,pinch,False
+dahi_vada,Oil,1.0,for deep frying,False
+misal_pav,Sprouted Moth Beans (Matki),2.0,cups,False
+misal_pav,Onion-Coconut Masala Paste,1.0,batch (see instructions),False
+misal_pav,Misal Masala or Goda Masala,3.0,tbsp,True
+misal_pav,Tamarind Paste or Kokum,1.0,tsp,False
+misal_pav,Oil,0.33,cup,False
+misal_pav,Farsan (Savory Fried Mix),2.0,"cups, for topping",False
+misal_pav,Pav Bread Rolls,8.0,for serving,False
+veg_momos,All-Purpose Flour (Maida),2.0,cups,False
+veg_momos,Cabbage,2.0,"cups, finely chopped",False
+veg_momos,Carrots,1.0,"cup, grated",False
+veg_momos,Onion,1.0,"medium, finely chopped",False
+veg_momos,Ginger & Garlic,1.0,"tbsp, minced",False
+veg_momos,Soy Sauce,1.0,tsp,False
+chicken_momos,All-Purpose Flour (Maida),2.0,cups,False
+chicken_momos,Minced Chicken,200.0,g,False
+chicken_momos,Spring Onions,0.5,"cup, chopped",False
+chicken_momos,Ginger & Garlic,1.0,"tbsp, minced",False
+chicken_momos,Soy Sauce,1.0,tsp,False
+chicken_momos,Oil or Melted Butter,1.0,tbsp,False
+mixed_veg_pakora,Mixed Vegetables,3.0,"cups, julienned (onion, potato, cabbage, spinach)",False
+mixed_veg_pakora,Gram Flour (Besan),1.0,cup,False
+mixed_veg_pakora,Rice Flour,3.0,tbsp,False
+mixed_veg_pakora,Ajwain (Carom Seeds),1.0,tsp,False
+mixed_veg_pakora,Turmeric Powder,0.5,tsp,False
+mixed_veg_pakora,Oil,1.0,for deep frying,False
+golgappa,Fine Semolina (Sooji),1.0,cup,False
+golgappa,All-Purpose Flour,2.0,tbsp,False
+golgappa,Mint Leaves,1.0,cup (for pani),False
+golgappa,Cilantro,0.5,cup (for pani),False
+golgappa,Tamarind Pulp,2.0,tbsp (for pani),False
+golgappa,Boiled Potatoes & Chickpeas,2.0,cups (for filling),False
+pav_bhaji,"Mixed Vegetables (Potatoes, Cauliflower, Peas, Carrots)",5.0,"cups, chopped",False
+pav_bhaji,Butter,8.0,tbsp,False
+pav_bhaji,Pav Bhaji Masala,3.0,tbsp,False
+pav_bhaji,Onions,2.0,"medium, finely chopped",False
+pav_bhaji,Capsicum (Bell Pepper),1.0,"medium, finely chopped",False
+pav_bhaji,Tomatoes,3.0,"medium, finely chopped",False
+pav_bhaji,Kashmiri Red Chili Powder,2.0,tsp,False
+pav_bhaji,Pav Bread Rolls,12.0,for serving,False
+kanda_poha,Thick Poha (Flattened Rice),2.0,cups,False
+kanda_poha,Onion,1.0,"large, chopped",False
+kanda_poha,Raw Peanuts,0.25,cup,False
+kanda_poha,Oil,2.0,tbsp,False
+kanda_poha,Mustard Seeds,1.0,tsp,False
+kanda_poha,Curry Leaves,10.0,leaves,False
+kanda_poha,Turmeric Powder,0.5,tsp,False
+kanda_poha,Sugar,1.0,tsp,False
+indori_poha,Thick Poha (Flattened Rice),2.0,cups,False
+indori_poha,Fennel Seeds (Saunf),1.0,tsp,False
+indori_poha,Jeeravan Masala,1.0,"tsp, for sprinkling",True
+indori_poha,Ratlami Sev,1.0,"cup, for garnish",True
+indori_poha,Sugar,2.0,tbsp,False
+indori_poha,Milk,0.25,"cup, for sprinkling",False
+indori_poha,Pomegranate Arils,0.25,"cup, for garnish",False
+samosa,All-Purpose Flour (Maida),2.0,cups,False
+samosa,Ghee or Oil (for dough),0.25,cup,False
+samosa,Ajwain (Carom Seeds),1.0,tsp,False
+samosa,Potatoes,4.0,"medium, boiled and crumbled",False
+samosa,Green Peas,0.5,cup,False
+samosa,"Whole Spices (Coriander, Cumin, Fennel seeds)",1.0,"tbsp, coarsely crushed",False
+samosa,Amchur (Dry Mango Powder),1.0,tsp,False
+samosa,Oil,1.0,for deep frying,False
+vada_pav,Potatoes,3.0,"medium, boiled and mashed",False
+vada_pav,Ginger-Garlic-Chili Paste,1.0,tbsp,False
+vada_pav,Gram Flour (Besan),1.0,cup (for batter),False
+vada_pav,Rice Flour,2.0,tbsp (for batter),False
+vada_pav,Mustard Seeds,1.0,tsp,False
+vada_pav,Curry Leaves,8.0,leaves,False
+vada_pav,Pav Bread Rolls,8.0,for serving,False
+vada_pav,Oil,1.0,for deep frying,False
+khaman_dhokla,fine besan (gram flour),1.5,cups (160g),False
+khaman_dhokla,"sooji (semolina/rava), fine variety",2.0,tbsp,False
+khaman_dhokla,water,1.0,"cup (240 ml), plus more as needed",False
+khaman_dhokla,lemon juice (or ¾ tsp citric acid),1.5,tbsp,False
+khaman_dhokla,oil (any neutral flavor oil),1.5,tbsp,False
+khaman_dhokla,sugar,2.0,tbsp,False
+khaman_dhokla,salt,1.0,tsp,False
+khaman_dhokla,ginger-green chili paste,1.0,tsp,False
+khaman_dhokla,turmeric powder,0.25,tsp,False
+khaman_dhokla,"Eno fruit salt (plain, unflavored)",1.0,tsp,False
+khaman_dhokla,oil,2.0,tsp,False
+khaman_dhokla,mustard seeds,0.75,tsp,False
+khaman_dhokla,curry leaves,1.0,sprig (7-8 leaves),False
+khaman_dhokla,"green chilies, slit lengthwise",1.5,,False
+khaman_dhokla,hing (asafoetida),0.125,tsp,False
+khaman_dhokla,white sesame seeds (optional),1.0,tsp,False
+khaman_dhokla,water,0.33,cup (80 ml),False
+khaman_dhokla,sugar,1.0,tsp,False
+khaman_dhokla,salt,-1.0,A pinch,False
+khaman_dhokla,fresh grated coconut (optional),2.0,tbsp,False
+khaman_dhokla,finely chopped coriander leaves (optional),2.0,tbsp,False
+gobi_manchurian,cauliflower,1.0,medium head (approx. 500g),False
+gobi_manchurian,"water, for blanching",4.0,cups,False
+gobi_manchurian,salt,1.0,tsp,False
+gobi_manchurian,ice-cold water,1.0,cup,False
+gobi_manchurian,maida (all-purpose flour),0.75,cup,False
+gobi_manchurian,cornstarch (corn flour),0.25,cup,False
+gobi_manchurian,Kashmiri red chili powder (for color),0.5,tsp,False
+gobi_manchurian,ginger-garlic paste,0.5,tsp,False
+gobi_manchurian,salt,0.5,tsp,False
+gobi_manchurian,water,0.5,"cup, or as needed",False
+gobi_manchurian,Oil,-1.0,for deep frying,False
+gobi_manchurian,oil,2.0,tbsp,False
+gobi_manchurian,"garlic, finely chopped",3.0,cloves,False
+gobi_manchurian,"ginger, finely chopped",1.0,inch,False
+gobi_manchurian,"green chilies, slit",1.5,,False
+gobi_manchurian,"onion, finely chopped",0.25,cup,False
+gobi_manchurian,spring onion (scallion),0.25,"cup, whites and greens separated",False
+gobi_manchurian,"capsicum (bell pepper), cubed",0.5,cup,False
+gobi_manchurian,tomato ketchup or sauce,2.0,tbsp,False
+gobi_manchurian,red chili sauce,1.0,tbsp,False
+gobi_manchurian,soy sauce,2.0,tsp,False
+gobi_manchurian,rice vinegar,1.0,tsp,False
+gobi_manchurian,"black pepper, crushed",0.25,tsp,False
+gobi_manchurian,salt,0.25,tsp,False
+gobi_manchurian,Cornstarch,1.0,"tsp, mixed with ¼ cup cold water",False
+khasta_kachori,maida (all-purpose flour),1.0,cup,False
+khasta_kachori,"oil or ghee, for moyan",2.0,tbsp,False
+khasta_kachori,salt,0.25,tsp,False
+khasta_kachori,cold water,0.25,"cup, or as needed",False
+khasta_kachori,yellow moong dal,0.25,"cup, soaked for 3 hours",False
+khasta_kachori,besan (gram flour),1.0,tbsp,False
+khasta_kachori,oil,1.0,tbsp,False
+khasta_kachori,"fennel seeds (saunf), coarsely crushed",1.0,tsp,False
+khasta_kachori,"coriander seeds, coarsely crushed",1.0,tsp,False
+khasta_kachori,red chili powder,0.5,tsp,False
+khasta_kachori,amchur (dry mango powder),0.5,tsp,False
+khasta_kachori,garam masala,0.25,tsp,False
+khasta_kachori,hing (asafoetida),0.125,tsp,False
+khasta_kachori,salt,0.5,tsp,False
+khasta_kachori,Oil or ghee,-1.0,for deep frying,False
+raj_kachori,fine rava (sooji/semolina),1.0,cup,False
+raj_kachori,whole wheat flour (atta),3.0,tbsp,False
+raj_kachori,besan (gram flour),2.0,tbsp,False
+raj_kachori,salt,0.5,tsp,False
+raj_kachori,baking soda,0.125,tsp,False
+raj_kachori,oil,1.0,tsp,False
+raj_kachori,water,0.5,"cup, as needed",False
+raj_kachori,Oil,-1.0,for deep frying,False
+raj_kachori,boiled potato cubes,1.5,tbsp,False
+raj_kachori,boiled black chickpeas (kala chana),1.5,tbsp,False
+raj_kachori,boiled moong sprouts (optional),1.0,tbsp,False
+raj_kachori,"sweetened, beaten yogurt (dahi)",2.5,tbsp,False
+raj_kachori,green coriander chutney,1.0,tbsp,False
+raj_kachori,sweet tamarind chutney,1.0,tbsp,False
+raj_kachori,"roasted cumin powder, red chili powder, and black salt",-1.0,A pinch,False
+raj_kachori,fine sev,1.0,tbsp,False
+raj_kachori,crushed papdi (optional),1.0,,False
+raj_kachori,boondi (optional),1.0,tbsp,False
+raj_kachori,Chopped coriander leaves and pomegranate arils,-1.0,for garnish,False
+khandvi,"besan (gram flour), sifted",1.0,cup,False
+khandvi,plain sour curd (yogurt) or buttermilk,1.0,cup,False
+khandvi,water,2.0,cups,False
+khandvi,ginger-green chili paste (optional),1.0,tsp,False
+khandvi,turmeric powder,0.25,tsp,False
+khandvi,hing (asafoetida),-1.0,A pinch,False
+khandvi,salt,1.0,"tsp, or to taste",False
+khandvi,oil,2.0,tbsp,False
+khandvi,mustard seeds,1.0,tsp,False
+khandvi,white sesame seeds,1.0,tsp,False
+khandvi,"green chilies, finely chopped",2.0,,False
+khandvi,curry leaves,-1.0,a few,False
+khandvi,fresh grated coconut,3.0,tbsp,False
+khandvi,finely chopped coriander leaves,3.0,tbsp,False
+rava_uttapam,"suji/rava (coarse semolina, approx. 175g)",1.0,cup,False
+rava_uttapam,"plain yogurt (dahi), preferably slightly sour",0.5,cup,False
+rava_uttapam,water,0.5,"cup, plus 2-4 tbsp more as needed",False
+rava_uttapam,salt,0.5,"tsp, or to taste",False
+rava_uttapam,Eno fruit salt or a pinch of baking soda (optional),0.25,tsp,False
+rava_uttapam,Oil or ghee,-1.0,for cooking,False
+rava_uttapam,"onion, finely chopped",1.0,large,False
+rava_uttapam,"tomato, finely chopped (seeds removed)",1.0,medium,False
+rava_uttapam,"bell pepper (capsicum), finely chopped",1.0,small,False
+rava_uttapam,"green chilies, finely chopped",2.5,,False
+rava_uttapam,"fresh coriander leaves, finely chopped",2.0,tbsp,False
+galouti_kebab,"mutton keema (minced lamb), with 20% fat",500.0,g,False
+galouti_kebab,raw papaya paste (from green papaya with skin),2.5,tbsp,False
+galouti_kebab,ginger paste,1.0,tbsp,False
+galouti_kebab,garlic paste,1.0,tbsp,False
+galouti_kebab,roasted chana dal powder (or roasted besan),2.0,tbsp,False
+galouti_kebab,brown onion paste,1.0,tbsp,False
+galouti_kebab,brown cashew nut paste (optional),1.0,tbsp,False
+galouti_kebab,"egg (optional, for binding)",1.0,,False
+galouti_kebab,Salt,-1.0,to taste,False
+galouti_kebab,Ghee or oil,-1.0,for shallow frying,False
+galouti_kebab,Galouti Masala Powder,-1.0,(from whole spices),False
+galouti_kebab,kewra water (screwpine essence),1.0,tsp,False
+galouti_kebab,rose water,0.5,tsp,False
+galouti_kebab,charcoal,1.0,small piece,False
+galouti_kebab,ghee,1.0,tsp,False
+shammi_kebab,boneless mutton or chicken,450.0,"g, cut into small pieces",False
+shammi_kebab,chana dal (Bengal gram),0.33,"cup (75g), soaked 2-3 hours",False
+shammi_kebab,"onion, roughly chopped",1.0,medium,False
+shammi_kebab,"ginger, roughly chopped",1.0,inch,False
+shammi_kebab,garlic cloves,3.5,large,False
+shammi_kebab,dried red chilies,2.5,,False
+shammi_kebab,cinnamon stick,1.5,inch,False
+shammi_kebab,green cardamoms,2.5,,False
+shammi_kebab,cloves,3.5,,False
+shammi_kebab,salt,1.0,tsp,False
+shammi_kebab,turmeric powder,0.25,tsp,False
+shammi_kebab,water,1.0,"cup (for mutton, ½ cup for chicken)",False
+shammi_kebab,"onion, finely chopped",1.0,small,False
+shammi_kebab,"green chilies, finely chopped",2.5,,False
+shammi_kebab,"fresh mint leaves, finely chopped",2.0,tbsp,False
+shammi_kebab,"fresh coriander leaves, finely chopped",2.0,tbsp,False
+shammi_kebab,garam masala powder,1.0,tsp,False
+shammi_kebab,"egg, beaten",1.0,,False
+shammi_kebab,Oil or ghee,-1.0,for shallow frying,False
+lamb_seekh_kebab,"minced lamb (mutton keema), with 20% fat",1.0,kg,False
+lamb_seekh_kebab,"onion, very finely chopped and squeezed dry",1.0,large,False
+lamb_seekh_kebab,"tomato, deseeded, finely chopped, and squeezed dry",1.0,large,False
+lamb_seekh_kebab,"fresh coriander leaves, finely chopped",0.5,cup,False
+lamb_seekh_kebab,"fresh mint leaves, finely chopped",0.5,cup,False
+lamb_seekh_kebab,ginger paste,1.0,tbsp,False
+lamb_seekh_kebab,garlic paste,1.0,tbsp,False
+lamb_seekh_kebab,"green chilies, finely minced",2.5,,False
+lamb_seekh_kebab,ground cumin,2.0,tsp,False
+lamb_seekh_kebab,ground coriander,2.0,tsp,False
+lamb_seekh_kebab,garam masala,1.0,tsp,False
+lamb_seekh_kebab,red chili powder or paprika,1.0,tsp,False
+lamb_seekh_kebab,salt,2.0,"tsp, or to taste",False
+lamb_seekh_kebab,lemon juice,1.0,tbsp,False
+lamb_seekh_kebab,Melted butter or ghee,-1.0,for basting,False
+lamb_seekh_kebab,Metal skewers,-1.0,,False
+veg_seekh_kebab,"potatoes, boiled, peeled, and mashed",2.0,medium,False
+veg_seekh_kebab,"mixed vegetables, finely chopped or grated",1.0,cup,False
+veg_seekh_kebab,"onion, finely chopped",0.25,cup,False
+veg_seekh_kebab,ginger-garlic paste,1.0,tsp,False
+veg_seekh_kebab,"green chili, finely chopped",1.0,,False
+veg_seekh_kebab,roasted besan (gram flour),2.0,tbsp,False
+veg_seekh_kebab,breadcrumbs,0.25,"cup, plus more if needed",False
+veg_seekh_kebab,"cashews, chopped (optional)",3.0,tbsp,False
+veg_seekh_kebab,red chili powder,1.0,tsp,False
+veg_seekh_kebab,turmeric powder,0.5,tsp,False
+veg_seekh_kebab,coriander powder,1.0,tsp,False
+veg_seekh_kebab,garam masala powder,0.5,tsp,False
+veg_seekh_kebab,Salt,-1.0,to taste,False
+veg_seekh_kebab,lemon juice,1.0,tbsp,False
+veg_seekh_kebab,Oil,-1.0,for roasting,False
+veg_seekh_kebab,Wooden or metal skewers,-1.0,(soak wooden skewers),False
+chicken_tikka,"boneless, skinless chicken breast or thighs",500.0,"g, cut into 1.5-inch cubes",False
+chicken_tikka,lemon juice,1.0,tbsp,False
+chicken_tikka,salt,1.0,tsp,False
+chicken_tikka,ginger-garlic paste,1.0,tbsp,False
+chicken_tikka,red chili powder,1.0,tsp,False
+chicken_tikka,"thick, strained yogurt (hung curd or Greek yogurt)",0.5,cup,False
+chicken_tikka,mustard oil (or any vegetable oil),1.0,tbsp,False
+chicken_tikka,Kashmiri red chili powder (for color),1.0,tsp,False
+chicken_tikka,garam masala,1.0,tsp,False
+chicken_tikka,coriander powder,2.0,tsp,False
+chicken_tikka,roasted cumin powder,1.0,tsp,False
+chicken_tikka,chaat masala,1.0,tsp,False
+chicken_tikka,"kasuri methi (dried fenugreek leaves), crushed",1.0,tbsp,False
+chicken_tikka,"onion, cut into 1-inch squares",1.0,large,False
+chicken_tikka,"bell pepper (capsicum), any color, cut into 1-inch squares",1.0,large,False
+chicken_tikka,Melted butter,-1.0,for basting,False
+chicken_tikka,Metal or soaked wooden skewers,-1.0,,False
+gajar_ka_halwa,Carrots (Gajar),500.0,"g, young and tender",False
+gajar_ka_halwa,Full-fat Milk,2.0,cups,False
+gajar_ka_halwa,Ghee,3.0,tbsp,False
+gajar_ka_halwa,Sugar,0.5,cup,False
+gajar_ka_halwa,"Mixed Nuts (Cashews, Almonds, Pistachios)",1.0,"handful, chopped",False
+gajar_ka_halwa,Cardamom Powder,0.5,tsp,False
+gujiya,All-Purpose Flour (Maida),2.0,cups,False
+gujiya,Ghee,4.0,"tbsp, melted for dough",False
+gujiya,Khoya (Mawa),1.0,"cup, grated",False
+gujiya,Mixed Nuts,5.0,"tbsp, chopped",False
+gujiya,Desiccated Coconut,0.33,cup,False
+gujiya,Fine Sugar,0.5,cup,False
+gujiya,Cardamom powder,1.0,tsp,False
+gujiya,Ghee or Oil,-1.0,for deep frying,False
+jalebi,All-Purpose Flour (Maida),1.0,cup,False
+jalebi,Gram Flour (Besan),2.0,tbsp,False
+jalebi,Baking Soda,1.0,pinch,False
+jalebi,Water,1.0,cup (approx.),False
+jalebi,Sugar,1.0,cup,False
+jalebi,Saffron Strands,0.25,tsp,False
+jalebi,Lemon Juice,0.25,tsp,False
+jalebi,Ghee or Oil,-1.0,for frying,False
+gulab_jamun,Khoya (Mawa),1.0,"cup (200g), soft",False
+gulab_jamun,Paneer,0.75,"cup (100g), grated",False
+gulab_jamun,All-Purpose Flour (Maida),3.0,tbsp,False
+gulab_jamun,Fine Semolina (Sooji),2.0,tbsp,False
+gulab_jamun,Baking Powder,0.25,tsp,False
+gulab_jamun,Sugar,2.0,cups,False
+gulab_jamun,Water,1.0,cup,False
+gulab_jamun,Rose Water,1.0,tbsp,False
+gulab_jamun,Ghee or Oil,-1.0,for deep frying,False
+rasgulla,Full-cream Cow's Milk,2.0,litres,False
+rasgulla,Lemon Juice,2.0,tbsp,False
+rasgulla,Sugar,1.0,cup,False
+rasgulla,Water,5.0,cups,False
+rasgulla,Sooji (Semolina) or All-purpose flour,1.0,tsp (optional binder),False
+rasmalai,Whole Milk,6.0,cups (for discs),False
+rasmalai,Lemon Juice,2.0,tbsp,False
+rasmalai,Whole Milk,4.0,cups (for rabri),False
+rasmalai,Sugar,0.5,cup,False
+rasmalai,Saffron,1.0,pinch,False
+rasmalai,Cardamom Powder,0.25,tsp,False
+rasmalai,Pistachios and Almonds,2.0,"tbsp, slivered",False
+puran_poli,Chana Dal (Split Bengal Gram),1.0,cup,False
+puran_poli,Jaggery,1.0,"cup, grated",False
+puran_poli,"Flour (1.5 cups Whole Wheat, 0.5 cup All-Purpose)",2.0,cups total,False
+puran_poli,Cardamom Powder,1.0,tsp,False
+puran_poli,Nutmeg Powder,0.5,tsp,False
+puran_poli,Ghee,-1.0,for cooking,False
+shahi_tukra,White Bread Slices,8.0,crusts removed,False
+shahi_tukra,Ghee,-1.0,for frying,False
+shahi_tukra,Full-fat Milk,4.0,cups (for rabri),False
+shahi_tukra,Sugar,1.0,cup (for syrup),False
+shahi_tukra,Saffron,1.0,pinch,False
+shahi_tukra,Cardamom Powder,0.5,tsp,False
+shahi_tukra,Slivered Nuts,2.0,"tbsp, for garnish",False
+phirni,Basmati Rice,0.25,cup,False
+phirni,Full-fat Milk,1.0,litre,False
+phirni,Sugar,0.5,cup,False
+phirni,Saffron,1.0,pinch,False
+phirni,Cardamom Powder,0.5,tsp,False
+phirni,Slivered Pistachios and Almonds,2.0,"tbsp, for garnish",False
+sandesh,Whole Milk,1.0,litre,False
+sandesh,Lemon Juice,2.0,tbsp,False
+sandesh,Powdered Sugar,0.33,cup,False
+sandesh,Cardamom Powder,0.125,tsp (optional),False
+sandesh,Crushed Pistachios,1.0,"tbsp, for garnish",False
+petha,Ash Gourd (White Pumpkin),1.0,"kg, mature",False
+petha,Slaked Lime (Chuna) or Alum Powder,2.0,tsp,True
+petha,Sugar,3.0,cups,False
+petha,Kewra or Rose Essence,1.0,tsp,False
+rabri,Full-fat Milk,1.25,litres,False
+rabri,Sugar,3.0,tbsp,False
+rabri,Saffron Strands,1.0,pinch,False
+rabri,Cardamom Powder,0.5,tsp,False
+rabri,Sliced Almonds and Pistachios,2.0,tbsp,False
+malpua,All-Purpose Flour (Maida),1.0,cup,False
+malpua,Khoya (Mawa) or Milk Powder,3.0,tbsp,False
+malpua,Fennel Seeds (Saunf),1.0,tsp,False
+malpua,Milk,0.75,cup (approx.),False
+malpua,Sugar,0.5,cup,False
+malpua,Ghee,-1.0,for frying,False
+kulfi,Full-fat Milk,1.5,litres,False
+kulfi,Sugar,0.5,cup,False
+kulfi,Pistachios,0.25,"cup, chopped",False
+kulfi,Almonds,0.25,"cup, chopped",False
+kulfi,Saffron Strands,1.0,pinch,False
+kulfi,Cardamom Powder,0.5,tsp,False
+imarti,"Whole, Skinless Urad Dal",1.0,cup,False
+imarti,Rice Flour or Cornflour,1.0,tbsp,False
+imarti,Orange-Red Food Colour,1.0,pinch,False
+imarti,Sugar,2.0,cups,False
+imarti,Ghee or Oil,-1.0,for frying,False
+kaju_katli,Cashews,1.0,cup (160g),False
+kaju_katli,Sugar,0.5,cup (100g),False
+kaju_katli,Water,5.0,tbsp,False
+kaju_katli,Ghee,1.0,tbsp (optional),False
+kaju_katli,Rose Water,1.0,tsp (optional),False
+sweet_lassi,"Chilled, fresh, full-fat plain yogurt (dahi)",2.0,cups,False
+sweet_lassi,Granulated sugar,4.0,tbsp,False
+sweet_lassi,Ice-cold water,0.5,to 1 cup,False
+sweet_lassi,Ground green cardamom powder,1.0,tsp,False
+sweet_lassi,Rose water,-1.0,A few drops (optional),False
+sweet_lassi,Crushed pistachios and saffron strands,-1.0,for garnish (optional),False
+salted_lassi,Plain yogurt,2.0,cups,False
+salted_lassi,Roasted cumin powder (bhuna jeera),0.75,tsp,False
+salted_lassi,Black salt (kala namak),0.75,tsp,False
+salted_lassi,Cold water,0.75,to 1 cup,False
+salted_lassi,Fresh mint leaves,-1.0,for garnish,False
+salted_lassi,Thinly sliced Thai chile,0.5,tsp (optional),False
+mango_lassi,"Ripe mango, peeled and cubed",1.0,cup,False
+mango_lassi,Plain full-fat yogurt,1.0,cup,False
+mango_lassi,Milk or water,0.25,to 0.5 cup,False
+mango_lassi,Sugar,1.0,tbsp (or to taste),False
+mango_lassi,Ground cardamom,-1.0,A pinch,False
+mango_lassi,Chopped pistachios and saffron,-1.0,for garnish (optional),False
+masala_chai,Water,1.0,cup,False
+masala_chai,Full-fat milk,1.0,cup,False
+masala_chai,Fresh ginger,1.0,inch piece,False
+masala_chai,Green cardamom pods,3.0,,False
+masala_chai,Whole cloves,2.0,,False
+masala_chai,Black peppercorns,4.0,,False
+masala_chai,Strong black CTC tea leaves,2.0,tsp,False
+masala_chai,Sugar,2.0,tsp (or to taste),False
+kashmiri_kahwah,Water,3.0,cups,False
+kashmiri_kahwah,Kashmiri green tea leaves,1.0,tsp,True
+kashmiri_kahwah,High-quality saffron strands,10.0,,False
+kashmiri_kahwah,Cinnamon stick,0.5,inch piece,False
+kashmiri_kahwah,"Whole green cardamom pod, lightly crushed",1.0,,False
+kashmiri_kahwah,Whole clove,1.0,,False
+kashmiri_kahwah,Dried rose petals,0.5,tsp (optional),False
+kashmiri_kahwah,Thinly slivered almonds,2.0,tsp,False
+kashmiri_kahwah,Honey or sugar to taste,-1.0,(optional),False
+vegetable_raita,Chilled plain yogurt,2.0,cups,False
+vegetable_raita,Roasted cumin powder,1.0,tsp,False
+vegetable_raita,Salt or black salt,0.5,tsp,False
+vegetable_raita,Red chili powder,0.25,tsp (optional),False
+vegetable_raita,Chaat masala,0.5,tsp (optional),False
+vegetable_raita,"Cucumber, finely chopped",0.5,cup,False
+vegetable_raita,"Onion, finely chopped",0.25,cup,False
+vegetable_raita,"Tomato, deseeded and finely chopped",0.25,cup,False
+vegetable_raita,"Fresh coriander or mint leaves, chopped",2.0,tbsp,False
+vegetable_raita,"Green chili, finely chopped",1.0,(optional),False
+axone_chutney,Axone paste,100.0,g,True
+axone_chutney,Large tomato,1.0,,False
+axone_chutney,Dry king chilies (Raja Mircha),1.0,,True
+axone_chutney,Salt,-1.0,to taste,False
+bamboo_shoot_stir_fry,"Prepared bamboo shoots (fresh or fermented), julienned",2.0,cups,False
+bamboo_shoot_stir_fry,Mustard oil,1.0,tbsp,False
+bamboo_shoot_stir_fry,"Spring onions, chopped",4.0,,False
+bamboo_shoot_stir_fry,"Mixed vegetables (mushrooms, bell peppers)",1.0,cup,False
+bamboo_shoot_stir_fry,"Green chilies, slit",1.0,,False
+bamboo_shoot_stir_fry,Red chili flakes,1.0,tsp (optional),False
+bamboo_shoot_stir_fry,Salt,-1.0,to taste,False
+bamboo_shoot_stir_fry,Fresh coriander leaves for garnish,-1.0,,False
+gundruk_soup,Dried Gundruk,100.0,g,True
+gundruk_soup,Soybeans (bhatmas),0.5,cup (optional),False
+gundruk_soup,Mustard oil,2.0,tbsp,False
+gundruk_soup,Fenugreek or mustard seeds,0.5,tsp,False
+gundruk_soup,"Onion, finely chopped",1.0,medium,False
+gundruk_soup,"Garlic, chopped",3.0,cloves,False
+gundruk_soup,"Ginger, grated",0.5,inch piece,False
+gundruk_soup,"Tomatoes, chopped",2.0,medium,False
+gundruk_soup,Turmeric powder,0.5,tsp,False
+gundruk_soup,"Potato, diced",1.0,large (optional),False
+gundruk_soup,"Green chilies, slit",1.0,,False
+gundruk_soup,Hot water,3.0,cups,False
+gundruk_soup,Fresh lemon juice,1.0,tbsp,False
+coconut_prawn_curry,Salt,-1.0,to taste,False
+litti_chokha,Salt,-1.0,to taste,False
+bisi_bele_bath,Turmeric Powder,0.5,tsp,False
+bisi_bele_bath,Salt,-1.0,to taste,False
+dal_baati_churma,Turmeric Powder,0.5,tsp,False
+dal_baati_churma,Salt,-1.0,to taste,False
+amritsari_kulcha,Salt,-1.0,to taste,False
+gutti_vankaya_kura,Cooking Oil,2.0,tbsp,False
+gongura_mamsam,Salt,-1.0,to taste,False
+chepa_pulusu,Salt,-1.0,to taste,False
+samo_sobai,Cooking Oil,2.0,tbsp,False
+dal_puri,Salt,-1.0,to taste,False
+aamat,Cooking Oil,2.0,tbsp,False
+chha_gosht,Salt,-1.0,to taste,False
+gucchi_pulao,Salt,-1.0,to taste,False
+mamtu,Cooking Oil,2.0,tbsp,False
+mamtu,Salt,-1.0,to taste,False
+prapu,Salt,-1.0,to taste,False
+gyal,Salt,-1.0,to taste,False
+khambir,Salt,-1.0,to taste,False
+khambir,Active Dry Yeast,1.0,tsp,False
+pandi_curry,Salt,-1.0,to taste,False
+wild_greens_sambar,Cooking Oil,2.0,tbsp,False
+wild_yam_curry,Cooking Oil,2.0,tbsp,False
+doh_neiiong,Cooking Oil,2.0,tbsp,False
+butter_garlic_naan,Active Dry Yeast,1.0,tsp,False
+keema_naan,Active Dry Yeast,1.0,tsp,False
+paneer_naan,Active Dry Yeast,1.0,tsp,False
+paneer_naan,Butter,1.0,tbsp,False
+hyderabadi_biryani,Salt,-1.0,to taste,False
+lucknowi_biryani,Salt,-1.0,to taste,False
+vegetable_pulao,Salt,-1.0,to taste,False
+matar_pulao,Salt,-1.0,to taste,False
+kashmiri_pulao,Salt,-1.0,to taste,False
+kodi_pulao,Salt,-1.0,to taste,False
+kodi_pulao,Ghee,1.0,tbsp,False
+moong_dal_khichdi,Green Chilies,-1.0,to taste,False
+moong_dal_khichdi,Ginger,1.0,inch piece,False
+moong_dal_khichdi,Salt,-1.0,to taste,False
+maa_ki_dal,Turmeric Powder,0.5,tsp,False
+sambar,Red Chili Powder,-1.0,to taste,False
+rasam,Asafoetida (Hing),0.25,tsp,False
+rasam,Red Chili Powder,-1.0,to taste,False
+dalma,Coriander Leaves,-1.0,for garnish,False
+kadhi_pakora,Red Chili Powder,-1.0,to taste,False
+butter_chicken,Salt,-1.0,to taste,False
+chicken_tikka_masala,Salt,-1.0,to taste,False
+tandoori_chicken,Salt,-1.0,to taste,False
+rogan_josh,Salt,-1.0,to taste,False
+mutton_korma,Salt,-1.0,to taste,False
+nihari,Coriander Leaves,-1.0,for garnish,False
+nihari,Lemon Juice,1.0,tbsp,False
+nihari,Turmeric Powder,0.5,tsp,False
+nihari,Salt,-1.0,to taste,False
+nihari,Green Chilies,-1.0,to taste,False
+paya,Green Chilies,-1.0,to taste,False
+paya,Salt,-1.0,to taste,False
+paya,Coriander Leaves,-1.0,for garnish,False
+keema_matar,Salt,-1.0,to taste,False
+keema_matar,Coriander Leaves,-1.0,for garnish,False
+laal_maas,Salt,-1.0,to taste,False
+chingri_malai_curry,Turmeric Powder,0.5,tsp,False
+chingri_malai_curry,Salt,-1.0,to taste,False
+daab_chingri,Salt,-1.0,to taste,False
+kosha_mangsho,Salt,-1.0,to taste,False
+shorshe_ilish,Salt,-1.0,to taste,False
+chettinad_chicken,Salt,-1.0,to taste,False
+chicken_65,Salt,-1.0,to taste,False
+chicken_65,Lemon Juice,1.0,tbsp,False
+chicken_65,Coriander Leaves,-1.0,for garnish,False
+haleem,Ginger-Garlic Paste,1.0,tsp,False
+haleem,Lemon Juice,1.0,tbsp,False
+haleem,Turmeric Powder,0.5,tsp,False
+haleem,Salt,-1.0,to taste,False
+jalfrezi,Cooking Oil,2.0,tbsp,False
+jalfrezi,Salt,-1.0,to taste,False
+jalfrezi,Lemon Juice,1.0,tbsp,False
+jalfrezi,Red Chili Powder,-1.0,to taste,False
+meen_moilee,Turmeric Powder,0.5,tsp,False
+meen_moilee,Salt,-1.0,to taste,False
+kerala_beef_fry,Green Chilies,-1.0,to taste,False
+mutton_dhansak,Turmeric Powder,0.5,tsp,False
+mutton_dhansak,Salt,-1.0,to taste,False
+mutton_dhansak,Ghee,1.0,tbsp,False
+mutton_dhansak,Red Chili Powder,-1.0,to taste,False
+aloo_gobi,Lemon Juice,1.0,tbsp,False
+chole_masala,Cumin Seeds,1.0,tsp,False
+chole_masala,Salt,-1.0,to taste,False
+chole_masala,Coriander Leaves,-1.0,for garnish,False
+dum_aloo,Salt,-1.0,to taste,False
+kadai_paneer,Cumin Seeds,1.0,tsp,False
+kadai_paneer,Coriander Leaves,-1.0,for garnish,False
+kadai_paneer,Ginger-Garlic Paste,1.0,tbsp,False
+kadai_paneer,Cooking Oil,2.0,tbsp,False
+kadai_paneer,Red Chili Powder,-1.0,to taste,False
+malai_kofta,Ginger-Garlic Paste,1.0,tsp,False
+malai_kofta,Salt,-1.0,to taste,False
+palak_paneer,Cumin Seeds,1.0,tsp,False
+palak_paneer,Salt,-1.0,to taste,False
+palak_paneer,Cooking Oil,2.0,tbsp,False
+rajma,Salt,-1.0,to taste,False
+sarson_ka_saag_makki_di_roti,Ginger-Garlic Paste,1.0,tbsp,False
+sarson_ka_saag_makki_di_roti,Salt,-1.0,to taste,False
+gatte_ki_sabzi,Ginger-Garlic Paste,1.0,tsp,False
+gatte_ki_sabzi,Turmeric Powder,0.5,tsp,False
+gatte_ki_sabzi,Green Chilies,-1.0,to taste,False
+undhiyu,Cooking Oil,2.0,tbsp,False
+undhiyu,Garlic,4.0,cloves,False
+undhiyu,Coriander Leaves,-1.0,for garnish,False
+papaya_khar,Salt,-1.0,to taste,False
+avial,Turmeric Powder,0.5,tsp,False
+avial,Salt,-1.0,to taste,False
+bhindi_masala,Cumin Seeds,1.0,tsp,False
+aloo_tikki_chaat,Salt,-1.0,to taste,False
+bhel_puri,Salt,-1.0,to taste,False
+bhel_puri,Garlic,4.0,cloves,False
+bhel_puri,Coriander Leaves,-1.0,for garnish,False
+chole_bhature,Ginger-Garlic Paste,1.0,tsp,False
+chole_bhature,Salt,-1.0,to taste,False
+dahi_vada,Cumin Seeds,1.0,tsp,False
+dahi_vada,Salt,-1.0,to taste,False
+misal_pav,Cumin Seeds,1.0,tsp,False
+misal_pav,Coriander Leaves,-1.0,for garnish,False
+misal_pav,Ginger-Garlic Paste,1.0,tbsp,False
+misal_pav,Turmeric Powder,0.5,tsp,False
+misal_pav,Salt,-1.0,to taste,False
+veg_momos,Salt,-1.0,to taste,False
+chicken_momos,Salt,-1.0,to taste,False
+mixed_veg_pakora,Green Chilies,-1.0,to taste,False
+mixed_veg_pakora,Ginger,1.0,inch piece,False
+mixed_veg_pakora,Salt,-1.0,to taste,False
+golgappa,Green Chilies,-1.0,to taste,False
+golgappa,Ginger,1.0,inch piece,False
+golgappa,Cumin Seeds,1.0,tsp,False
+golgappa,Salt,-1.0,to taste,False
+pav_bhaji,Coriander Leaves,-1.0,for garnish,False
+pav_bhaji,Ginger-Garlic Paste,1.0,tsp,False
+pav_bhaji,Lemon Juice,1.0,tbsp,False
+pav_bhaji,Salt,-1.0,to taste,False
+kanda_poha,Cumin Seeds,1.0,tsp,False
+kanda_poha,Coriander Leaves,-1.0,for garnish,False
+kanda_poha,Asafoetida (Hing),0.25,tsp,False
+kanda_poha,Lemon Juice,1.0,tbsp,False
+kanda_poha,Salt,-1.0,to taste,False
+indori_poha,Turmeric Powder,0.5,tsp,False
+indori_poha,Cooking Oil,2.0,tbsp,False
+indori_poha,Salt,-1.0,to taste,False
+indori_poha,Lemon Juice,1.0,tbsp,False
+samosa,Green Chilies,-1.0,to taste,False
+samosa,Ginger,1.0,inch piece,False
+samosa,Salt,-1.0,to taste,False
+vada_pav,Asafoetida (Hing),0.25,tsp,False
+vada_pav,Turmeric Powder,0.5,tsp,False
+vada_pav,Salt,-1.0,to taste,False
+gundruk_soup,Salt,-1.0,to taste,False
+gundruk_soup,Coriander Leaves,-1.0,for garnish,False
