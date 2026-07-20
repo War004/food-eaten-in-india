@@ -1,28 +1,37 @@
 import csv
-import re
 
 def update_statistics():
-    # 1. Load data from CSVs
+    # 1. Load data from CSVs using 'utf-8-sig' to prevent BOM KeyError crashes
     recipes = []
-    with open('recipes.csv', mode='r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            recipes.append(row)
+    try:
+        with open('recipes.csv', mode='r', encoding='utf-8-sig') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                recipes.append(row)
+    except FileNotFoundError:
+        print("Error: recipes.csv not found.")
+        return
 
     regions = []
-    with open('regions.csv', mode='r', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            regions.append(row)
+    try:
+        with open('regions.csv', mode='r', encoding='utf-8-sig') as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                regions.append(row)
+    except FileNotFoundError:
+        print("Error: regions.csv not found.")
+        return
 
-    # 2. Extract metrics
-    recipe_ids = {r['Recipe Id'] for r in recipes}
+    # 2. Extract metrics with defensive dictionary lookups (.get)
+    recipe_ids = {r['Recipe Id'] for r in recipes if r.get('Recipe Id')}
     total_recipes = len(recipe_ids)
 
-    veg_count = sum(1 for r in recipes if r['Is Non Veg'].strip().upper() == 'FALSE')
-    non_veg_count = sum(1 for r in recipes if r['Is Non Veg'].strip().upper() == 'TRUE')
+    # Clean checks for vegetarian and non-vegetarian classifications
+    veg_count = sum(1 for r in recipes if r.get('Is Non Veg', '').strip().upper() == 'FALSE')
+    non_veg_count = sum(1 for r in recipes if r.get('Is Non Veg', '').strip().upper() == 'TRUE')
 
-    popular_ids = {r['Recipe Id'] for r in regions if r['Region Code'] == 'popular'}
+    # Calculate mainstream vs regional splits
+    popular_ids = {r['Recipe Id'] for r in regions if r.get('Region Code') == 'popular'}
     popular_count = len(recipe_ids.intersection(popular_ids))
     regional_count = total_recipes - popular_count
 
@@ -47,15 +56,19 @@ def update_statistics():
     # 4. Generate the Markdown table rows
     table_rows = []
     for g in region_groups:
-        matched_ids = {r['Recipe Id'] for r in regions if r['Region Code'] in g['codes']}
+        matched_ids = {r['Recipe Id'] for r in regions if r.get('Recipe Id') and r.get('Region Code') in g['codes']}
         unique_count = len(recipe_ids.intersection(matched_ids))
         table_rows.append(f"| {g['label']} | {g['desc']} | {unique_count} | {g['examples']} |")
 
     regional_table = "\n".join(table_rows)
 
     # 5. Read existing README.md
-    with open('README.md', 'r', encoding='utf-8') as f:
-        readme_text = f.read()
+    try:
+        with open('README.md', 'r', encoding='utf-8') as f:
+            readme_text = f.read()
+    except FileNotFoundError:
+        print("Error: README.md not found.")
+        return
 
     # 6. Construct the new stats block
     stats_replacement = f"""### Key Statistics
@@ -73,9 +86,17 @@ Recipes are mapped to specific regional codes (states, territories, or classific
 |:---|:---|:---:|:---|
 {regional_table}"""
 
-    # 7. Apply Regex sub to replace old block with new block
-    pattern = re.compile(r"(<!-- STATS_START -->).*?(<!-- STATS_END -->)", re.DOTALL)
-    new_readme_text = pattern.sub(f"\\1\n{stats_replacement}\n\\2", readme_text)
+    # 7. Apply string splitting instead of regex to prevent backslash-escape parsing issues
+    start_marker = "<!-- STATS_START -->"
+    end_marker = "<!-- STATS_END -->"
+
+    if start_marker in readme_text and end_marker in readme_text:
+        before, after_start = readme_text.split(start_marker, 1)
+        _, after_end = after_start.split(end_marker, 1)
+        new_readme_text = f"{before}{start_marker}\n{stats_replacement}\n{end_marker}{after_end}"
+    else:
+        print("Error: Markers not found in README.md")
+        return
 
     # 8. Write modified text back to README.md
     with open('README.md', 'w', encoding='utf-8') as f:
